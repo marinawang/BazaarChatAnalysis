@@ -1,0 +1,26 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+1,presence,BazaarAgent,128.2.220.133:38098,\N,2016-06-08 21:23:50,mturkno722683,join
+7,presence,Quanny,73.106.75.37:35727,19,2016-06-08 21:23:51,mturkno722683,join
+9,presence,j00jy,71.203.40.218:60587,28,2016-06-08 21:23:56,mturkno722683,join
+11,text,BazaarAgent,128.2.220.133:38098,\N,2016-06-08 21:24:00,mturkno722683,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+15,presence,Xtine,174.100.250.39:61638,34,2016-06-08 21:24:15,mturkno722683,join
+25,text,Quanny,73.106.75.37:35727,19,2016-06-08 21:26:05,mturkno722683,I&#39; m leaning more toward plan 2
+28,text,j00jy,71.203.40.218:60587,28,2016-06-08 21:26:49,mturkno722683,I also like plan 2. The only thing holding me back is the cost. Plan 1 is the only one the city can actually afford. 
+41,text,Xtine,174.100.250.39:61638,34,2016-06-08 21:28:03,mturkno722683,I agree with Plan 2. It is the 2nd cheapest and only has 20% coal
+44,text,Quanny,73.106.75.37:35727,19,2016-06-08 21:28:12,mturkno722683,but if their  main energery source is renewable they get a tax credit of $1&#x2F;MWh
+50,text,Xtine,174.100.250.39:61638,34,2016-06-08 21:28:33,mturkno722683,Maybe we could apply for grants to help defray the startup
+55,text,j00jy,71.203.40.218:60587,28,2016-06-08 21:29:04,mturkno722683,I think plan 2 is the best choice because it meets most of their requirements and is not as harmful to the environment as the other 3 plans. 
+100,text,Xtine,174.100.250.39:61638,34,2016-06-08 21:33:20,mturkno722683,Hey that looks pretty good!
+110,text,BazaarAgent,128.2.220.133:38098,\N,2016-06-08 21:34:24,mturkno722683,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+138,text,j00jy,71.203.40.218:60587,28,2016-06-08 21:36:39,mturkno722683,Not bad.
+140,text,Quanny,73.106.75.37:35727,19,2016-06-08 21:36:44,mturkno722683,Their could be damage cause with plan one that can cause law suites. The prices of the unknowns are just too high
+141,text,Xtine,174.100.250.39:61638,34,2016-06-08 21:36:50,mturkno722683,"Nice work everyone, this has been a great and wonderful project"
+143,text,Xtine,174.100.250.39:61638,34,2016-06-08 21:37:18,mturkno722683,"We need t staart somewhere and this is a first step, I suppose"
+147,text,Quanny,73.106.75.37:35727,19,2016-06-08 21:37:36,mturkno722683,You guys may want to add your comments in etherpad no matter how small you think they are
+156,text,Xtine,174.100.250.39:61638,34,2016-06-08 21:38:28,mturkno722683,thanks and have a great night
+157,presence,j00jy,71.203.40.218:60587,28,2016-06-08 21:38:29,mturkno722683,leave
+162,presence,Quanny,73.106.75.37:35727,19,2016-06-08 21:38:40,mturkno722683,leave
+170,presence,Xtine,174.100.250.39:61638,34,2016-06-08 21:39:21,mturkno722683,leave
+181,presence,BazaarAgent,128.2.220.133:38098,\N,2016-06-08 21:40:39,mturkno722683,leave
+184,presence,Tosha428,67.87.132.238:53148,25,2016-06-08 21:44:17,mturkno722683,join
+185,presence,Tosha428,67.87.132.238:53148,25,2016-06-08 22:03:59,mturkno722683,leave

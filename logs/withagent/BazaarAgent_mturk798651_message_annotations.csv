@@ -1,0 +1,29 @@
+2016-06-03,21:23:40,0,BazaarAgent,1465003421534,"Welcome, kzin
+",INTRODUCTION
+2016-06-03,21:23:44,0,BazaarAgent,1465003425603,"Welcome, Allen
+",INTRODUCTION
+2016-06-03,21:23:46,0,BazaarAgent,1465003427606,"Welcome, Ilaena
+",INTRODUCTION
+2016-06-03,21:23:50,0,BazaarAgent,1465003431610,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-03,21:24:09,0,BazaarAgent,1465003451618,"Welcome, Matt
+",INTRODUCTION
+2016-06-03,21:25:13,0,Ilaena,1465003517859,"Plan 2 may cost more than Plan 1, but it focuses on the city's desire to use renewable energy resources.",PLAN+GIVING_OPINION+PLAN2+PLAN1+pos
+2016-06-03,21:25:29,0,kzin,1465003530557, I would argue against three as too reliant on nuclear,NEGATIVE+neg
+2016-06-03,21:26:01,0,Matt,1465003562361,"I agree with plan 2, it is more costly but it achieves what we want.",PLAN+GIVING_OPINION+GIVING_ORIENTATION+AGREE+QUESTION+PLAN2+pos
+2016-06-03,21:26:03,0,Ilaena,1465003563769,"I agree, I think 3 is too reliant on nuclear and 1 is too reliant on coal. I feel 2 and 4 are our best options, but 2 has the much lower startup costs.",GIVING_OPINION+GIVING_ORIENTATION+AGREE+pos
+2016-06-03,21:26:06,0,kzin,1465003567375,I think it comes down to 2 or 4,GIVING_OPINION+neg
+2016-06-03,21:26:30,0,kzin,1465003590664,there is less than a 10% difference,neg
+2016-06-03,21:26:53,0,Allen,1465003614196,Plan 1  just uses too much coal and the city is concerned about the environmental impact. Plan 2 seems like the reasonable option that uses all sources in case one fails.,PLAN2+AUDIO_SOURCE+PLAN1+POSITIVITY+NEGATIVE+EXPLANATION_CONTRIBUTION+PLAN+pos+TEASING
+2016-06-03,21:26:57,0,Ilaena,1465003617850,In that amount of money 10% can be significant. ,neg
+2016-06-03,21:27:19,0,Matt,1465003640332,I think plan 2 is the best bet,PLAN+GIVING_OPINION+PLAN2+neg
+2016-06-03,21:27:38,0,kzin,1465003659087,i can go along with either 2 or 4,neg
+2016-06-03,21:28:34,0,Ilaena,1465003715574,I think 2 will help alleviate the concern for water pollution as well.,CONFUSION+GIVING_OPINION+HELP_REQUEST+HELP+PREDICTION_CONTRIBUTION+neg
+2016-06-03,21:30:58,0,Ilaena,1465003858734,"My main concern is that it doesn't meet their budget, but 3 and 4 definitely don't either. My hope is that they can either grow into the needed budget, or possibly find a way to make it work. The only plan that meets their budget isn't environmentally friendly, so isn't worth it in other areas.",GIVING_OPINION+HELP_REQUEST+pos
+2016-06-03,21:31:37,0,Matt,1465003898372,Plan 2 is better than plan 4 concerning finances. ,PLAN+GIVING_ORIENTATION+PLAN4+PLAN2+pos
+2016-06-03,21:32:07,0,Allen,1465003928360,"I know solar isn't an option, but that can always be added later to replace coal and receive additional tax credits which would help with finances  :)",SMILES+CONFUSION+GIVING_OPINION+HELP_REQUEST+HELP+pos
+2016-06-03,21:32:18,0,Ilaena,1465003938653,That's an awesome idea Allen.,POSITIVITY+PREDICTION_CONTRIBUTION+neg
+2016-06-03,21:34:15,0,BazaarAgent,1465004055851,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-03,21:36:21,0,Ilaena,1465004182504,I believe our current proposal pretty much addresses the guidelines listed.,GIVING_OPINION+neg
+2016-06-03,21:36:31,0,Allen,1465004191981,Looks great,neg
+2016-06-03,21:36:54,0,Matt,1465004214984,Yes it does,AFFIRMATIVE+neg
+2016-06-03,21:37:10,0,Ilaena,1465004230676,Thanks! ,neg

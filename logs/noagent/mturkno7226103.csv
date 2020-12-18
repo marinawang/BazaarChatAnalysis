@@ -1,0 +1,41 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+1,presence,BazaarAgent,128.2.220.133:39337,\N,2016-06-10 21:23:18,mturkno7226103,join
+6,presence,dee,70.189.201.85:49877,22,2016-06-10 21:23:18,mturkno7226103,join
+11,presence,JD,208.107.104.254:36063,16,2016-06-10 21:23:18,mturkno7226103,join
+12,presence,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:23:19,mturkno7226103,join
+13,presence,dee,70.189.201.85:49836,22,2016-06-10 21:23:19,mturkno7226103,join
+18,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:23:27,mturkno7226103,Hello?
+20,text,BazaarAgent,128.2.220.133:39337,\N,2016-06-10 21:23:28,mturkno7226103,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+27,text,dee,70.189.201.85:49836,22,2016-06-10 21:23:47,mturkno7226103,hi 
+28,text,JD,208.107.104.254:36063,16,2016-06-10 21:23:50,mturkno7226103,hi
+30,text,dee,70.189.201.85:49836,22,2016-06-10 21:24:07,mturkno7226103,so my two picks of energy source would be wind or hydro energy 
+32,text,JD,208.107.104.254:36063,16,2016-06-10 21:24:30,mturkno7226103,My two picks of energy source are wind and hyrdo.
+34,text,dee,70.189.201.85:49836,22,2016-06-10 21:24:52,mturkno7226103,i recommend plan 2 because it fits there budget?
+35,text,dee,70.189.201.85:49836,22,2016-06-10 21:24:56,mturkno7226103,anyone agree?
+38,text,JD,208.107.104.254:36063,16,2016-06-10 21:25:02,mturkno7226103,I picked plan 2 as well.
+40,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:25:19,mturkno7226103,"Plan2 doesn&#39;t fit the budget, it goes over, right?"
+42,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:25:28,mturkno7226103,$921mil?
+46,text,dee,70.189.201.85:49836,22,2016-06-10 21:25:51,mturkno7226103,yes just little over 
+49,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:26:11,mturkno7226103,Let&#39;s talk about that in the proposal.
+52,text,JD,208.107.104.254:36063,16,2016-06-10 21:26:16,mturkno7226103,Looking it over and yes it is slightly over.
+57,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:26:41,mturkno7226103,"Actually, no, I can&#39;t agree with that."
+59,text,dee,70.189.201.85:49836,22,2016-06-10 21:26:49,mturkno7226103,okay so what do you propose?
+61,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:26:52,mturkno7226103,"We ought to go with Plan 1, the budget is tight."
+65,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:27:15,mturkno7226103,"21mil. is just way too expensive for the city to eat, in my opinion."
+66,text,JD,208.107.104.254:36063,16,2016-06-10 21:27:16,mturkno7226103,The waste disposal is not good.
+67,text,dee,70.189.201.85:49836,22,2016-06-10 21:27:24,mturkno7226103,i agree
+69,text,dee,70.189.201.85:49836,22,2016-06-10 21:27:34,mturkno7226103,10 minutes to write proposal
+70,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:27:37,mturkno7226103,"It isn&#39;t, it&#39;s a serious trade off."
+72,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:27:44,mturkno7226103,"Alright, let&#39;s take a vote."
+73,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:27:55,mturkno7226103,Type either Plan 1 or Plan 2 in chat.
+74,text,JD,208.107.104.254:36063,16,2016-06-10 21:27:59,mturkno7226103,Plan 2
+75,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:28:00,mturkno7226103,Plan 1
+76,text,dee,70.189.201.85:49836,22,2016-06-10 21:28:03,mturkno7226103,plan 2 
+78,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:28:31,mturkno7226103,"That settles it, it&#39;s plan 2."
+124,text,BazaarAgent,128.2.220.133:39337,\N,2016-06-10 21:33:52,mturkno7226103,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+137,text,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:36:56,mturkno7226103,"Alright, good job all."
+147,text,dee,70.189.201.85:49836,22,2016-06-10 21:37:37,mturkno7226103,good job animal collectivism 
+148,presence,Animalcollectivism,73.251.19.55:57009,11,2016-06-10 21:37:42,mturkno7226103,leave
+149,presence,JD,208.107.104.254:36063,16,2016-06-10 21:37:44,mturkno7226103,leave
+154,presence,dee,70.189.201.85:49836,22,2016-06-10 21:38:01,mturkno7226103,leave
+164,presence,BazaarAgent,128.2.220.133:39337,\N,2016-06-10 21:40:06,mturkno7226103,leave

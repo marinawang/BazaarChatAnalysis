@@ -1,0 +1,73 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+3,presence,BazaarAgent,128.2.220.133:38102,\N,2016-06-08 21:23:50,mturkno722681,join
+6,presence,Ang,72.192.90.21:61941,8,2016-06-08 21:23:51,mturkno722681,join
+10,text,BazaarAgent,128.2.220.133:38102,\N,2016-06-08 21:24:00,mturkno722681,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+13,presence,Aleesh,24.205.43.111:51836,13,2016-06-08 21:24:05,mturkno722681,join
+14,presence,Hannah,173.74.182.189:62831,7,2016-06-08 21:24:08,mturkno722681,join
+17,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:25:07,mturkno722681,Hi everyone
+20,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:25:27,mturkno722681,Hello
+21,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:25:31,mturkno722681,Which plans do you guys think is the best solution? I&#39;m personally going with Plan 4.
+22,text,Ang,72.192.90.21:61941,8,2016-06-08 21:25:44,mturkno722681,I say plan 3 myself
+27,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:26:29,mturkno722681,"Reading as we speak lol, will decide in a minute"
+34,text,Ang,72.192.90.21:61941,8,2016-06-08 21:27:31,mturkno722681,"Hannah, what is your thinking behind Plan 4"
+37,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:27:36,mturkno722681,I want to say plan 3...
+40,text,Ang,72.192.90.21:61941,8,2016-06-08 21:27:59,mturkno722681,I was thinking Plan 3 because there is no toxic chemical waste
+45,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:28:18,mturkno722681,I went ahead with plan 4 mainly because of the higher % of nuclear waste
+46,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:28:27,mturkno722681,oops
+49,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:28:32,mturkno722681,i meant lower % lol
+53,text,Ang,72.192.90.21:61941,8,2016-06-08 21:28:58,mturkno722681,dang it i was looking at 2
+58,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:29:11,mturkno722681,"It&#39;s lower than plan 3 by 20%, and I personally think Nuclear energy is more dangerous&#x2F;less eco friendly"
+63,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:29:45,mturkno722681,So you chose plan 2 then Ang?
+64,text,Ang,72.192.90.21:61941,8,2016-06-08 21:29:46,mturkno722681,ok based on just the toxic waste part that would take out number 1 and 3.... and leave 2 and 4
+67,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:30:02,mturkno722681,"If we go with plan 4 I feel like we will have more trade offs which is water pollution, the fish and bird habitat, and the reduction of greenhouse gases"
+71,text,Ang,72.192.90.21:61941,8,2016-06-08 21:30:17,mturkno722681,based on 2 and 4 I am thinking 4 only because it is a trade off from wind to hydro
+77,text,Ang,72.192.90.21:61941,8,2016-06-08 21:30:48,mturkno722681,"they are worried about birds and not fish, so we would be ok with hydro"
+79,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:31:05,mturkno722681,"I think plan 4 will risk damaging water sources, but it wouldn&#39;t be nearly as harmful to the bird population due to the lower amount of wind farms"
+80,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:31:14,mturkno722681,"Yeah, that&#39;s why I thought hydro would be best"
+81,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:31:20,mturkno722681,"Oh my bad, I thought i saw fish "
+84,text,Ang,72.192.90.21:61941,8,2016-06-08 21:31:45,mturkno722681,"no they clearly have no fish, just popular birds"
+89,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:32:13,mturkno722681,"Yeah so if we go with 4, we will need to trade off the water pollution and greenhouse gas"
+90,text,Ang,72.192.90.21:61941,8,2016-06-08 21:32:17,mturkno722681,BUT we run into the issue of budget.... so where do we say the extra almost $100k comes from?
+93,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:32:41,mturkno722681,"And wind energy is not as stable, hydro is more stable"
+94,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:32:46,mturkno722681,"Yeah that&#39;s true, going with hydro would mean more cost?"
+95,text,Ang,72.192.90.21:61941,8,2016-06-08 21:32:47,mturkno722681,agreed
+96,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:32:56,mturkno722681,But it fits better with what the city needs
+98,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:33:08,mturkno722681,despite the higher budget
+99,text,Ang,72.192.90.21:61941,8,2016-06-08 21:33:16,mturkno722681,"well, since the hospital is concerned about making sure it is reliable we could suggest that the hospital pick up part of the cost...."
+104,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:34:03,mturkno722681,What percentage do you think they should cover?
+106,text,Ang,72.192.90.21:61941,8,2016-06-08 21:34:04,mturkno722681,or some of the tourist funds go to the energy budget for people coming to see the birds
+107,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:34:20,mturkno722681,I like that idea actually!
+109,text,BazaarAgent,128.2.220.133:38102,\N,2016-06-08 21:34:24,mturkno722681,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+112,text,Ang,72.192.90.21:61941,8,2016-06-08 21:34:38,mturkno722681,maybe push like .1% of the tourist revenue over to the energy sector
+116,text,Ang,72.192.90.21:61941,8,2016-06-08 21:34:58,mturkno722681,"whoever is writting the proposal, feel free. i think we are all on the same page"
+118,text,Ang,72.192.90.21:61941,8,2016-06-08 21:35:01,mturkno722681,i will spit ball ideas
+120,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:35:02,mturkno722681,And then also have hospitals contribute as well
+122,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:35:21,mturkno722681,i think that&#39;s a good idea to use the money from the tourists to utilize the budget
+123,text,Ang,72.192.90.21:61941,8,2016-06-08 21:35:29,mturkno722681,"exactly, so that the upkeep and maintenance can occur as well as put it into &quot;clean up&quot; initiatives to keep the water clean"
+125,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:35:33,mturkno722681,Would you mind writing it? It seems you both are much better at this than I am haha :)
+128,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:36:03,mturkno722681,"But I do agree with your ideas, I think tourists and hospital funds would benefit the budgeting issue that we&#39;d run into if we go with hydro"
+133,text,Ang,72.192.90.21:61941,8,2016-06-08 21:36:22,mturkno722681,"this option gives us no toxic waste, so we arent harming the popular tourist item"
+137,text,Ang,72.192.90.21:61941,8,2016-06-08 21:36:35,mturkno722681,water is more reliable than wind 
+139,text,Ang,72.192.90.21:61941,8,2016-06-08 21:36:43,mturkno722681,will receive an energy tax credit
+145,text,Ang,72.192.90.21:61941,8,2016-06-08 21:37:24,mturkno722681,Using less of coal and nuclear is better for the emissions of the city as well as safety 
+148,text,Ang,72.192.90.21:61941,8,2016-06-08 21:37:39,mturkno722681,water and wind are easily renewable resources that do not have added cost.
+149,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:37:40,mturkno722681,"Yes, much more eco-friendly "
+150,text,Ang,72.192.90.21:61941,8,2016-06-08 21:38:09,mturkno722681,High five us!
+151,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:38:15,mturkno722681,Yay!
+152,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:38:16,mturkno722681,:)
+155,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:38:27,mturkno722681,thanks you guys
+160,text,Hannah,173.74.182.189:62831,7,2016-06-08 21:38:38,mturkno722681,:) Take care!
+164,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:38:44,mturkno722681,thanks guys
+168,text,Ang,72.192.90.21:61941,8,2016-06-08 21:39:09,mturkno722681,"although the cost is higher, some can be offset by propsing a % of the tourist tax go to cover part of the cost and possibly the hospital as well"
+169,presence,Hannah,173.74.182.189:62831,7,2016-06-08 21:39:09,mturkno722681,leave
+172,text,Ang,72.192.90.21:61941,8,2016-06-08 21:39:42,mturkno722681,keeping the area better for the citizens and keeping the tourist set up in tact by protecting the animals
+173,text,Ang,72.192.90.21:61941,8,2016-06-08 21:39:51,mturkno722681,as well the city does not have to deal with toxic waste
+174,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:40:22,mturkno722681,is that good?
+175,text,Ang,72.192.90.21:61941,8,2016-06-08 21:40:24,mturkno722681,alright good deal
+176,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:40:25,mturkno722681,good enough? lol
+177,text,Ang,72.192.90.21:61941,8,2016-06-08 21:40:28,mturkno722681,Yes ma&#39;am
+178,text,Ang,72.192.90.21:61941,8,2016-06-08 21:40:31,mturkno722681,click next
+179,text,Aleesh,24.205.43.111:51836,13,2016-06-08 21:40:33,mturkno722681,"Ok cool, hope so!"
+180,presence,Ang,72.192.90.21:61941,8,2016-06-08 21:40:37,mturkno722681,leave
+182,presence,BazaarAgent,128.2.220.133:38102,\N,2016-06-08 21:40:39,mturkno722681,leave
+183,presence,Aleesh,24.205.43.111:51836,13,2016-06-08 21:40:44,mturkno722681,leave

@@ -1,0 +1,46 @@
+2016-06-06,21:23:55,0,BazaarAgent,1465262636662,"Welcome, Goose
+",INTRODUCTION
+2016-06-06,21:24:05,0,BazaarAgent,1465262646697,"Welcome, Garith
+",INTRODUCTION
+2016-06-06,21:24:05,0,BazaarAgent,1465262648701,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-06,21:24:42,0,Goose,1465262684049,Hello,neg
+2016-06-06,21:27:40,0,Goose,1465262863039,Do we start the discussion now or wait?,QUESTION+neg
+2016-06-06,21:29:32,0,BazaarAgent,1465262972944,"Welcome, Elle
+",INTRODUCTION
+2016-06-06,21:29:44,0,Goose,1465262984150,hi elle,neg
+2016-06-06,21:29:45,0,Garith,1465262985457,Hello,neg
+2016-06-06,21:29:55,0,Elle,1465262995648,Hi!,neg
+2016-06-06,21:30:30,0,Garith,1465263030878,definitely a different exercise from the last one.,neg
+2016-06-06,21:31:03,0,Elle,1465263064604,"What is everyone thinking?  It looks like only one option is under budget, yet it is not viable because of the waste associated with coal.  I like plan 2, but there were some issues raised about migratory patterns of birds being affected by the wind energy.  Thoughts?",PLAN+POSITIVITY+GIVING_OPINION+HELP_REQUEST+QUESTION+PLAN2+pos
+2016-06-06,21:31:21,0,Garith,1465263081401,I'm leaning towards 2,neg
+2016-06-06,21:31:39,0,Garith,1465263101265,honestly wind is a very low killer of birds when you look at the statistics,POSITIVITY+pos
+2016-06-06,21:31:49,0,Garith,1465263110938,and there are several steps you can take to reduce fatalities,WF+neg
+2016-06-06,21:32:35,0,Elle,1465263156183,"That's what I think as well.  To me, nuclear is too dangerous to be the primary source.  Hydro appears to be too costly.",GIVING_OPINION+AUDIO_SOURCE+QUESTION+PREDICTION_CONTRIBUTION+pos
+2016-06-06,21:32:41,0,Garith,1465263162109,"my only reservation before was wind's not good without a good energy storage method for a base power supply, but a multi faceted approach leaves room for a base power supply",POSITIVITY+GIVING_OPINION+pos
+2016-06-06,21:32:57,0,BazaarAgent,1465263179018,"Welcome, FalloutBuddy
+",INTRODUCTION
+2016-06-06,21:33:16,0,Garith,1465263198633,"I think nuclear's quite safe, but it depends on the nuclear, I think most when they talk about this refer to traditional uranium light water reactors.",GIVING_OPINION+pos
+2016-06-06,21:33:44,0,Garith,1465263225582,otherwise I'd be all aboard for thorium or lockheed's fusion reactors,pos
+2016-06-06,21:33:45,0,BazaarAgent,1465263227050,"Welcome, Goose
+",INTRODUCTION
+2016-06-06,21:33:55,0,FalloutBuddy,1465263236023,"Hello all. I just got in. All for wind energy press 1 all for others press 0. please, thanks.",POSITIVITY+HELP_REQUEST+neg
+2016-06-06,21:34:02,0,FalloutBuddy,1465263242702,1,neg
+2016-06-06,21:34:03,0,FalloutBuddy,1465263243874,1,neg
+2016-06-06,21:34:17,0,Elle,1465263257359,1,neg
+2016-06-06,21:34:20,0,Garith,1465263260636,1,neg
+2016-06-06,21:34:21,0,Goose,1465263261710,1,neg
+2016-06-06,21:34:30,0,BazaarAgent,1465263271060,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-06,21:34:42,0,FalloutBuddy,1465263284231,"Thats what I figured, i believe that wind energy is the best option for this city.",POSITIVITY+GIVING_OPINION+QUESTION+PREDICTION_CONTRIBUTION+pos
+2016-06-06,21:34:53,0,Garith,1465263293734,only reservation is if the cost is a hard cap or not,pos
+2016-06-06,21:34:58,0,Garith,1465263298346,if it is then there is no real options,GIVING_OPINION+neg
+2016-06-06,21:35:06,0,Garith,1465263306987,otherwise wind looks like the best fit.,POSITIVITY+GIVING_OPINION+neg
+2016-06-06,21:35:38,0,FalloutBuddy,1465263338624,I agree with you. Does anyone believe that wind energy will harm fish and birds? ,POSITIVITY+GIVING_ORIENTATION+AGREE+QUESTION+NEGATIVE+pos
+2016-06-06,21:36:14,0,Garith,1465263375392,"birds yes, but it's very minor in comparison to other threats like windows ",POSITIVITY+GIVING_OPINION+AFFIRMATIVE+pos
+2016-06-06,21:36:24,0,Garith,1465263385319,and there are several mitigation strategies you can take,neg
+2016-06-06,21:37:15,0,FalloutBuddy,1465263436077,This is a green energy with plenty of resources and is very affordable with dropped  over the last 3 decades.,pos
+2016-06-06,21:38:24,0,FalloutBuddy,1465263505268,I will go with propsal 2,neg
+2016-06-06,21:38:53,0,Garith,1465263533213,I think most would,GIVING_OPINION+neg
+2016-06-06,21:38:53,0,FalloutBuddy,1465263533730,This is the most ideal option for this  city.,GIVING_OPINION+pos
+2016-06-06,21:39:09,0,Garith,1465263550231,apparently most would given the data and other factors.,pos
+2016-06-06,21:39:13,0,Garith,1465263553526,and apparently I dced,neg
+2016-06-06,21:39:21,0,Goose,1465263562016,Bird migration is the only bad thing i can think of. I dc'd,pos

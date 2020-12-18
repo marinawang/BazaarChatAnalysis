@@ -1,0 +1,50 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+2,presence,BazaarAgent,128.2.220.133:39341,\N,2016-06-10 21:23:18,mturkno7226107,join
+5,presence,pelican,68.204.68.130:58817,45,2016-06-10 21:23:18,mturkno7226107,join
+7,presence,Yooper,71.120.228.30:57969,54,2016-06-10 21:23:18,mturkno7226107,join
+14,presence,Helen,162.228.105.60:49597,35,2016-06-10 21:23:19,mturkno7226107,join
+22,text,BazaarAgent,128.2.220.133:39341,\N,2016-06-10 21:23:28,mturkno7226107,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+31,text,Yooper,71.120.228.30:57969,54,2016-06-10 21:24:30,mturkno7226107,I believe Plan 2 would be the best plan to implement
+33,text,Helen,162.228.105.60:49597,35,2016-06-10 21:24:42,mturkno7226107,I think Plan 2 is best as well
+37,text,Yooper,71.120.228.30:57969,54,2016-06-10 21:25:01,mturkno7226107,pelican? what is your opinion?
+39,text,Helen,162.228.105.60:49597,35,2016-06-10 21:25:11,mturkno7226107,While out of the budget it is renewable and will save money in the long rung with no greenhouse gases and waste costs
+44,text,Helen,162.228.105.60:49597,35,2016-06-10 21:25:40,mturkno7226107,Pelican? 
+53,text,Yooper,71.120.228.30:57969,54,2016-06-10 21:26:24,mturkno7226107,I agree. Only option to stay under budget would require too much dependance on coal which would be bad environmentally
+55,text,pelican,68.204.68.130:58817,45,2016-06-10 21:26:27,mturkno7226107,I&#39;m here. I also think plan 2. 
+60,text,pelican,68.204.68.130:58817,45,2016-06-10 21:26:50,mturkno7226107," It isn&#39;t exactly the plan I proposed, but with 60 percent renewable energy, it is a good plan."
+62,text,Helen,162.228.105.60:49597,35,2016-06-10 21:26:59,mturkno7226107,Yeah and they want to be green plus the wind mills don&#39;t require much maintenance 
+92,text,Helen,162.228.105.60:49597,35,2016-06-10 21:30:29,mturkno7226107,are we missing anything? 
+94,text,pelican,68.204.68.130:58817,45,2016-06-10 21:30:38,mturkno7226107,"I was leaning more towards hydro power, but with Plan 2 there is a good balance. If there should be a drought, the other resources will cover for the loss of water resource."
+96,presence,moosh,24.236.196.25:63527,40,2016-06-10 21:30:53,mturkno7226107,join
+98,text,Helen,162.228.105.60:49597,35,2016-06-10 21:31:09,mturkno7226107,I was leaning towards water as well but considering the cost I believe wind is best in this case
+99,text,Helen,162.228.105.60:49597,35,2016-06-10 21:31:21,mturkno7226107,welcome moosh
+100,text,pelican,68.204.68.130:58817,45,2016-06-10 21:31:33,mturkno7226107,Have we done everything needed to finish this?
+101,text,Helen,162.228.105.60:49597,35,2016-06-10 21:31:40,mturkno7226107,I believe so 
+102,text,Helen,162.228.105.60:49597,35,2016-06-10 21:31:46,mturkno7226107,If you guys like it I&#39;m good
+105,text,Yooper,71.120.228.30:57969,54,2016-06-10 21:32:08,mturkno7226107,I&#39;m good... just double checking to see if we can beef it up a bit
+106,text,pelican,68.204.68.130:58817,45,2016-06-10 21:32:15,mturkno7226107,It says to write the proposal on the Etherpad. Do we need to write a formal proposal?
+108,text,Helen,162.228.105.60:49597,35,2016-06-10 21:32:34,mturkno7226107,I think it just wants us to do what the questions ask 
+112,text,Helen,162.228.105.60:49597,35,2016-06-10 21:32:53,mturkno7226107,cause at the top it says it&#39;s our proposal
+120,text,BazaarAgent,128.2.220.133:39341,\N,2016-06-10 21:33:51,mturkno7226107,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+125,text,Yooper,71.120.228.30:57969,54,2016-06-10 21:33:53,mturkno7226107,any other tradeoffs?
+128,text,Helen,162.228.105.60:49597,35,2016-06-10 21:34:20,mturkno7226107,I&#39;m not sure
+130,text,Helen,162.228.105.60:49597,35,2016-06-10 21:34:29,mturkno7226107,If I missed anything feel free to add 
+131,text,pelican,68.204.68.130:58817,45,2016-06-10 21:35:59,mturkno7226107,"I can&#39;t type into the trade off area. Trade off some green house affect from the coal, but most is renewable so it is a very small footprint."
+133,text,Helen,162.228.105.60:49597,35,2016-06-10 21:36:46,mturkno7226107,good?
+134,text,pelican,68.204.68.130:58817,45,2016-06-10 21:36:51,mturkno7226107,Yes.
+135,text,Helen,162.228.105.60:49597,35,2016-06-10 21:36:55,mturkno7226107,yay1
+136,text,moosh,24.236.196.25:63527,40,2016-06-10 21:36:56,mturkno7226107,good
+138,text,Helen,162.228.105.60:49597,35,2016-06-10 21:36:57,mturkno7226107,*!
+139,text,Yooper,71.120.228.30:57969,54,2016-06-10 21:37:00,mturkno7226107,think we good!
+140,text,Helen,162.228.105.60:49597,35,2016-06-10 21:37:07,mturkno7226107,"I&#39;m happy with it, gg"
+141,text,pelican,68.204.68.130:58817,45,2016-06-10 21:37:11,mturkno7226107,Me too.
+142,presence,Helen,162.228.105.60:49597,35,2016-06-10 21:37:32,mturkno7226107,leave
+143,text,pelican,68.204.68.130:58817,45,2016-06-10 21:37:35,mturkno7226107,Thanks everyone-cross your fingers they approve
+144,presence,Yooper,71.120.228.30:57969,54,2016-06-10 21:37:35,mturkno7226107,leave
+145,presence,Yooper,71.120.228.30:58801,54,2016-06-10 21:37:36,mturkno7226107,leave
+146,presence,Yooper,undefined:undefined,54,2016-06-10 21:37:36,mturkno7226107,join
+152,presence,pelican,68.204.68.130:58817,45,2016-06-10 21:37:49,mturkno7226107,leave
+160,presence,BazaarAgent,128.2.220.133:39341,\N,2016-06-10 21:39:07,mturkno7226107,leave
+168,presence,moosh,24.236.196.25:63527,40,2016-06-10 22:00:09,mturkno7226107,leave
+169,presence,moosh,24.236.196.25:52491,40,2016-06-10 22:00:11,mturkno7226107,leave
+170,presence,moosh,undefined:undefined,40,2016-06-10 22:00:11,mturkno7226107,join

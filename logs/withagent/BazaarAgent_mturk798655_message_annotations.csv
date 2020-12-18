@@ -1,0 +1,53 @@
+2016-06-03,21:23:40,0,BazaarAgent,1465003421547,"Welcome, squid
+",INTRODUCTION
+2016-06-03,21:23:41,0,BazaarAgent,1465003423593,"Welcome, Brett
+",INTRODUCTION
+2016-06-03,21:23:40,0,BazaarAgent,1465003425597,"Welcome, Dee
+",INTRODUCTION
+2016-06-03,21:23:50,0,BazaarAgent,1465003431601,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-03,21:24:46,0,squid,1465003489578,So it seems like only option A actually fits the budget and they say it's a strict requirement,POSITIVITY+pos
+2016-06-03,21:25:20,0,BazaarAgent,1465003521648,"Welcome, dsharp
+",INTRODUCTION
+2016-06-03,21:25:55,0,squid,1465003555233,Y'all here?,QUESTION+neg
+2016-06-03,21:26:02,0,dsharp,1465003562831,Sup bros,neg
+2016-06-03,21:26:18,0,squid,1465003578410,Not much,neg
+2016-06-03,21:26:22,0,dsharp,1465003583200,I think we go with 2,GIVING_OPINION+neg
+2016-06-03,21:26:29,0,Brett,1465003591375,"Yeah, they did say that. Plan C is cleaner, but I think you're right.",PLAN+GIVING_OPINION+AFFIRMATIVE+PLAN3+neg
+2016-06-03,21:26:39,0,BazaarAgent,1465003601700,"Hey Brett, can you elaborate on the reason you chose plan 3 from your perspective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-06-03,21:26:49,0,squid,1465003610663,I guess 2 isn't much over the cost so I'm fine with that,GIVING_OPINION+pos
+2016-06-03,21:27:00,0,dsharp,1465003620863,Wind is the way to go,POSITIVITY+pos
+2016-06-03,21:27:22,0,dsharp,1465003644729,we can just move the birds or put the turbnines out of reach,neg
+2016-06-03,21:27:31,0,squid,1465003651628,Lmao out of reach of birds...,SMILES+neg
+2016-06-03,21:27:57,0,dsharp,1465003677388,Why would the birds even go near the turbines,QUESTION+pos
+2016-06-03,21:27:59,0,Brett,1465003680266,"Sure, nuclear is the cheapest per unit of energy out of all of the options as well as long term economically. The main upfront cost I see is building a plant.",GIVING_OPINION+AFFIRMATIVE+pos
+2016-06-03,21:28:01,0,dsharp,1465003681267,theres no trees by them,neg
+2016-06-03,21:28:12,0,squid,1465003693857,Birds gotta be free to do bird things man,neg
+2016-06-03,21:28:20,0,dsharp,1465003700814,But they're not gonna fly that way,GIVING_OPINION+neg
+2016-06-03,21:28:23,0,squid,1465003703584,What if they want to migrate or something?,GIVING_OPINION+QUESTION+neg
+2016-06-03,21:28:24,0,dsharp,1465003704578,It's like spiderman,POSITIVITY+pos
+2016-06-03,21:28:30,0,dsharp,1465003710724,like they need things to stand on,POSITIVITY+HELP_REQUEST+neg
+2016-06-03,21:28:41,0,squid,1465003722358,What if they try to sit on the turbine,QUESTION+neg
+2016-06-03,21:29:29,0,dsharp,1465003770044,They're never gonna make it over there tho,neg
+2016-06-03,21:29:44,0,dsharp,1465003785590,its like TURBINE_______MILES OF FLAT LAND________PEOPLE AND BIRDS,POSITIVITY+pos
+2016-06-03,21:29:59,0,squid,1465003799578,Lol k,SMILES+neg
+2016-06-03,21:30:33,0,dsharp,1465003833908,So we done?,QUESTION+neg
+2016-06-03,21:30:44,0,dsharp,1465003845288,Oh wait we have 10 minutes,neg
+2016-06-03,21:30:55,0,squid,1465003855451,Yeah we can't go on until then,AFFIRMATIVE+neg
+2016-06-03,21:31:07,0,dsharp,1465003867436,hmmm,neg
+2016-06-03,21:31:11,0,dsharp,1465003871422,wheres the agent,neg
+2016-06-03,21:31:20,0,squid,1465003881220,I think it's some random bot,GIVING_OPINION+neg
+2016-06-03,21:31:26,0,squid,1465003886903,Didn't seem very useful at all,neg
+2016-06-03,21:31:27,0,dsharp,1465003887231,Agent are you a bot?,QUESTION+neg
+2016-06-03,21:32:53,0,squid,1465003974110,"Lol what why are we talking about terrorist attacks? Like we have 20% nuclear at least no matter what, so that's not exactly a reason",SMILES+POSITIVITY+QUESTION+pos
+2016-06-03,21:33:05,0,dsharp,1465003986146,But that would work with citizens,GIVING_OPINION+neg
+2016-06-03,21:33:10,0,dsharp,1465003990230,its about propoganda dude,neg
+2016-06-03,21:33:28,0,dsharp,1465004008726,if we told citizens more wind = less terrorist attacks,POSITIVITY+SAY_MORE_CANDIDATE+neg
+2016-06-03,21:33:31,0,dsharp,1465004011313,theyd do wind,POSITIVITY+neg
+2016-06-03,21:33:54,0,Dee,1465004034414,lol true,SMILES+GIVING_ORIENTATION+neg
+2016-06-03,21:34:05,0,squid,1465004045469,"Still don't think it's a great reason but whatever, more words written down",GIVING_OPINION+QUESTION+pos
+2016-06-03,21:34:15,0,BazaarAgent,1465004055857,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-03,21:36:06,0,dsharp,1465004166262,thanks bazaaragent,neg
+2016-06-03,21:36:14,0,dsharp,1465004174808,so hows everyone's night?,QUESTION+neg
+2016-06-03,21:36:20,0,squid,1465004180585,Pretty boring,neg
+2016-06-03,21:36:24,0,squid,1465004185001,Is why I'm on Turk,neg
+2016-06-03,21:38:55,0,dsharp,1465004335748,why did everyone leave,neg

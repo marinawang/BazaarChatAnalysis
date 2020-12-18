@@ -1,0 +1,44 @@
+2016-08-15,13:00:59,0,BazaarAgent,1471280461599,"Welcome, jennifer
+",INTRODUCTION
+2016-08-15,13:01:00,0,BazaarAgent,1471280463621,"Welcome, Greg%60
+",INTRODUCTION
+2016-08-15,13:01:09,0,BazaarAgent,1471280469785,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-08-15,13:01:59,0,jennifer,1471280533173,I like plan 2 because it uses the most wind energy. It also has a high renewable tax credit,PLAN+POSITIVITY+GIVING_OPINION+PLAN2+pos
+2016-08-15,13:02:19,0,JM562,1471280541331,I agree plan 2 has the highest wind energy use and I would prefer that.,PLAN+POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+AGREE+PLAN2+pos
+2016-08-15,13:03:24,0,BazaarAgent,1471280606252,"Welcome, Bobb
+",INTRODUCTION
+2016-08-15,13:03:56,0,Bobb,1471280637136,hi,neg
+2016-08-15,13:04:36,0,Bobb,1471280677575,so we're thinking that plan 2 is the best?,PLAN+GIVING_OPINION+QUESTION+PLAN2+neg
+2016-08-15,13:04:53,0,jennifer,1471280693787,yeah,AFFIRMATIVE+neg
+2016-08-15,13:04:56,0,JM562,1471280696761,yep,AFFIRMATIVE+neg
+2016-08-15,13:05:10,0,Bobb,1471280711087,from what I'm seeing it looks pretty good,POSITIVITY+QUESTION+neg
+2016-08-15,13:05:55,0,Bobb,1471280756229,the only problem is with the bird population,pos
+2016-08-15,13:07:30,0,Bobb,1471280850666,maybe list potential hazard for birds as a trade-off,GIVING_OPINION+GIVING_ORIENTATION+neg
+2016-08-15,13:07:44,0,jennifer,1471280865075,"yeah, who put plan 1 on the ether pad?",PLAN+AFFIRMATIVE+QUESTION+PLAN1+neg
+2016-08-15,13:07:48,0,jennifer,1471280868745,i thought we were going with 2,neg
+2016-08-15,13:07:53,0,Greg%60,1471280873795,plan 1 is the only one that fits the budget,PLAN+PLAN1+pos
+2016-08-15,13:07:53,0,BazaarAgent,1471280875009,"Hey JM562, you have proposed plan 2, and Greg%60 has proposed plan 1. Can you compare the two plans from your perpsective of what would be the most economical ?",plan_reasoning
+2016-08-15,13:08:03,0,Greg%60,1471280885305,the city will go bankrupt using any other one,pos
+2016-08-15,13:08:33,0,Greg%60,1471280914107,"plan 1 is the only one that fits the budget, its like buying a car, ofcourse you want the best but it has to fit your budget ",PLAN+POSITIVITY+GIVING_OPINION+AFFIRMATIVE+PLAN1+pos
+2016-08-15,13:08:55,0,JM562,1471280935435,Plan 1 has a big carbon tax ,PLAN+PLAN1+neg
+2016-08-15,13:09:13,0,Greg%60,1471280955136,"i didnt realize this discussion was on the bottom because it said the right, I put it, so i apologize ",EXPLANATION_CONTRIBUTION+neg
+2016-08-15,13:09:21,0,Bobb,1471280961571,that's calculated in the total,PREDICTION_CONTRIBUTION+neg
+2016-08-15,13:09:49,0,Bobb,1471280989666,it's true that plan 2 goes over the budget by 20 mil,PLAN+GIVING_ORIENTATION+PLAN2+pos
+2016-08-15,13:10:04,0,Bobb,1471281004620,it says they're on a tight budget,neg
+2016-08-15,13:10:20,0,Greg%60,1471281020954,yeah i think plan 1 is literally the only way to go and that we have to argue it. ,PLAN+GIVING_OPINION+AFFIRMATIVE+PLAN1+pos
+2016-08-15,13:10:47,0,Greg%60,1471281048506,we have 5 min so lets start adding some stuff,GIVING_OPINION+neg
+2016-08-15,13:10:50,0,Bobb,1471281050639,i don't think it is the only options,GIVING_OPINION+neg
+2016-08-15,13:11:02,0,Bobb,1471281062486,its possible they can afford to go over,neg
+2016-08-15,13:11:12,0,Greg%60,1471281073793,"if your rent is 1000 dollars and you only make 900, what are you gonna do",QUESTION+pos
+2016-08-15,13:11:12,0,jennifer,1471281074685,or cut costs somewhere else that we dont see,neg
+2016-08-15,13:11:21,0,jennifer,1471281082091,get rid of cable,neg
+2016-08-15,13:11:26,0,Greg%60,1471281086907,it says they are on a tight budget,neg
+2016-08-15,13:11:34,0,BazaarAgent,1471281095063,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-08-15,13:11:49,0,Bobb,1471281112931,"by that logic we wouldn't have a federal deficit in america, but we do, so going over budget isn't the end of the world",GIVING_OPINION+pos
+2016-08-15,13:12:12,0,jennifer,1471281134238,plan 2 is still the second lowest cost wise,PLAN+PLAN2+pos
+2016-08-15,13:12:14,0,Greg%60,1471281135354,sure bobb lets print more money and inflate the economy even more,GIVING_OPINION+AFFIRMATIVE+pos
+2016-08-15,13:12:23,0,JM562,1471281143137,agree with jennifer,GIVING_ORIENTATION+AGREE+neg
+2016-08-15,13:12:33,0,Bobb,1471281154748,"plus if the bird population dies due to pollution they would lose all of their tourism, which is obviously way worse for their economy",TEASING+ABUSE+pos
+2016-08-15,13:13:14,0,Bobb,1471281195547,I think plan 2 is the way to go,PLAN+GIVING_OPINION+PLAN2+neg
+2016-08-15,13:14:01,0,jennifer,1471281242518,ok then we need to make changes to the etherpad,GIVING_ORIENTATION+AFFIRMATIVE+HELP_REQUEST+neg
+2016-08-15,13:16:26,0,Bobb,1471281387303,that looks pretty much like what we were saying,POSITIVITY+QUESTION+PREDICTION_CONTRIBUTION+neg

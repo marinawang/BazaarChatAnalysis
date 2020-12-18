@@ -1,0 +1,61 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,BazaarAgent,128.2.220.133:40496,\N,2016-06-12 17:53:02,mturkno7226123,join
+1,presence,mlsasc,108.219.110.10:51742,36,2016-06-12 17:53:12,mturkno7226123,join
+2,presence,Kate,66.227.194.142:63138,14,2016-06-12 17:53:16,mturkno7226123,join
+3,text,BazaarAgent,128.2.220.133:40496,\N,2016-06-12 17:53:21,mturkno7226123,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+4,presence,womynrock,24.15.61.185:49553,35,2016-06-12 17:53:38,mturkno7226123,join
+5,text,mlsasc,108.219.110.10:51742,36,2016-06-12 17:56:13,mturkno7226123,"My first reaction is plan 4, but I&#39;m not married to it."
+6,presence,CJ,173.25.249.89:50452,37,2016-06-12 17:56:30,mturkno7226123,join
+7,text,womynrock,24.15.61.185:49553,35,2016-06-12 17:56:53,mturkno7226123,I like plan 2
+8,text,Kate,66.227.194.142:63138,14,2016-06-12 17:57:07,mturkno7226123,The 2 main criteria we&#39;re supposed to consider are environmentally friendly and low start up. But I&#39;m not clear on what the start up costs are.
+9,text,mlsasc,108.219.110.10:51742,36,2016-06-12 17:57:35,mturkno7226123,Well plan 1 is the only one under their budget.
+10,text,Kate,66.227.194.142:63138,14,2016-06-12 17:57:43,mturkno7226123,"I mean I like 4, but it&#39;s also the most expensive."
+11,text,mlsasc,108.219.110.10:51742,36,2016-06-12 17:57:57,mturkno7226123,Mine says the 2 main goals are environmentally friendly and reliable.
+12,text,mlsasc,108.219.110.10:51742,36,2016-06-12 17:58:27,mturkno7226123,"I like 4 as well, and in the earlier description of hydro power, it sounds like the start up cost is high, but then will be cheaper to maintain."
+13,text,Kate,66.227.194.142:63138,14,2016-06-12 17:58:43,mturkno7226123,Hmm. seems we get slightly different evaluation terms.
+14,text,mlsasc,108.219.110.10:51742,36,2016-06-12 17:58:53,mturkno7226123,"I think if they go above budget this year for the hydro, they will probably be below budget in subsequent years."
+15,text,womynrock,24.15.61.185:49553,35,2016-06-12 17:59:21,mturkno7226123,Plan 2 costs a little more than 1 but lower than the other options. I think in the long run it would be the best.
+16,text,CJ,173.25.249.89:50452,37,2016-06-12 17:59:23,mturkno7226123,"Yeah mine says most economical, so with the budget, option #1 is the only choice the city can afford."
+17,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:00:30,mturkno7226123,I think we have different priorities so we have to compete for who &quot;wins&quot; the proposal.
+18,text,Kate,66.227.194.142:63138,14,2016-06-12 18:00:40,mturkno7226123,"Looking at the percentages I like #1 because it reduces the use of wind and hydro, which have higher mitigating costs. And it puts the main source on coal which is stable. Also, under the budget, which is a plus."
+19,text,CJ,173.25.249.89:50452,37,2016-06-12 18:00:48,mturkno7226123,Plan 2 could work with the tax credit applied.
+20,text,womynrock,24.15.61.185:49553,35,2016-06-12 18:01:04,mturkno7226123,That is my thinking also
+21,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:01:04,mturkno7226123,Coal isn&#39;t stable though. It isn&#39;t a renewable resource.
+22,text,Kate,66.227.194.142:63138,14,2016-06-12 18:01:44,mturkno7226123,"Why isn&#39;t coal stable? Not arguing, just need to know why."
+23,text,Kate,66.227.194.142:63138,14,2016-06-12 18:02:08,mturkno7226123,CJ the tax credit has already been applied in the total and it&#39;s still over budget.
+24,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:02:17,mturkno7226123,"There is only so much of it, and it takes thousands of years to form. Once it runs out, those coal plants will be useless."
+25,text,CJ,173.25.249.89:50452,37,2016-06-12 18:02:44,mturkno7226123,"From an economical standpoint, I recommend plan 1 and plan 2 as the second best option."
+26,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:02:49,mturkno7226123,"That will be a while from now, but coal isn&#39;t environmentally friendly either, which the town wants to prioritize."
+27,text,Kate,66.227.194.142:63138,14,2016-06-12 18:03:10,mturkno7226123,"I think by &quot;stable&quot; it means that you can rely on it for day to day operations. We all know that it&#39;s not renewable, which is a different issue."
+28,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:03:30,mturkno7226123,"If it isn&#39;t renewable, it won&#39;t be stable. It will run out."
+29,text,womynrock,24.15.61.185:49553,35,2016-06-12 18:03:37,mturkno7226123,"So, what shall we propose?"
+30,text,BazaarAgent,128.2.220.133:40496,\N,2016-06-12 18:03:46,mturkno7226123,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+31,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:03:50,mturkno7226123,Then those places that need power will have to wait for new power plants to be built. Or we could build them now.
+32,text,Kate,66.227.194.142:63138,14,2016-06-12 18:04:16,mturkno7226123,"There are two things that distinguish each plan. The MAIN source and the cost. So maybe if we focus on which should be the main, we could come to a consensus"
+33,text,Kate,66.227.194.142:63138,14,2016-06-12 18:04:54,mturkno7226123,"All the plans use all of the sources, so it&#39;s not like we&#39;re saying we won&#39;t be using coal. It&#39;s a question of how much coal."
+34,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:05:00,mturkno7226123,Right.
+35,text,Kate,66.227.194.142:63138,14,2016-06-12 18:05:26,mturkno7226123,Maybe we could take a vote. What should be the main?
+36,text,CJ,173.25.249.89:50452,37,2016-06-12 18:05:38,mturkno7226123,Plan 1 for me
+37,text,womynrock,24.15.61.185:49553,35,2016-06-12 18:05:46,mturkno7226123,2
+38,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:05:50,mturkno7226123,2
+39,text,CJ,173.25.249.89:50452,37,2016-06-12 18:06:14,mturkno7226123,2 is the second best option for me
+40,text,Kate,66.227.194.142:63138,14,2016-06-12 18:06:36,mturkno7226123,"I say #1 coal. So that&#39;s Coal 2, Wind 2, Anyone else."
+41,text,Kate,66.227.194.142:63138,14,2016-06-12 18:07:27,mturkno7226123,At least we&#39;ve narrowed it down. #1 or #2.
+42,text,CJ,173.25.249.89:50452,37,2016-06-12 18:08:14,mturkno7226123,Anyone strongly opposed to 2?
+43,text,Kate,66.227.194.142:63138,14,2016-06-12 18:08:18,mturkno7226123,"I could get non board with #2, but we&#39;re still looking at coming in under budget."
+44,text,Kate,66.227.194.142:63138,14,2016-06-12 18:08:25,mturkno7226123,sorry meant on board
+45,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:08:33,mturkno7226123,I think plan 2 will only be over budget the first year.
+46,text,womynrock,24.15.61.185:49553,35,2016-06-12 18:08:40,mturkno7226123,agree
+47,presence,BazaarAgent,128.2.220.133:40496,\N,2016-06-12 18:09:01,mturkno7226123,leave
+48,text,Kate,66.227.194.142:63138,14,2016-06-12 18:09:15,mturkno7226123,"Okay, so we need a proposal based on plan #2"
+49,text,CJ,173.25.249.89:50452,37,2016-06-12 18:09:55,mturkno7226123,"We can say that the price is mitigated by the fact that &quot;If renewable energies generate more than 30% of the electricity, there will be a renewable tax credit of $1&#x2F;MWh for the electricity that is generated by renewable energies.&quot;"
+50,text,Kate,66.227.194.142:63138,14,2016-06-12 18:10:44,mturkno7226123,I think that should go under the trade off section.
+51,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:11:26,mturkno7226123,"Someone else can type reasons while I type trade offs, if we wanna hurry."
+52,text,CJ,173.25.249.89:50452,37,2016-06-12 18:14:33,mturkno7226123,Good job team
+53,text,mlsasc,108.219.110.10:51742,36,2016-06-12 18:14:36,mturkno7226123,ready?
+54,text,womynrock,24.15.61.185:49553,35,2016-06-12 18:14:38,mturkno7226123,yes!
+55,text,Kate,66.227.194.142:63138,14,2016-06-12 18:14:46,mturkno7226123,That&#39;s all I&#39;ve got
+56,presence,CJ,173.25.249.89:50452,37,2016-06-12 18:14:58,mturkno7226123,leave
+57,presence,womynrock,24.15.61.185:49553,35,2016-06-12 18:15:02,mturkno7226123,leave
+58,presence,Kate,66.227.194.142:63138,14,2016-06-12 18:15:12,mturkno7226123,leave
+59,presence,mlsasc,108.219.110.10:51742,36,2016-06-12 18:15:58,mturkno7226123,leave

@@ -1,0 +1,35 @@
+2016-06-07,21:23:53,0,BazaarAgent,1465349035140,"Welcome, quintel
+",INTRODUCTION
+2016-06-07,21:23:59,0,BazaarAgent,1465349041163,"Welcome, Billy
+",INTRODUCTION
+2016-06-07,21:24:01,0,BazaarAgent,1465349043167,"Welcome, Josh
+",INTRODUCTION
+2016-06-07,21:24:03,0,BazaarAgent,1465349045170,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-07,21:26:00,0,Josh,1465349164614,"Isn't plan 4 over the tight budget the city is on, by like 100 million dollars?",PLAN+POSITIVITY+PLAN4+QUESTION+pos
+2016-06-07,21:26:14,0,BazaarAgent,1465349175247,"Welcome, bturk
+",INTRODUCTION
+2016-06-07,21:27:16,0,quintel,1465349238400,i thought plan 2 was looking like a jolly good show jolly good show indeed,PLAN+POSITIVITY+PLAN2+neg
+2016-06-07,21:27:26,0,BazaarAgent,1465349247306,"Hey quintel, can you elaborate on the reason you chose plan 2 from your perspective of what would be the most economical ?",plan_reasoning
+2016-06-07,21:27:30,0,Billy,1465349250428,I think that plan 4 is the best,PLAN+GIVING_OPINION+PLAN4+neg
+2016-06-07,21:27:38,0,bturk,1465349258973,Plan 1 is really the only one the city can afford,PLAN+PLAN1+pos
+2016-06-07,21:27:38,0,BazaarAgent,1465349259312,"Hey Billy, you have proposed plan 4, and bturk has proposed plan 1. Can you compare the two plans from your perpsective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-06-07,21:27:39,0,BazaarAgent,1465349261314,"Hey Billy, you have proposed plan 4, and quintel has proposed plan 2. What do you think are the most important trade-offs between the two plans from your perspective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-06-07,21:27:49,0,Billy,1465349269632,if the city has no money right now im sure that they can sell bonds,GIVING_OPINION+AFFIRMATIVE+pos
+2016-06-07,21:28:09,0,Josh,1465349289780,I think plan 4 is the best in the long run but I'm not sure how they can afford it now,PLAN+GIVING_OPINION+AFFIRMATIVE+PLAN4+HELP+neg
+2016-06-07,21:28:13,0,Billy,1465349293664,they can do campaings in favor of it,AFFIRMATIVE+neg
+2016-06-07,21:28:31,0,Josh,1465349312843,"true, they may be able to raise the extra money",GIVING_OPINION+GIVING_ORIENTATION+pos
+2016-06-07,21:28:42,0,Billy,1465349323666,"there are groups that can help, you can raise money by donations, you can create a temporal tax",CONFUSION+HELP_REQUEST+TEMPERATURE+HELP+neg
+2016-06-07,21:29:11,0,Billy,1465349352557,you can put camping sites around a Dam and charge for them,neg
+2016-06-07,21:29:31,0,Billy,1465349371427,you can also put a few marina around it,neg
+2016-06-07,21:29:37,0,Josh,1465349378660,"In any case, they can't really afford any of the plans except plan 1, so I suppose it's going to be difficult either way unless they want to use primary coal based energy which is very bad for the environment, which was also a big concern for them.",PLAN+GIVING_OPINION+PLAN1+pos
+2016-06-07,21:30:02,0,bturk,1465349403349,It all depends on the definition of how tight there budget is. If they can',pos
+2016-06-07,21:31:00,0,Billy,1465349462291,"Im sure that there will be politicians trying to get money out of everybody in the city, so putting a new tax sound very real",GIVING_OPINION+AFFIRMATIVE+PREDICTION_CONTRIBUTION+pos
+2016-06-07,21:33:41,0,Josh,1465349621372,I agree with Billy on plan 4,PLAN+GIVING_ORIENTATION+AGREE+PLAN4+neg
+2016-06-07,21:34:09,0,bturk,1465349649423,"Coal is the worst option but I'm just not sure they can afford more than that. Can we assume they can get more money? If so, what's the point of a budget.",GIVING_OPINION+AFFIRMATIVE+HELP_REQUEST+HELP+QUESTION+pos
+2016-06-07,21:34:28,0,BazaarAgent,1465349669419,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-07,21:34:40,0,Josh,1465349681055,Well most government operations go over budget all the time...,pos
+2016-06-07,21:35:46,0,Billy,1465349747117,So what do you guys think about the plan?. Is it reasonable? cost-effective and green?,QUESTION+neg
+2016-06-07,21:37:06,0,bturk,1465349826579,I don't think it's economical at all. But I think it's fine for the other areas for sure,GIVING_OPINION+AFFIRMATIVE+pos
+2016-06-07,21:37:15,0,Billy,1465349835371,"future friendly, i like that",POSITIVITY+neg
+2016-06-07,21:37:28,0,Josh,1465349848699,I think there are problems with each solution but plan 4 makes the most sense,PLAN+GIVING_OPINION+PLAN4+pos
+2016-06-07,21:37:50,0,quintel,1465349870773,"money wise it stinks,but I think after a few years the riots will settle down",GIVING_OPINION+DISCONTENT+PREDICTION_CONTRIBUTION+neg

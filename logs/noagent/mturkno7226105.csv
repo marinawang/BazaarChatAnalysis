@@ -1,0 +1,47 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+4,presence,BazaarAgent,128.2.220.133:39350,\N,2016-06-10 21:23:18,mturkno7226105,join
+10,presence,pete,50.131.67.227:59819,23,2016-06-10 21:23:18,mturkno7226105,join
+16,presence,Pat,107.178.47.68:57276,37,2016-06-10 21:23:20,mturkno7226105,join
+23,text,BazaarAgent,128.2.220.133:39350,\N,2016-06-10 21:23:29,mturkno7226105,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+29,presence,William,24.28.143.83:52889,42,2016-06-10 21:23:55,mturkno7226105,join
+41,presence,Matt,73.244.168.49:57717,32,2016-06-10 21:25:20,mturkno7226105,join
+45,text,pete,50.131.67.227:59819,23,2016-06-10 21:25:48,mturkno7226105,What does everyone you think?
+48,text,Pat,107.178.47.68:57276,37,2016-06-10 21:26:09,mturkno7226105,What do guys think about option four? Looks to be the most economical
+54,text,William,24.28.143.83:52889,42,2016-06-10 21:26:24,mturkno7226105,"Hey guys, the problem is that the only plan that will come in under budget is the least environmentally friends."
+63,text,pete,50.131.67.227:59819,23,2016-06-10 21:27:09,mturkno7226105,"I think 3 or 4. 1 is bad because of the coal carbon, 2 is bad cause wind kills birds."
+68,text,Pat,107.178.47.68:57276,37,2016-06-10 21:27:32,mturkno7226105,Then their will have to be a trade off for the most important feature. Envionmetal vs price
+71,text,William,24.28.143.83:52889,42,2016-06-10 21:27:42,mturkno7226105,I think that # 2 is the most cost-effective AND environmentally friendly. Wind farms can be built away from environmentally sensitive areas like migration routes and nesting areas
+79,text,Pat,107.178.47.68:57276,37,2016-06-10 21:28:37,mturkno7226105,Ok i agree with #2 as well
+80,text,pete,50.131.67.227:59819,23,2016-06-10 21:28:42,mturkno7226105,"I disagree on 2 being environmentally friendly, your assuming thats a possibility."
+82,text,Matt,73.244.168.49:57717,32,2016-06-10 21:29:08,mturkno7226105,Plan 2 is close to budget and they desire renewable energy
+85,text,pete,50.131.67.227:59819,23,2016-06-10 21:29:31,mturkno7226105,The city is famous for it&#39;s birds...
+86,text,Pat,107.178.47.68:57276,37,2016-06-10 21:29:37,mturkno7226105,Plus it has less coal and nuclear
+87,text,pete,50.131.67.227:59819,23,2016-06-10 21:29:54,mturkno7226105,you want to risk killing off birds and losing tourism?
+88,text,William,24.28.143.83:52889,42,2016-06-10 21:29:57,mturkno7226105,"Pete. I am, indeed. Living in west texas, I know it&#39;s do-ablem too. But you are right in that if there&#39;s no location far enough away to mitigate bird strike issues, then it&#39;s non-starter."
+89,text,Matt,73.244.168.49:57717,32,2016-06-10 21:30:07,mturkno7226105,You gotta think the birds will learn to avoid those things
+91,text,pete,50.131.67.227:59819,23,2016-06-10 21:30:27,mturkno7226105,"They don&#39;t, they actually hire people to go clean up the dead birds"
+93,text,Matt,73.244.168.49:57717,32,2016-06-10 21:30:33,mturkno7226105,Admittedly I&#39;m no expert
+95,text,William,24.28.143.83:52889,42,2016-06-10 21:30:51,mturkno7226105,"However, we have to balance environmental impact with price. How far over budget should the city go?"
+97,text,pete,50.131.67.227:59819,23,2016-06-10 21:31:08,mturkno7226105,"And if they do learn to go away from them, maybe that causes the birds to leave completly. Again tourism"
+103,text,Matt,73.244.168.49:57717,32,2016-06-10 21:31:49,mturkno7226105,Is more nuclear waste better?
+104,text,Pat,107.178.47.68:57276,37,2016-06-10 21:31:52,mturkno7226105,Which will be worse for environment? Nuclear or coal?
+107,text,William,24.28.143.83:52889,42,2016-06-10 21:32:19,mturkno7226105,I think coal is a no go. Fossil fuels kill everything.
+109,text,William,24.28.143.83:52889,42,2016-06-10 21:32:44,mturkno7226105,"Nuclear? However, it needs a safe storage location."
+110,text,Pat,107.178.47.68:57276,37,2016-06-10 21:32:45,mturkno7226105,Then maybe 3 can be a better option
+111,text,Matt,73.244.168.49:57717,32,2016-06-10 21:32:48,mturkno7226105,There is no perfect answer. Every option has drawbacks
+113,text,pete,50.131.67.227:59819,23,2016-06-10 21:32:58,mturkno7226105,Matt I agree
+114,text,Pat,107.178.47.68:57276,37,2016-06-10 21:33:05,mturkno7226105,So lets just vote
+115,text,William,24.28.143.83:52889,42,2016-06-10 21:33:14,mturkno7226105,2
+116,text,Matt,73.244.168.49:57717,32,2016-06-10 21:33:18,mturkno7226105,2
+117,text,pete,50.131.67.227:59819,23,2016-06-10 21:33:19,mturkno7226105,3
+118,text,Pat,107.178.47.68:57276,37,2016-06-10 21:33:22,mturkno7226105,2
+119,text,William,24.28.143.83:52889,42,2016-06-10 21:33:37,mturkno7226105,How did you guys get my bank pin?
+122,text,BazaarAgent,128.2.220.133:39350,\N,2016-06-10 21:33:52,mturkno7226105,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+127,text,pete,50.131.67.227:59819,23,2016-06-10 21:34:13,mturkno7226105,So we are going with 2?
+129,text,William,24.28.143.83:52889,42,2016-06-10 21:34:26,mturkno7226105,yes.
+150,text,William,24.28.143.83:52889,42,2016-06-10 21:37:45,mturkno7226105,"Great writing, guys."
+158,presence,pete,50.131.67.227:59819,23,2016-06-10 21:38:34,mturkno7226105,leave
+159,presence,Pat,107.178.47.68:57276,37,2016-06-10 21:38:53,mturkno7226105,leave
+161,presence,William,24.28.143.83:52889,42,2016-06-10 21:39:07,mturkno7226105,leave
+166,presence,BazaarAgent,128.2.220.133:39350,\N,2016-06-10 21:40:07,mturkno7226105,leave
+167,presence,Matt,73.244.168.49:57717,32,2016-06-10 21:40:34,mturkno7226105,leave

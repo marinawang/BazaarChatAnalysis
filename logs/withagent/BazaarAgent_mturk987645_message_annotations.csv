@@ -1,0 +1,51 @@
+2016-06-01,21:23:38,0,BazaarAgent,1464830619146,"Welcome, Buck
+",INTRODUCTION
+2016-06-01,21:23:41,0,BazaarAgent,1464830623183,"Welcome, Tenchi
+",INTRODUCTION
+2016-06-01,21:23:47,0,BazaarAgent,1464830629187,"Welcome, JustWinBaby
+",INTRODUCTION
+2016-06-01,21:23:48,0,BazaarAgent,1464830631190,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-01,21:24:42,0,Tenchi,1464830683641,Hey,neg
+2016-06-01,21:24:47,0,JustWinBaby,1464830687808,hello,neg
+2016-06-01,21:24:50,0,Buck,1464830690392,hi,neg
+2016-06-01,21:25:10,0,JustWinBaby,1464830712693,its clear the most cost efficient is plan a but its the most harmful,GIVING_OPINION+NEGATIVE+PLAN1+pos
+2016-06-01,21:25:21,0,Tenchi,1464830722616,"Yeah, I think Plan B is the best ",GIVING_OPINION+AFFIRMATIVE+PLAN2+neg
+2016-06-01,21:25:26,0,Tenchi,1464830727247,More focus on wind energy,POSITIVITY+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+pos
+2016-06-01,21:25:26,0,Buck,1464830727316,True,GIVING_ORIENTATION+neg
+2016-06-01,21:25:29,0,Tenchi,1464830729817,and slightly overbudget,neg
+2016-06-01,21:25:34,0,JustWinBaby,1464830734715,I would agree with B,GIVING_ORIENTATION+neg
+2016-06-01,21:25:42,0,Tenchi,1464830742453,No waste disposal or Carbon tax aswell,pos
+2016-06-01,21:26:08,0,Tenchi,1464830768573,While reliance on wind energy it also splits up the other forms of energy as well as fallbacks in case wind is not sufficient ,POSITIVITY+pos
+2016-06-01,21:26:21,0,JustWinBaby,1464830782195,plan b is easily the best choice,GIVING_OPINION+PLAN2+neg
+2016-06-01,21:26:28,0,JustWinBaby,1464830789052,the others are too harmful or too expensive,NEGATIVE+pos
+2016-06-01,21:26:33,0,Buck,1464830794522,Yea it's better that it gets split up ,GIVING_ORIENTATION+pos
+2016-06-01,21:26:39,0,Buck,1464830799623,with a focus on wind,POSITIVITY+neg
+2016-06-01,21:26:58,0,JustWinBaby,1464830820175,wind is the biggest source but also have the others to fall back on. its perfect,POSITIVITY+GIVING_OPINION+AFFIRMATIVE+AUDIO_SOURCE+pos
+2016-06-01,21:29:19,0,Tenchi,1464830959620,My only problem is now its focusing on the bird habitat,pos
+2016-06-01,21:29:33,0,JustWinBaby,1464830973509,what about it?,QUESTION+neg
+2016-06-01,21:29:39,0,JustWinBaby,1464830979781,what other plan would be better than plan b?,GIVING_ORIENTATION+QUESTION+PLAN2+neg
+2016-06-01,21:29:41,0,Tenchi,1464830982247,well wind turbines aren't exactly the safest,POSITIVITY+neg
+2016-06-01,21:29:51,0,Buck,1464830993074,I'm sure the whole area around the city isn't a bird habitat,GIVING_OPINION+AFFIRMATIVE+neg
+2016-06-01,21:30:01,0,JustWinBaby,1464831003025,the bird habitat has to take a back seat to other priorities,AFFIRMATIVE+pos
+2016-06-01,21:30:03,0,Tenchi,1464831004429,Right but it can mess with migration patterns if any,TEASING+GIVING_OPINION+neg
+2016-06-01,21:30:14,0,Buck,1464831015918,We could find a place that is far away from bird habitats that can still produce energy,POSITIVITY+neg
+2016-06-01,21:30:23,0,Tenchi,1464831024201,"Yeah, I'm all for B its just something to consider",AFFIRMATIVE+neg
+2016-06-01,21:30:30,0,Buck,1464831030780,Yea,neg
+2016-06-01,21:31:24,0,JustWinBaby,1464831085614,each plan will have its cons. none are perfect but i think we got the best choice,GIVING_OPINION+pos
+2016-06-01,21:31:34,0,Tenchi,1464831094091,Definitely,neg
+2016-06-01,21:31:42,0,Tenchi,1464831103208,I would say D if the costs weren't so high,neg
+2016-06-01,21:31:57,0,Tenchi,1464831118060,or if the tax credit was a lot higher,neg
+2016-06-01,21:32:28,0,JustWinBaby,1464831149853,"oh yes, d is a good plan but way too expensive. the hydro is a great choice for the main source of energy ",POSITIVITY+GIVING_OPINION+AFFIRMATIVE+AUDIO_SOURCE+PLAN2+pos
+2016-06-01,21:32:34,0,Buck,1464831155495,And I feel like a dam would do more damage to fish than wind would do to birds,POSITIVITY+NEGATIVE+pos
+2016-06-01,21:32:51,0,Tenchi,1464831172392,"Yeah, this proposal doesn't really care about the fish I guess haha",SMILES+GIVING_OPINION+AFFIRMATIVE+neg
+2016-06-01,21:33:09,0,Buck,1464831189323,Oh yea it's changed ,neg
+2016-06-01,21:33:17,0,JustWinBaby,1464831197878,"ultimately something has to be sacrificed, just the way energy works today ",pos
+2016-06-01,21:33:22,0,Tenchi,1464831202561,True that,GIVING_ORIENTATION+neg
+2016-06-01,21:33:48,0,JustWinBaby,1464831229224,maybe this is off topic but i like solar power too,POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+neg
+2016-06-01,21:34:09,0,Tenchi,1464831251072,Yeah solar power would probably be the easiest choice to make ,GIVING_ORIENTATION+AFFIRMATIVE+pos
+2016-06-01,21:34:13,0,BazaarAgent,1464831255440,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-01,21:34:21,0,Buck,1464831262179,I wonder why they didn't include solar,neg
+2016-06-01,21:34:29,0,Tenchi,1464831269583,Probably because it would be the most obvious,GIVING_OPINION+GIVING_ORIENTATION+pos
+2016-06-01,21:34:37,0,Buck,1464831277592,Too easy I guess,GIVING_OPINION+neg
+2016-06-01,21:35:15,0,Tenchi,1464831315665,Anything else we should add?,POSITIVITY+QUESTION+neg
+2016-06-01,21:35:29,0,JustWinBaby,1464831329588,i can't think of anything,neg

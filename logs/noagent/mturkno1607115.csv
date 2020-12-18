@@ -1,0 +1,55 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,BazaarAgent,128.2.220.133:57985,\N,2016-07-11 20:52:58,mturkno1607115,join
+1,presence,ErickM,97.93.135.65:62398,35,2016-07-11 20:52:59,mturkno1607115,join
+2,presence,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:52:59,mturkno1607115,join
+3,presence,Sid,207.62.203.2:55601,42,2016-07-11 20:52:59,mturkno1607115,join
+4,text,BazaarAgent,128.2.220.133:57985,\N,2016-07-11 20:53:10,mturkno1607115,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+5,text,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:53:59,mturkno1607115,yo
+6,text,ErickM,97.93.135.65:62398,35,2016-07-11 20:54:05,mturkno1607115,Hi All
+7,text,Sid,207.62.203.2:55601,42,2016-07-11 20:54:34,mturkno1607115,I know a lot of people said wind power btu I gotta go with hydro electric
+8,text,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:54:57,mturkno1607115,I gotta go with plan 1
+9,text,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:55:04,mturkno1607115,"Its a good mix, and its the cheapest"
+10,presence,Brandi,99.8.45.204:62877,25,2016-07-11 20:55:06,mturkno1607115,join
+11,text,Sid,207.62.203.2:55601,42,2016-07-11 20:55:14,mturkno1607115,Plan 1 has detrimental environmental factors
+12,text,ErickM,97.93.135.65:62398,35,2016-07-11 20:55:16,mturkno1607115,But it also leaves the highest amount of pollution
+13,text,Sid,207.62.203.2:55601,42,2016-07-11 20:55:27,mturkno1607115,it also has a high clean up cost
+14,text,Sid,207.62.203.2:55601,42,2016-07-11 20:55:43,mturkno1607115,and it&#39;s not very future proofed in terms of renewable energy
+15,text,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:55:55,mturkno1607115,but the end result is cheapest
+16,text,Sid,207.62.203.2:55601,42,2016-07-11 20:56:08,mturkno1607115,The waste and carbon tax immediately offsets the renewable credit
+17,text,ErickM,97.93.135.65:62398,35,2016-07-11 20:56:09,mturkno1607115,I have to counter on the hydro electric as well. At least here in California where it&#39;s hot we have no water to power our hydro electric plants
+18,text,ErickM,97.93.135.65:62398,35,2016-07-11 20:56:29,mturkno1607115,Water is just as susceptible to nature as wind is.
+19,text,Sid,207.62.203.2:55601,42,2016-07-11 20:56:52,mturkno1607115,Water however can be more reliable
+20,text,Sid,207.62.203.2:55601,42,2016-07-11 20:57:00,mturkno1607115,there are reserves set in place in times of drought
+21,text,ErickM,97.93.135.65:62398,35,2016-07-11 20:57:57,mturkno1607115,It can be reliable but on the other hand reserves do dry up. The water may not always be there. We&#39;ve gone through our reserve in the last 3 years
+22,text,ErickM,97.93.135.65:62398,35,2016-07-11 20:58:26,mturkno1607115,On the other hand we have wind almost every other day.
+23,text,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:59:17,mturkno1607115,"Guys, you have to pick a plan"
+24,text,Brandi,99.8.45.204:62877,25,2016-07-11 20:59:28,mturkno1607115,^
+25,text,Brandi,99.8.45.204:62877,25,2016-07-11 20:59:31,mturkno1607115,which plan
+26,text,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:59:33,mturkno1607115,You can&#39;t just pick one thing
+27,text,Nintendoman,67.186.29.207:58929,32,2016-07-11 20:59:35,mturkno1607115,LOL
+28,text,Sid,207.62.203.2:55601,42,2016-07-11 20:59:45,mturkno1607115,If placed in an area with a constant water flow(niagra falls) it can be beneficial and not detrimental
+29,text,Sid,207.62.203.2:55601,42,2016-07-11 20:59:56,mturkno1607115,and this city obviously ahs the water resource
+30,text,Brandi,99.8.45.204:62877,25,2016-07-11 21:00:17,mturkno1607115,so plan four
+31,text,Sid,207.62.203.2:55601,42,2016-07-11 21:01:01,mturkno1607115,"and by looking at the numbers, the renewable tax credit offset the construction by a margin"
+32,text,ErickM,97.93.135.65:62398,35,2016-07-11 21:01:22,mturkno1607115,What about the $93K that the city will be in over budget?
+33,text,ErickM,97.93.135.65:62398,35,2016-07-11 21:01:35,mturkno1607115,Which is stated that is already very tight
+34,text,Brandi,99.8.45.204:62877,25,2016-07-11 21:01:52,mturkno1607115,yeah plan 1 is the only one that is affordable
+35,text,Sid,207.62.203.2:55601,42,2016-07-11 21:02:09,mturkno1607115,true but plan 1 has to be stable
+36,text,Sid,207.62.203.2:55601,42,2016-07-11 21:02:15,mturkno1607115,hydro electric pwoer is more stable than wind
+37,text,Sid,207.62.203.2:55601,42,2016-07-11 21:02:21,mturkno1607115,and it&#39;s more efficient
+38,text,Sid,207.62.203.2:55601,42,2016-07-11 21:02:30,mturkno1607115,you cant control where wind goes
+39,text,Sid,207.62.203.2:55601,42,2016-07-11 21:02:35,mturkno1607115,or what direction it blows
+40,text,ErickM,97.93.135.65:62398,35,2016-07-11 21:02:42,mturkno1607115,But at the cost of almost $100K more that the city does not have
+41,text,BazaarAgent,128.2.220.133:57985,\N,2016-07-11 21:03:32,mturkno1607115,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+42,text,Sid,207.62.203.2:55601,42,2016-07-11 21:03:41,mturkno1607115,hmmmm
+43,text,Sid,207.62.203.2:55601,42,2016-07-11 21:03:48,mturkno1607115,well thats a comelling point
+44,text,Sid,207.62.203.2:55601,42,2016-07-11 21:03:52,mturkno1607115,compelling*
+45,text,Sid,207.62.203.2:55601,42,2016-07-11 21:04:00,mturkno1607115,well plan 2 if everyone agrees
+46,text,Sid,207.62.203.2:55601,42,2016-07-11 21:04:05,mturkno1607115,hydro could be an efficent backup
+47,text,ErickM,97.93.135.65:62398,35,2016-07-11 21:04:15,mturkno1607115,The city would have to cut back on many programs that they may need. I agree with plan 2
+48,text,Brandi,99.8.45.204:62877,25,2016-07-11 21:06:30,mturkno1607115,agreed
+49,presence,Sid,207.62.203.2:55601,42,2016-07-11 21:07:34,mturkno1607115,leave
+50,presence,ErickM,97.93.135.65:62398,35,2016-07-11 21:07:47,mturkno1607115,leave
+51,presence,BazaarAgent,128.2.220.133:57985,\N,2016-07-11 21:08:47,mturkno1607115,leave
+52,presence,Nintendoman,67.186.29.207:58929,32,2016-07-11 21:08:55,mturkno1607115,leave
+53,presence,Brandi,99.8.45.204:62877,25,2016-07-11 21:12:22,mturkno1607115,leave

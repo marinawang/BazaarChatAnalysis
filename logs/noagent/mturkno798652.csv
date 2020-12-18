@@ -1,0 +1,59 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,BazaarAgent,128.2.220.133:34923,\N,2016-06-03 21:23:40,mturkno798652,join
+3,presence,Gerald,173.29.135.99:57948,7,2016-06-03 21:23:41,mturkno798652,join
+6,presence,Eddy,76.104.224.126:55156,9,2016-06-03 21:23:44,mturkno798652,join
+7,text,BazaarAgent,128.2.220.133:34923,\N,2016-06-03 21:23:50,mturkno798652,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+10,presence,Mikey,71.65.53.137:62050,18,2016-06-03 21:23:54,mturkno798652,join
+15,presence,Tala,75.139.40.40:61338,16,2016-06-03 21:25:42,mturkno798652,join
+17,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:26:24,mturkno798652,Are we all able to edit the same pad?
+19,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:26:28,mturkno798652,"We need something that is enviornmentally friendly, which coal is not."
+20,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:26:31,mturkno798652,Unsure.
+21,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:26:32,mturkno798652,I think so?
+22,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:26:40,mturkno798652,seems like it
+24,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:26:50,mturkno798652,So there&#39;s only 4 of us?
+25,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:26:53,mturkno798652,"I vote plan 3, out of the above"
+27,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:27:05,mturkno798652,Looks like it
+29,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:27:24,mturkno798652,"how do we address the cost our budget is only 900,000,000 which only first plan?"
+32,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:28:22,mturkno798652,"I would argue if we went with that plan, tax revenues would go down based on the destruction it would cause. Therefore that is not really an option."
+39,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:28:36,mturkno798652,"If we were to do plan 3, we could say that each of these plans are for a very long time and the extra money we used would be for a good use."
+42,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:28:42,mturkno798652,Don&#39;t want to wreck your town.
+44,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:29:01,mturkno798652,Yes
+46,text,Tala,75.139.40.40:61338,16,2016-06-03 21:29:09,mturkno798652,I like plan 2
+47,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:29:23,mturkno798652,plan 3 relies heavily on nuclear power which is dependent on shrinking uranium deposits so I don&#39;t think it works for long run.  I think 2 or 4 is good
+48,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:29:30,mturkno798652,My vote is for either plan 2 or 3
+49,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:29:38,mturkno798652,Not a big fan of 1 and 4
+50,text,Tala,75.139.40.40:61338,16,2016-06-03 21:29:39,mturkno798652,but then you need to think of the birds with 2
+51,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:29:57,mturkno798652,"I feel like birds could adapt eventually, but that&#39;s just me."
+52,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:30:04,mturkno798652,I vote plan 3 because it is a &quot;famous bird town&quot;
+53,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:30:10,mturkno798652,birds are dumb
+54,text,Tala,75.139.40.40:61338,16,2016-06-03 21:30:36,mturkno798652,3 has a high waste disposal though
+58,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:30:56,mturkno798652,"Yeah, nuclear isn&#39;t know n for being environmentally friendly"
+59,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:31:18,mturkno798652,I&#39;d be okay with 2.
+60,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:31:28,mturkno798652,If you ship it away its fine.
+61,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:31:28,mturkno798652,"Also, it could bring tourism down just because power plants are not that pretty to look at."
+62,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:31:41,mturkno798652,same with plan 2 and its birds
+63,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:31:50,mturkno798652,People might be afraid of another Chernobyl accident happening
+65,text,Tala,75.139.40.40:61338,16,2016-06-03 21:31:57,mturkno798652,I think that the pros of 2 outweigh the concern for the birds
+66,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:31:57,mturkno798652,How about plan 4
+68,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:32:10,mturkno798652,Too expensive
+71,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:32:30,mturkno798652,Ok plan 2 it is
+73,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:32:43,mturkno798652,plan 2 then?
+74,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:32:46,mturkno798652,2
+75,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:32:46,mturkno798652,I&#39;m okay with it
+76,text,Tala,75.139.40.40:61338,16,2016-06-03 21:32:53,mturkno798652,sounds great
+77,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:33:50,mturkno798652,Feel free to add folks
+78,text,BazaarAgent,128.2.220.133:34923,\N,2016-06-03 21:34:14,mturkno798652,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+93,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:36:48,mturkno798652,Looks good
+94,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:37:02,mturkno798652,might as well just add whatever we can think of with the 1 minute left
+96,text,Gerald,173.29.135.99:57948,7,2016-06-03 21:37:33,mturkno798652,also it&#39;s a bit odd that we didn&#39;t have to consider the city&#39;s existing energy sources.  Presumably they have some of these things already.
+97,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:37:47,mturkno798652,its like simcity
+98,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:38:04,mturkno798652,I was terrible at simcity
+99,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:38:10,mturkno798652,Never elect me to be mayor
+100,text,Tala,75.139.40.40:61338,16,2016-06-03 21:38:16,mturkno798652,lol yeah fun times i liked to build and destroy
+105,text,Eddy,76.104.224.126:55156,9,2016-06-03 21:38:26,mturkno798652,Peace out
+106,text,Mikey,71.65.53.137:62050,18,2016-06-03 21:38:38,mturkno798652,been fun
+107,presence,Eddy,76.104.224.126:55156,9,2016-06-03 21:38:46,mturkno798652,leave
+108,presence,Mikey,71.65.53.137:62050,18,2016-06-03 21:39:02,mturkno798652,leave
+110,presence,Gerald,173.29.135.99:57948,7,2016-06-03 21:39:20,mturkno798652,leave
+115,presence,BazaarAgent,128.2.220.133:34923,\N,2016-06-03 21:39:29,mturkno798652,leave
+121,presence,Tala,75.139.40.40:61338,16,2016-06-03 21:40:39,mturkno798652,leave

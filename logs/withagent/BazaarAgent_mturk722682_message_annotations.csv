@@ -1,0 +1,58 @@
+2016-06-08,21:23:51,0,BazaarAgent,1465435432978,"Welcome, CC
+",INTRODUCTION
+2016-06-08,21:23:51,0,BazaarAgent,1465435435011,"Welcome, Nick
+",INTRODUCTION
+2016-06-08,21:24:01,0,BazaarAgent,1465435443016,"Welcome, THoang
+",INTRODUCTION
+2016-06-08,21:24:01,0,BazaarAgent,1465435445019,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-08,21:25:23,0,THoang,1465435524615,Hey everyone!,neg
+2016-06-08,21:25:30,0,Nick,1465435530153,Hello,neg
+2016-06-08,21:26:49,0,Nick,1465435611781,So as I read the problem the only plan that meets the cost requirement is the first plan.,pos
+2016-06-08,21:27:08,0,dc,1465435628778,I AGREE,GIVING_ORIENTATION+AGREE+neg
+2016-06-08,21:27:25,0,dc,1465435646546,But it is the highest use f coal,GIVING_OPINION+neg
+2016-06-08,21:27:25,0,Nick,1465435646749,That being said it does not meet the other ideal requirments.,PREDICTION_CONTRIBUTION+pos
+2016-06-08,21:27:32,0,THoang,1465435654496,"Looking at the plan options, I feel plan 2 is a good option because there is no waste disposal coat and no carbon tax. However, it also utilize the maximum tax credit out of the four options. The total cost is a higher than the budget but is a cleaner option",PLAN+POSITIVITY+GIVING_OPINION+PLAN2+pos
+2016-06-08,21:27:44,0,CC,1465435664910,I agree with Thoang.,GIVING_ORIENTATION+AGREE+neg
+2016-06-08,21:27:46,0,THoang,1465435667002,*cost,neg
+2016-06-08,21:27:48,0,dc,1465435669019,I was thinking that may be the best due to the tax credit,GIVING_OPINION+pos
+2016-06-08,21:28:03,0,dc,1465435683668,and less reliance on coal,neg
+2016-06-08,21:28:10,0,Nick,1465435691538,Having that much wind could be very high risk.,POSITIVITY+neg
+2016-06-08,21:28:25,0,Nick,1465435705540,The intermittent nature of wind does not make it a good primary source.,POSITIVITY+AUDIO_SOURCE+neg
+2016-06-08,21:28:28,0,CC,1465435708996,"True, plus the impact on the birds.",GIVING_ORIENTATION+neg
+2016-06-08,21:28:37,0,dc,1465435717929,That is a consideration since they have a bird population that is also an attraction,EXPLANATION_CONTRIBUTION+PREDICTION_CONTRIBUTION+pos
+2016-06-08,21:28:44,0,Nick,1465435725608,To some degree that can be mitigated but yes it can hurt birds,GIVING_OPINION+AFFIRMATIVE+DISCONTENT+pos
+2016-06-08,21:29:14,0,Nick,1465435756189,Also the land required can be an eyesore and they can be loud. ,pos
+2016-06-08,21:29:43,0,dc,1465435785003,if it is put far enough from the city center that is ot the bigeest problem,GIVING_OPINION+pos
+2016-06-08,21:29:48,0,CC,1465435789133,"Of the four options, there really isn't one that isn't an eyesore besides maybe hydro.",GIVING_OPINION+GIVING_ORIENTATION+pos
+2016-06-08,21:29:54,0,dc,1465435795080,are there any we can rule out,NEGATIVE+neg
+2016-06-08,21:30:22,0,Nick,1465435823165,If the budget is 900M do we have ny choice?,QUESTION+pos
+2016-06-08,21:30:38,0,Nick,1465435838624,we can't just print money.,neg
+2016-06-08,21:30:55,0,THoang,1465435855710,I feel like the budget really hinder our choices...,POSITIVITY+HELP+neg
+2016-06-08,21:31:02,0,dc,1465435862996,true but even plana is over no?,GIVING_OPINION+GIVING_ORIENTATION+QUESTION+neg
+2016-06-08,21:31:19,0,CC,1465435879796,A is under.,neg
+2016-06-08,21:31:24,0,dc,1465435884715,when taking into consideration the waste and carbon tax,pos
+2016-06-08,21:31:33,0,Nick,1465435894139,I agree. You could flirt with 2 but I think we can all agree 4 is out.,GIVING_OPINION+GIVING_ORIENTATION+AGREE+neg
+2016-06-08,21:31:40,0,dc,1465435900918,yes,AFFIRMATIVE+neg
+2016-06-08,21:31:46,0,Nick,1465435906737,As much as I like hydro a 10% plus over budget is a no go,POSITIVITY+pos
+2016-06-08,21:32:02,0,CC,1465435923486,Agreed. I'd say either 2 or 1.,GIVING_ORIENTATION+AGREE+neg
+2016-06-08,21:32:20,0,Nick,1465435940654,I can agree with that (although that does not match my personal feelings),GIVING_ORIENTATION+neg
+2016-06-08,21:32:20,0,THoang,1465435941185,I think plan 1 should be thrown out even though it is under budget because they want to reduce greenhouse emission,PLAN+GIVING_OPINION+WF+PLAN1+pos
+2016-06-08,21:32:21,0,dc,1465435941419,yes 1 or 2,AFFIRMATIVE+neg
+2016-06-08,21:32:30,0,Nick,1465435950210,Ok so plan 2.,PLAN+AFFIRMATIVE+PLAN2+neg
+2016-06-08,21:32:34,0,dc,1465435955318,"that is true, and something relevant to consider",GIVING_ORIENTATION+PREDICTION_CONTRIBUTION+neg
+2016-06-08,21:32:39,0,BazaarAgent,1465435959217,"Hey Nick, you have proposed plan 2, and THoang has proposed plan 1. What do you think are the most important trade-offs between the two plans from your perspective of what would be the most economical ?",plan_reasoning
+2016-06-08,21:32:45,0,THoang,1465435965286,Plan 1 is the only one with the carbon tax,PLAN+PLAN1+pos
+2016-06-08,21:33:00,0,THoang,1465435981143,I actually proposed plan 2,PLAN+PLAN2+neg
+2016-06-08,21:33:05,0,dc,1465435985350,2 also gets the biggest tax credit,pos
+2016-06-08,21:33:25,0,Nick,1465436006155,To the agent I would say plan one is in budget but plan 2 mitigates global warming and plays into the enviromental movement. ,PLAN+GIVING_OPINION+PLAN2+PLAN1+pos
+2016-06-08,21:33:45,0,CC,1465436025830,Energy security is also more prevalent in 1 than 2.,SAY_MORE_CANDIDATE+pos
+2016-06-08,21:33:47,0,Nick,1465436027908,As to the tax credit it is factored into the total cost.,GIVING_OPINION+neg
+2016-06-08,21:33:51,0,dc,1465436032475,I think the long term plan 2 has more benefits for the city ,PLAN+GIVING_OPINION+PLAN2+pos
+2016-06-08,21:34:25,0,THoang,1465436065577,agreed ,GIVING_ORIENTATION+AGREE+neg
+2016-06-08,21:34:26,0,BazaarAgent,1465436067257,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-08,21:34:30,0,Nick,1465436070541,I dont think we can factor tax credits in besides just allowing it to modifiy the final cost.,GIVING_ORIENTATION+neg
+2016-06-08,21:35:04,0,Nick,1465436105495,Ok plan 2 it is. Final answer group?,PLAN+GIVING_OPINION+AFFIRMATIVE+QUESTION+PLAN2+neg
+2016-06-08,21:35:09,0,THoang,1465436109270,yes,AFFIRMATIVE+neg
+2016-06-08,21:35:11,0,dc,1465436111364,yes i vote 2,AFFIRMATIVE+neg
+2016-06-08,21:35:15,0,CC,1465436115453, I'd say yes. ,AFFIRMATIVE+neg
+2016-06-08,21:36:27,0,dc,1465436187887,ok ,AFFIRMATIVE+neg

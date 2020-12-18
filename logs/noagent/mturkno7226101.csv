@@ -1,0 +1,16 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+3,presence,BazaarAgent,128.2.220.133:39340,\N,2016-06-10 21:23:18,mturkno7226101,join
+9,presence,KSIM12,72.224.139.44:56759,3,2016-06-10 21:23:18,mturkno7226101,join
+21,text,BazaarAgent,128.2.220.133:39340,\N,2016-06-10 21:23:28,mturkno7226101,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+25,presence,Dave,73.200.163.231:50792,10,2016-06-10 21:23:32,mturkno7226101,join
+36,text,KSIM12,72.224.139.44:56759,3,2016-06-10 21:24:56,mturkno7226101,What do you all think? My first inclination is to go with Plan 2
+43,text,Dave,73.200.163.231:50792,10,2016-06-10 21:25:29,mturkno7226101,"I think plan 2 is best, mostly wind power and they get a tax credit"
+51,text,KSIM12,72.224.139.44:56759,3,2016-06-10 21:26:14,mturkno7226101,OK. Are we the only ones here? I don&#39;t see anyone else as having joined the discussion
+56,text,Dave,73.200.163.231:50792,10,2016-06-10 21:26:29,mturkno7226101,I think so
+58,text,KSIM12,72.224.139.44:56759,3,2016-06-10 21:26:42,mturkno7226101,"Hm, weird. OK."
+81,text,KSIM12,72.224.139.44:56759,3,2016-06-10 21:28:56,mturkno7226101,That&#39;s all I&#39;ve got
+83,text,Dave,73.200.163.231:50792,10,2016-06-10 21:29:11,mturkno7226101,"Looks good, ill add a sentence or 2 to the trade offs"
+121,text,BazaarAgent,128.2.220.133:39340,\N,2016-06-10 21:33:51,mturkno7226101,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+155,presence,KSIM12,72.224.139.44:56759,3,2016-06-10 21:38:02,mturkno7226101,leave
+156,presence,Dave,73.200.163.231:50792,10,2016-06-10 21:38:09,mturkno7226101,leave
+165,presence,BazaarAgent,128.2.220.133:39340,\N,2016-06-10 21:40:07,mturkno7226101,leave

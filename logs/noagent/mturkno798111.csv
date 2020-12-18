@@ -1,0 +1,43 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+1,presence,BazaarAgent,128.2.220.133:36826,\N,2016-06-06 21:23:52,mturkno798111,join
+3,presence,Bishop,108.4.81.71:49160,6,2016-06-06 21:23:53,mturkno798111,join
+6,presence,Chu,108.18.66.218:60378,12,2016-06-06 21:23:53,mturkno798111,join
+7,presence,kg,76.3.4.77:52199,5,2016-06-06 21:23:54,mturkno798111,join
+9,presence,MJ,107.15.36.214:51768,15,2016-06-06 21:23:58,mturkno798111,join
+13,text,BazaarAgent,128.2.220.133:36826,\N,2016-06-06 21:24:03,mturkno798111,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+17,text,Chu,108.18.66.218:60378,12,2016-06-06 21:25:51,mturkno798111,I think plan 2 is the best one.
+18,text,Chu,108.18.66.218:60378,12,2016-06-06 21:26:27,mturkno798111,Definitely not plan 1 if the city is worried about renewable energy. 
+19,text,kg,76.3.4.77:52199,5,2016-06-06 21:26:45,mturkno798111,Good point chu.
+21,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:27:06,mturkno798111,"The requirements state that the city&#39;s budget is only $900,000,000 though. Plan 1 is the only one that is under cost. All of the others are over-budget."
+22,text,MJ,107.15.36.214:51768,15,2016-06-06 21:27:10,mturkno798111,Plan 2 sounds good. The city will have to find an extra $21 million.
+26,text,kg,76.3.4.77:52199,5,2016-06-06 21:27:45,mturkno798111,Yeah plan 1 may be best
+30,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:28:56,mturkno798111,"21 million seems like a pretty substantial amount of money to come up with on the fly. I do agree the plan 2 seems better based on all of their environmental concerns, but they still are using renewable sources of energy. It&#39;s just not the main source."
+32,text,MJ,107.15.36.214:51768,15,2016-06-06 21:29:16,mturkno798111,"Yeah, too bad we don&#39;t have an option between plans 1 and 2."
+34,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:29:31,mturkno798111,Maybe they could slowly phase out the coal source in the coming years?
+37,text,kg,76.3.4.77:52199,5,2016-06-06 21:30:00,mturkno798111,Yes they could be an option
+38,text,kg,76.3.4.77:52199,5,2016-06-06 21:30:13,mturkno798111,*that
+39,text,MJ,107.15.36.214:51768,15,2016-06-06 21:30:16,mturkno798111,Very true. If they adopted plan 1 they would have money to spend on more expensive plans in later years.
+41,text,kg,76.3.4.77:52199,5,2016-06-06 21:30:48,mturkno798111,yes good point
+42,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:30:50,mturkno798111,"Yeah, that&#39;s a good point. They could bank the remaining funds and put it towards increasing the use of water, wind, or nuclear."
+45,text,Chu,108.18.66.218:60378,12,2016-06-06 21:31:11,mturkno798111,You may need to consider in the long run how much the pollution that plan 1 will cost. 
+47,text,Chu,108.18.66.218:60378,12,2016-06-06 21:31:47,mturkno798111,Though I&#39;m not sure because it isn&#39;t stated.
+52,text,MJ,107.15.36.214:51768,15,2016-06-06 21:32:34,mturkno798111,"The waste disposal and carbon tax kind of address those costs. In a simple, monetary way at least."
+59,text,kg,76.3.4.77:52199,5,2016-06-06 21:33:49,mturkno798111,that is true 
+60,text,Chu,108.18.66.218:60378,12,2016-06-06 21:33:53,mturkno798111,true
+61,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:33:57,mturkno798111,"That&#39;s true too. It&#39;s possible it might cost more in the future, but I&#39;m not sure how we would determine that."
+64,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:34:18,mturkno798111,Looks like we have about 4 minutes left..do we want to pick a plan and start writing the proposal?
+67,text,BazaarAgent,128.2.220.133:36826,\N,2016-06-06 21:34:26,mturkno798111,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+68,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:34:40,mturkno798111,I vote plan 1.
+69,text,kg,76.3.4.77:52199,5,2016-06-06 21:34:41,mturkno798111,yes bishop 
+70,text,Chu,108.18.66.218:60378,12,2016-06-06 21:34:42,mturkno798111,It loos like plan 1 is the best in terms of cost. 
+72,text,kg,76.3.4.77:52199,5,2016-06-06 21:34:46,mturkno798111,i vote plan 1
+79,text,MJ,107.15.36.214:51768,15,2016-06-06 21:35:49,mturkno798111,I would like to note in the proposal that the city should switch to one of the other plans later on.
+82,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:36:02,mturkno798111,I think that might fit well under the trade-off?
+84,text,MJ,107.15.36.214:51768,15,2016-06-06 21:36:25,mturkno798111,I think so.
+91,presence,MJ,107.15.36.214:51768,15,2016-06-06 21:38:27,mturkno798111,leave
+93,presence,Chu,108.18.66.218:60378,12,2016-06-06 21:38:33,mturkno798111,leave
+94,text,Bishop,108.4.81.71:49160,6,2016-06-06 21:38:38,mturkno798111,Did it record the whole proposal? My pad disconnected.
+96,text,kg,76.3.4.77:52199,5,2016-06-06 21:39:02,mturkno798111,yes
+99,presence,Bishop,108.4.81.71:49160,6,2016-06-06 21:39:09,mturkno798111,leave
+100,presence,kg,76.3.4.77:52199,5,2016-06-06 21:39:30,mturkno798111,leave
+102,presence,BazaarAgent,128.2.220.133:36826,\N,2016-06-06 21:39:41,mturkno798111,leave

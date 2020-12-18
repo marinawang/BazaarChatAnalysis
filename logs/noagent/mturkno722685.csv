@@ -1,0 +1,90 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,ems,73.194.89.81:53216,42,2016-06-08 21:23:50,mturkno722685,join
+2,presence,BazaarAgent,128.2.220.133:38099,\N,2016-06-08 21:23:50,mturkno722685,join
+4,presence,Jordy,108.36.226.31:60381,33,2016-06-08 21:23:50,mturkno722685,join
+5,presence,LissaMS,76.18.77.148:62003,24,2016-06-08 21:23:50,mturkno722685,join
+8,presence,Randomacts,71.93.52.66:11529,35,2016-06-08 21:23:53,mturkno722685,join
+12,text,BazaarAgent,128.2.220.133:38099,\N,2016-06-08 21:24:00,mturkno722685,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+16,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:24:37,mturkno722685,I&#39;m thinking Plan 3 might be the best option here.
+18,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:25:19,mturkno722685,"Are we looking for just cost, or enviromental benefit as well."
+19,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:25:24,mturkno722685,Most of the interest so far has been in wind&#x2F;hydro solutions.
+23,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:25:48,mturkno722685,oh i see nevermind
+24,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:25:57,mturkno722685,Well as long as it isn&#39;t a heavy coal plan...
+26,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:26:29,mturkno722685,yea im leaning toward nuclear or hydro
+29,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:26:49,mturkno722685,"I personally think coal makes more sense, but noticed that I was the ONLY person who thought that."
+30,text,ems,73.194.89.81:53216,42,2016-06-08 21:26:53,mturkno722685,I like plan 2 
+31,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:27:05,mturkno722685,"coal is a good option, just horrible for the enviroment"
+32,text,ems,73.194.89.81:53216,42,2016-06-08 21:27:08,mturkno722685,Coal kills the environment though
+33,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:27:21,mturkno722685,yeah coal is cheap but kills
+35,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:27:33,mturkno722685,"I really do not know much about nuclear, although i did hear it was a very clean source"
+36,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:27:35,mturkno722685,Nuclear (current gen stuff) is safe but cost a lot to setup.
+38,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:27:41,mturkno722685,oh ok
+39,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:27:49,mturkno722685,"Don&#39;t be fooled - wind farms and hydro plants are extremely damaging to the environment. Just no smokestacks, so they get a pass."
+42,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:28:03,mturkno722685,the only reason I said that wind would not be a good idea was because i felt it would be inconsistent to be honest
+43,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:28:04,mturkno722685,The main thing is nuclear has a branding issue.. The new stuff is nothing like the old 60s stuff that wasn&#39;t very safe.
+47,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:28:30,mturkno722685,So what plan do you guys want to go with?
+48,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:28:30,mturkno722685,Agreed - nuclear is a preferred option all across Europe.
+51,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:28:46,mturkno722685,"Yeah plan 2 actually is good, they did say it was a windy city"
+52,text,ems,73.194.89.81:53216,42,2016-06-08 21:28:50,mturkno722685,I like nuclear too but it does have a higher cost per MWh
+54,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:29:02,mturkno722685,so it either wind or nuclear
+56,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:29:06,mturkno722685,What are the pros of each one
+57,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:29:06,mturkno722685,Gen 4 &#39;should&#39; fix that.. but gen 4 is 2025? ish
+59,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:29:27,mturkno722685,nuclear is expensive but clean and reliable 
+60,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:29:31,mturkno722685,"Plan 2 will make everyone feel the best about the environment, and has the lowest cost not based on coal."
+61,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:29:31,mturkno722685,Basically
+62,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:29:45,mturkno722685,I wish we had a lower then 20% coal option but oh well
+65,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:29:52,mturkno722685,haha
+66,text,ems,73.194.89.81:53216,42,2016-06-08 21:30:02,mturkno722685,Coal helps keep the cost down though
+68,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:30:04,mturkno722685,I switched to option 2
+69,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:30:05,mturkno722685,"im gonna say plan 2 as well, simply because of the cost"
+70,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:30:14,mturkno722685,Yeah they said they had a limited budget.
+72,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:30:21,mturkno722685,cheap plus enviromentall friendly
+73,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:30:22,mturkno722685,Exactly
+74,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:30:25,mturkno722685,at least compared to the others
+75,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:30:32,mturkno722685,They can always switch the 20% of the coal to nuclear 
+76,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:30:44,mturkno722685,That would make it 40% 40% 20%
+78,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:30:59,mturkno722685,But that would be 10 years or so later
+82,text,ems,73.194.89.81:53216,42,2016-06-08 21:31:26,mturkno722685,switching the 20% coal to nuclear would still increase the cost by quite a bit though
+83,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:31:40,mturkno722685,what are the trade offs for wind energy ?
+85,text,ems,73.194.89.81:53216,42,2016-06-08 21:31:47,mturkno722685,not as reliable
+86,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:32:00,mturkno722685,yea thats the only one I could think of
+87,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:32:03,mturkno722685,Wind has noise pollution and kills birds. 
+88,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:32:10,mturkno722685,"maybe difficult to find a place to put them, especailly being in a city"
+91,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:32:21,mturkno722685,"bird population damage, noise pollution, unattractive to look at infrastructure"
+92,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:32:39,mturkno722685,good points
+97,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:32:59,mturkno722685,"Idk if you guys watch basketball, but the cavs are up 20...."
+101,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:33:21,mturkno722685,I did not even think of bird damage though
+102,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:33:37,mturkno722685,I&#39;m just wondering why solar isn&#39;t an option under one of the plans
+103,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:33:58,mturkno722685,Im sure that would have been the favorite
+105,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:34:03,mturkno722685,"wind farms kill LOTS of birds - plus they make many acres of land unusable. I agree, why isn&#39;t solar an ooption?"
+108,text,BazaarAgent,128.2.220.133:38099,\N,2016-06-08 21:34:22,mturkno722685,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+111,text,ems,73.194.89.81:53216,42,2016-06-08 21:34:28,mturkno722685,solar takes up lots of land and is pretty inefficient though
+113,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:34:43,mturkno722685,i feel like solar would be more efficent then wind though
+114,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:34:45,mturkno722685,Solar is a really good option. In LA you can get solar for nearly free due to tax breaks to cover 99.9% of your power needs.
+115,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:34:54,mturkno722685,waiting for improvements in battery power for solar to really get a grip
+117,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:34:58,mturkno722685,"I dont know what the cost of solar would be, but I doubt it is more then nuclear"
+119,text,ems,73.194.89.81:53216,42,2016-06-08 21:35:01,mturkno722685,no energy collection at night thoug
+121,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:35:12,mturkno722685,That is why you don&#39;t only have solar. 
+124,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:35:30,mturkno722685,On a side note.. I wish we had more hits like this. This has been pretty fun.
+126,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:35:41,mturkno722685,I was suprised i got into it to be honest haha
+127,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:36:01,mturkno722685,what do you guys sort your hits by?
+129,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:36:08,mturkno722685,newest 
+130,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:36:16,mturkno722685,"So, we all in agreement that option 2 is the compromise pick?"
+131,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:36:17,mturkno722685,by pay i mean
+132,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:36:20,mturkno722685,and yea lisa
+134,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:36:22,mturkno722685,I think so Lissa
+135,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:36:30,mturkno722685,kk
+136,text,ems,73.194.89.81:53216,42,2016-06-08 21:36:31,mturkno722685,yup
+142,text,LissaMS,76.18.77.148:62003,24,2016-06-08 21:36:55,mturkno722685,thanks to whoever was filling out the proposal window :-)
+144,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:37:19,mturkno722685,yup
+146,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:37:27,mturkno722685,"Honestly, I thought it was just for me though haha"
+153,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:38:20,mturkno722685,have a good night guys
+154,text,Randomacts,71.93.52.66:11529,35,2016-06-08 21:38:24,mturkno722685,Righto
+158,presence,LissaMS,76.18.77.148:62003,24,2016-06-08 21:38:34,mturkno722685,leave
+159,text,Jordy,108.36.226.31:60381,33,2016-06-08 21:38:35,mturkno722685,God Bless
+161,presence,Randomacts,71.93.52.66:11529,35,2016-06-08 21:38:38,mturkno722685,leave
+163,presence,ems,73.194.89.81:53216,42,2016-06-08 21:38:40,mturkno722685,leave
+165,presence,Jordy,108.36.226.31:60381,33,2016-06-08 21:38:45,mturkno722685,leave
+166,presence,Jordy,108.36.226.31:60421,33,2016-06-08 21:38:46,mturkno722685,leave
+167,presence,Jordy,undefined:undefined,33,2016-06-08 21:38:46,mturkno722685,join
+171,presence,BazaarAgent,128.2.220.133:38099,\N,2016-06-08 21:39:39,mturkno722685,leave

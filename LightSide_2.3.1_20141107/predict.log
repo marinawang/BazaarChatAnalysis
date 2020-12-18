@@ -1,0 +1,68 @@
+Aug 22, 2016 1:12:05 AM edu.cmu.side.recipe.Predictor main
+INFO: loading predictor from saved/gst_reasoning_model.model.xml
+java.io.FileNotFoundException: toolkits/english.stp (No such file or directory)
+	at java.io.FileInputStream.open(Native Method)
+	at java.io.FileInputStream.<init>(FileInputStream.java:146)
+	at java.io.FileInputStream.<init>(FileInputStream.java:101)
+	at plugins.features.BasicFeatures.<init>(BasicFeatures.java:131)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:57)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:526)
+	at edu.cmu.side.plugin.control.PluginLoader.<init>(PluginLoader.java:53)
+	at edu.cmu.side.plugin.control.PluginWrapper.getSIDEPlugin(PluginWrapper.java:52)
+	at edu.cmu.side.plugin.control.PluginWrapper.getType(PluginWrapper.java:64)
+	at edu.cmu.side.plugin.control.PluginManager.createPluginTypeMap(PluginManager.java:163)
+	at edu.cmu.side.plugin.control.PluginManager.<init>(PluginManager.java:190)
+	at edu.cmu.side.plugin.control.PluginManager.getSharedPluginManager(PluginManager.java:204)
+	at edu.cmu.side.plugin.control.PluginManager.getPluginByClassname(PluginManager.java:212)
+	at edu.cmu.side.plugin.SIDEPlugin.fromSerializable(SIDEPlugin.java:155)
+	at edu.cmu.side.model.OrderedPluginMap.readObject(OrderedPluginMap.java:230)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.thoughtworks.xstream.converters.reflection.SerializationMethodInvoker.callReadObject(SerializationMethodInvoker.java:113)
+	at com.thoughtworks.xstream.converters.reflection.SerializableConverter.doUnmarshal(SerializableConverter.java:425)
+	at com.thoughtworks.xstream.converters.reflection.AbstractReflectionConverter.unmarshal(AbstractReflectionConverter.java:234)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72)
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:65)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50)
+	at com.thoughtworks.xstream.converters.reflection.SerializableConverter$2.readFromStream(SerializableConverter.java:311)
+	at com.thoughtworks.xstream.core.util.CustomObjectInputStream.readObjectOverride(CustomObjectInputStream.java:104)
+	at java.io.ObjectInputStream.readObject(ObjectInputStream.java:364)
+	at edu.cmu.side.model.Recipe.readObject(Recipe.java:468)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:606)
+	at com.thoughtworks.xstream.converters.reflection.SerializationMethodInvoker.callReadObject(SerializationMethodInvoker.java:113)
+	at com.thoughtworks.xstream.converters.reflection.SerializableConverter.doUnmarshal(SerializableConverter.java:425)
+	at com.thoughtworks.xstream.converters.reflection.AbstractReflectionConverter.unmarshal(AbstractReflectionConverter.java:234)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convert(TreeUnmarshaller.java:72)
+	at com.thoughtworks.xstream.core.AbstractReferenceUnmarshaller.convert(AbstractReferenceUnmarshaller.java:65)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:66)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.convertAnother(TreeUnmarshaller.java:50)
+	at com.thoughtworks.xstream.core.TreeUnmarshaller.start(TreeUnmarshaller.java:134)
+	at com.thoughtworks.xstream.core.AbstractTreeMarshallingStrategy.unmarshal(AbstractTreeMarshallingStrategy.java:32)
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1058)
+	at com.thoughtworks.xstream.XStream.unmarshal(XStream.java:1042)
+	at com.thoughtworks.xstream.XStream.fromXML(XStream.java:913)
+	at edu.cmu.side.recipe.converters.ConverterControl.readFromXML(ConverterControl.java:130)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:97)
+	at edu.cmu.side.recipe.converters.ConverterControl.loadRecipe(ConverterControl.java:69)
+	at edu.cmu.side.recipe.Chef.loadRecipe(Chef.java:222)
+	at edu.cmu.side.recipe.Predictor.loadModel(Predictor.java:306)
+	at edu.cmu.side.recipe.Predictor.<init>(Predictor.java:95)
+	at edu.cmu.side.recipe.Predictor.main(Predictor.java:360)
+URL file:/Users/xuwang/Desktop/workspace/bazaar/LightSide_2.3.1_20141107/wekafiles/packages/bayesianLogisticRegression/bayesianLogisticRegression.jar is already in the CLASSPATH
+URL file:/Users/xuwang/Desktop/workspace/bazaar/LightSide_2.3.1_20141107/wekafiles/packages/chiSquaredAttributeEval/chiSquaredAttributeEval.jar is already in the CLASSPATH
+URL file:/Users/xuwang/Desktop/workspace/bazaar/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/lib/liblinear-1.8.jar is already in the CLASSPATH
+URL file:/Users/xuwang/Desktop/workspace/bazaar/LightSide_2.3.1_20141107/wekafiles/packages/LibLINEAR/LibLINEAR.jar is already in the CLASSPATH
+URL file:/Users/xuwang/Desktop/workspace/bazaar/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/lib/libsvm.jar is already in the CLASSPATH
+URL file:/Users/xuwang/Desktop/workspace/bazaar/LightSide_2.3.1_20141107/wekafiles/packages/LibSVM/LibSVM.jar is already in the CLASSPATH
+Refreshing GOE props...
+[KnowledgeFlow] Loading properties and plugins...
+[KnowledgeFlow] Initializing KF...
+Reading POS tagger model from toolkits/maxent/english-caseless-left3words-distsim.tagger ... done [1.3 sec].

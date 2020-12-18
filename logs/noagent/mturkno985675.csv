@@ -1,0 +1,28 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+1,presence,BazaarAgent,128.2.220.133:37457,\N,2016-06-07 21:23:53,mturkno985675,join
+2,presence,Budday,174.102.174.27:50458,42,2016-06-07 21:23:54,mturkno985675,join
+4,presence,Rose,67.163.208.43:64669,20,2016-06-07 21:23:54,mturkno985675,join
+7,presence,blake,173.191.60.233:60990,25,2016-06-07 21:23:56,mturkno985675,join
+9,text,BazaarAgent,128.2.220.133:37457,\N,2016-06-07 21:24:04,mturkno985675,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+29,presence,AJ,104.229.238.135:59691,51,2016-06-07 21:27:14,mturkno985675,join
+30,text,Budday,174.102.174.27:50458,42,2016-06-07 21:27:16,mturkno985675,"It&#39;s too bad that there is only one plan that actually fits in the budget, but I believe that plan 3 is the best option available. Yes it is expensive, but focusing on nuclear power has more benefits with the only cost removing the waste, but it is still reasonably priced"
+31,text,Budday,174.102.174.27:50458,42,2016-06-07 21:27:32,mturkno985675,What do the rest of you think right away?
+39,text,Rose,67.163.208.43:64669,20,2016-06-07 21:28:36,mturkno985675,I prefer Plan 2 as it utilizes wind energy -- which is the most environmentally friendly -- yet only plan 1 seems to fit the budget. 
+40,text,blake,173.191.60.233:60990,25,2016-06-07 21:28:38,mturkno985675,I believe plan 2 to be the best over all and for the future. 
+47,text,Rose,67.163.208.43:64669,20,2016-06-07 21:29:11,mturkno985675,I agree. I am sure we can reach some sort of middle ground. 
+55,text,Rose,67.163.208.43:64669,20,2016-06-07 21:29:47,mturkno985675,I would be in favor of wind energy being the majority since something that is environmentally friendly seems to be a huge priority for this city. 
+58,text,Budday,174.102.174.27:50458,42,2016-06-07 21:30:13,mturkno985675,"sure, it is more cost effective too. Wind energy is something I am absolutely happy with focusing on"
+65,text,AJ,104.229.238.135:59691,51,2016-06-07 21:31:28,mturkno985675,"I agree, plan 2 is the best one considering both the carbon issue and cost."
+73,text,Budday,174.102.174.27:50458,42,2016-06-07 21:32:35,mturkno985675,"It&#39;s slightly over budget, but it&#39;s closer than any other option that I would agree with. It will pay off in the long run for sure"
+83,text,blake,173.191.60.233:60990,25,2016-06-07 21:33:52,mturkno985675,"most cities can go over budget, with in reason "
+84,text,Budday,174.102.174.27:50458,42,2016-06-07 21:34:07,mturkno985675,True
+88,text,BazaarAgent,128.2.220.133:37457,\N,2016-06-07 21:34:26,mturkno985675,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+91,text,Rose,67.163.208.43:64669,20,2016-06-07 21:35:17,mturkno985675,"I have been writing a few things on the etherpad --- can everyone else see what I write there as well? If so, feel free to add to it. "
+93,text,Rose,67.163.208.43:64669,20,2016-06-07 21:35:42,mturkno985675,"OK, I see others additions as well. This is great."
+102,presence,Rose,67.163.208.43:64669,20,2016-06-07 21:38:35,mturkno985675,leave
+105,presence,blake,173.191.60.233:60990,25,2016-06-07 21:38:47,mturkno985675,leave
+106,presence,Budday,174.102.174.27:50458,42,2016-06-07 21:38:55,mturkno985675,leave
+108,presence,BazaarAgent,128.2.220.133:37457,\N,2016-06-07 21:39:42,mturkno985675,leave
+111,presence,AJ,104.229.238.135:59691,51,2016-06-07 21:42:26,mturkno985675,leave
+132,presence,Xu,128.2.161.167:53765,0,2016-06-08 19:57:26,mturkno985675,join
+133,presence,Xu,128.2.161.167:53765,0,2016-06-08 19:57:32,mturkno985675,leave

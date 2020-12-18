@@ -1,0 +1,38 @@
+2016-06-07,21:23:53,0,BazaarAgent,1465349034293,"Welcome, Bunny
+",INTRODUCTION
+2016-06-07,21:23:53,0,BazaarAgent,1465349036355,"Welcome, darrius
+",INTRODUCTION
+2016-06-07,21:23:53,0,BazaarAgent,1465349038358,"Welcome, JS
+",INTRODUCTION
+2016-06-07,21:24:03,0,BazaarAgent,1465349044363,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-07,21:24:45,0,Bunny,1465349087905,Thank you. Hello.,neg
+2016-06-07,21:25:14,0,Bunny,1465349117615,I think the benefits of wind power greatly outweigh the other options in every way that matters.,POSITIVITY+GIVING_OPINION+pos
+2016-06-07,21:25:30,0,Bunny,1465349130489,"It is efficient, endless and inexpensive.",GIVING_OPINION+neg
+2016-06-07,21:25:44,0,darrius,1465349145083,"I tended to favor nuclear, personally.",neg
+2016-06-07,21:26:18,0,darrius,1465349178690,Wind isn't always constant though.,POSITIVITY+pos
+2016-06-07,21:26:53,0,Bunny,1465349213835,"That is true, but due to the area I dont think that would be a serious issue.",GIVING_OPINION+GIVING_ORIENTATION+PREDICTION_CONTRIBUTION+pos
+2016-06-07,21:27:14,0,JS,1465349234858,I agree with Bunny that wind power is the best to meet our two main objectives:  it is environmentally friendly and has low start-up costs,POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+AGREE+pos
+2016-06-07,21:27:29,0,Bunny,1465349249477,Are there any particular reasons you favor nuclear energy?,QUESTION+neg
+2016-06-07,21:27:29,0,darrius,1465349253143,"Wind farms are very large and take up a lot of space, and one would not be able to put it in the city because the air would not get to it as efficiently.",POSITIVITY+pos
+2016-06-07,21:27:50,0,darrius,1465349272652,So it may end up in the nature preserves that the city wants.,pos
+2016-06-07,21:28:38,0,darrius,1465349319168,Nuclear energy has a small physical footprint in comparison and does not have greenhouse emissions.,pos
+2016-06-07,21:29:02,0,Bunny,1465349343058,I think they city would be able to find room for these turbines with a lot less disturbance to nature and animals in the long run. All other options cause deadly pollution.,GIVING_OPINION+SILLYNESS+pos
+2016-06-07,21:29:13,0,JS,1465349354944,"Are you the one typing on the etherpad, Darrius?  Do you support plan 1?",PLAN+QUESTION+PLAN1+neg
+2016-06-07,21:29:22,0,BazaarAgent,1465349364491,"Hey JS, can you elaborate on the reason you chose plan 1 from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-06-07,21:29:26,0,darrius,1465349367033,"I have not typed there, no.",neg
+2016-06-07,21:30:02,0,JS,1465349402901,"I actually didn't select plan 1, I selected plan 2",PLAN+PLAN2+PLAN1+neg
+2016-06-07,21:30:18,0,darrius,1465349419201,"Nuclear, as far as I know, does not pollute. The waste is taken and stored in a secure location.",neg
+2016-06-07,21:30:28,0,JS,1465349429710,In large part because I believe that wind power does the most to meet the main objectives ,POSITIVITY+GIVING_OPINION+pos
+2016-06-07,21:31:15,0,darrius,1465349476606,"In any case, anything is better than the plan that favors coal. ",GIVING_ORIENTATION+pos
+2016-06-07,21:31:44,0,Bunny,1465349504378,I agree with plan 2,PLAN+GIVING_ORIENTATION+AGREE+PLAN2+neg
+2016-06-07,21:31:52,0,BazaarAgent,1465349512530,"Hey Bunny, you have proposed plan 2, and JS has proposed plan 1. What do you think are the most important trade-offs between the two plans from your perspective of what would be the most economical ?",plan_reasoning
+2016-06-07,21:32:35,0,JS,1465349555805,I selected plan 2 as well,PLAN+PLAN2+neg
+2016-06-07,21:33:07,0,darrius,1465349588067,I will have to compromise and favor 2 if 3 is not an option for anyone else. ,neg
+2016-06-07,21:34:28,0,BazaarAgent,1465349668564,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-07,21:34:40,0,Bunny,1465349680759,I think the cost difference between plans 1 and  2 will be defered by either the costly pollution that they would produce or the fact that these enery sources will not last and a new source will need to be created ,GIVING_OPINION+HELP_REQUEST+AUDIO_SOURCE+PREDICTION_CONTRIBUTION+pos
+2016-06-07,21:35:17,0,JS,1465349718376,Bunny - do you want to take a stab at writing a short proposal in support of option 2?,PLAN+GIVING_OPINION+QUESTION+PLAN2+neg
+2016-06-07,21:35:35,0,JS,1465349736060,and perhaps we can incorporate a cautionary note from darrius,EXPLANATION_CONTRIBUTION+neg
+2016-06-07,21:35:49,0,JS,1465349750280,about the risks of relying on wind power,POSITIVITY+pos
+2016-06-07,21:35:57,0,darrius,1465349757319,Was there someone here that wanted plan 1? ,PLAN+QUESTION+PLAN1+neg
+2016-06-07,21:36:06,0,JS,1465349766960,"no, i don't know where that is coming from",HELP+neg
+2016-06-07,21:36:43,0,darrius,1465349803286,Who is writing on the etherpad?,QUESTION+neg

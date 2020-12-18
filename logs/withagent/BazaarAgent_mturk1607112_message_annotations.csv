@@ -1,0 +1,31 @@
+2016-07-11,20:52:58,0,BazaarAgent,1468284780397,"Welcome, SA
+",INTRODUCTION
+2016-07-11,20:53:01,0,BazaarAgent,1468284782443,"Welcome, heh86
+",INTRODUCTION
+2016-07-11,20:53:07,0,BazaarAgent,1468284788448,"Welcome, LS
+",INTRODUCTION
+2016-07-11,20:53:07,0,BazaarAgent,1468284790451,"Welcome, Misty
+",INTRODUCTION
+2016-07-11,20:53:08,0,BazaarAgent,1468284792454,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-07-11,20:56:34,0,LS,1468284996579,"I believe that plan 2 would be the best option. It uses wind more than any other source, has $0 for waste disposal and $0 for carbon tax. It also has a good tax credit. It may be over budget, but is is not by much. It was the 3rd most costly plan there is. The only plan that is in budget has a large carbon tax. Plan 1 is just not a good option for the city.",PLAN+POSITIVITY+GIVING_OPINION+AUDIO_SOURCE+PLAN2+PLAN1+pos
+2016-07-11,20:57:14,0,SA,1468285034688,"While plan 2 is over budget, it isnt by much. Also, the wind energy will be very clean compared to the cheapest planm the coal. Since the city's concern is to be clean, this is the best choice between being clean and being in budget.",PLAN+POSITIVITY+GIVING_OPINION+EXPLANATION_CONTRIBUTION+PLAN2+pos
+2016-07-11,20:57:47,0,Misty,1468285068016,"Based on all the other options, I believe having Plan 2 would be the obvious choice as it is the second cheapest option, while optimizing a higher percentage of of clean energy, which would be exactly what the city is looking for.",PLAN+GIVING_OPINION+QUESTION+PLAN2+pos
+2016-07-11,20:57:58,0,heh86,1468285079141,"I also believe that plan 2 would be the best fit for this city. It is slightly above the budget, but I believe that the benefits would make this additional cost worth it in the long run. ",PLAN+GIVING_OPINION+PLAN2+pos
+2016-07-11,20:58:13,0,SA,1468285093671,i agree that plan 1 is not good for the city. especially since the city's economy is dependent on tourism and its environment,PLAN+POSITIVITY+GIVING_ORIENTATION+AGREE+EXPLANATION_CONTRIBUTION+PLAN1+pos
+2016-07-11,20:58:13,0,BazaarAgent,1468285094554,"Hey heh86, you have proposed plan 2, and SA has proposed plan 1. Can you compare the two plans from your perpsective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-07-11,20:58:41,0,SA,1468285121881,"i proposed plan 2, not plan 1",PLAN+PLAN2+PLAN1+neg
+2016-07-11,20:59:05,0,Misty,1468285146192,"Yes, as the environment is one of the major attractions, it's great to keep it less polluted.",AFFIRMATIVE+pos
+2016-07-11,20:59:23,0,LS,1468285164260,"I agree with heh86, Plan 2 has more benefits that outweigh the cons. ",PLAN+GIVING_ORIENTATION+AGREE+PLAN2+pos
+2016-07-11,21:00:02,0,SA,1468285203332,"additionally the cost of wind turbines is much cheaper than building a dam to harvest hydroelectric power, which is the next cleanest option.",POSITIVITY+pos
+2016-07-11,21:00:52,0,LS,1468285253960,Hydroelectric power could also upset the ecosystem. The city is very proud of their bird and fish habitats. Hydroelectric plants could damage that.,NEGATIVE+pos
+2016-07-11,21:01:15,0,SA,1468285276025,The only concern i have with plan 2 is what if there is no wind for an extended period of time?,PLAN+POSITIVITY+QUESTION+PLAN2+pos
+2016-07-11,21:01:47,0,Misty,1468285308924,Wouldn't the excess be stored for a future use because of the unreliability of the wind?,POSITIVITY+QUESTION+neg
+2016-07-11,21:02:08,0,LS,1468285328620,"I think if there is no wind, then the other energy sources would pick up since they all three are 20% of the plan.",POSITIVITY+GIVING_OPINION+EXPLANATION_CONTRIBUTION+AUDIO_SOURCE+pos
+2016-07-11,21:02:22,0,SA,1468285343343,can that type of energy be stored for a while? i know that is the big issue with solar,QUESTION+pos
+2016-07-11,21:02:51,0,heh86,1468285371380,"I think that the lower cost of plan 1 definitely makes it an attractive option, but the long term benefits of plan 2 make it the best choice in my opinion. I really like the fact that unlike plan 1, plan 2 has no waste disposal cost or carbon tax associated with it.",PLAN+POSITIVITY+GIVING_OPINION+PLAN2+PLAN1+pos
+2016-07-11,21:03:33,0,BazaarAgent,1468285414651,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-07-11,21:04:47,0,SA,1468285489373,I think we're good with the proposal? if anyone has anything to add then feel free,POSITIVITY+GIVING_OPINION+QUESTION+neg
+2016-07-11,21:04:58,0,LS,1468285498358,I think we are good!,POSITIVITY+GIVING_OPINION+AFFIRMATIVE+neg
+2016-07-11,21:05:51,0,heh86,1468285552380,Looks great to me. All of my main thoughts have been expressed in the proposal.,pos
+2016-07-11,21:06:00,0,SA,1468285560962,good deal,POSITIVITY+neg
+2016-07-11,21:06:28,0,Misty,1468285589034,Mine too.  Well done everyone.,neg

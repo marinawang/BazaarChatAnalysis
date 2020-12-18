@@ -1,0 +1,36 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+3,presence,BazaarAgent,128.2.220.133:57705,\N,2016-05-25 21:53:39,mturkno927222,join
+10,presence,Minerva,75.139.228.76:59606,12,2016-05-25 21:53:42,mturkno927222,join
+12,presence,Kim,98.211.35.220:57146,21,2016-05-25 21:53:47,mturkno927222,join
+13,presence,Can,75.130.30.244:65225,11,2016-05-25 21:53:47,mturkno927222,join
+15,presence,wales,173.90.193.186:56333,22,2016-05-25 21:53:50,mturkno927222,join
+18,text,BazaarAgent,128.2.220.133:57705,\N,2016-05-25 21:53:52,mturkno927222,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+31,text,Kim,98.211.35.220:57146,21,2016-05-25 21:55:10,mturkno927222,"I think that Plan 4 is way too expensive, so it should be eliminated right away."
+33,text,Minerva,75.139.228.76:59606,12,2016-05-25 21:55:32,mturkno927222,I agree with Kim
+34,text,Can,75.130.30.244:65225,11,2016-05-25 21:55:35,mturkno927222,Me too
+35,text,Kim,98.211.35.220:57146,21,2016-05-25 21:55:56,mturkno927222,"It would probably be between plan 1 and 2, at least for me."
+36,text,Kim,98.211.35.220:57146,21,2016-05-25 21:56:23,mturkno927222,"Plan 2 focuses more on wind and less on coal, so that&#39;s a plus, too."
+38,text,Minerva,75.139.228.76:59606,12,2016-05-25 21:56:33,mturkno927222,"Even though Plan 2 is more expensive than Plan 1, I think it&#39;s more attractive in terms of reducing greenhouse gas emissions"
+40,text,wales,173.90.193.186:56333,22,2016-05-25 21:56:37,mturkno927222,Only way to stay in budget is plan 1
+41,text,Can,75.130.30.244:65225,11,2016-05-25 21:56:42,mturkno927222,1 is not environmentally friendly though. Which seems to be a big thing for them.
+43,text,Can,75.130.30.244:65225,11,2016-05-25 21:56:50,mturkno927222,i agree with Minerva
+44,text,Minerva,75.139.228.76:59606,12,2016-05-25 21:56:55,mturkno927222,Plus Plan 2 has no waste disposal cost
+45,text,wales,173.90.193.186:56333,22,2016-05-25 21:56:59,mturkno927222,"says who, coal is fine"
+46,text,Minerva,75.139.228.76:59606,12,2016-05-25 21:57:17,mturkno927222,Says who? The table of facts for each plan they presented us.
+48,text,Kim,98.211.35.220:57146,21,2016-05-25 21:57:29,mturkno927222,Plan 1 would be fine in the short term but the waste disposal cost + carbon tax would add up pretty quick.
+49,text,Can,75.130.30.244:65225,11,2016-05-25 21:57:30,mturkno927222,I think the cost is a fair tradeoff for environmental friendliness in this case
+51,text,Minerva,75.139.228.76:59606,12,2016-05-25 21:57:38,mturkno927222,I agree
+62,text,wales,173.90.193.186:56333,22,2016-05-25 21:58:41,mturkno927222,I reject the entire premise of this data. Lets just pick plan 2 but the data is wrong
+64,text,Kim,98.211.35.220:57146,21,2016-05-25 21:58:53,mturkno927222,So are we all in favor of plan 2?
+67,text,Can,75.130.30.244:65225,11,2016-05-25 21:59:03,mturkno927222,I am
+68,text,Minerva,75.139.228.76:59606,12,2016-05-25 21:59:09,mturkno927222,Yes
+84,text,BazaarAgent,128.2.220.133:57705,\N,2016-05-25 22:04:16,mturkno927222,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+91,text,Can,75.130.30.244:65225,11,2016-05-25 22:05:07,mturkno927222,The plan looks good. Is there anything else you guys wanted to touch on?
+94,text,Kim,98.211.35.220:57146,21,2016-05-25 22:05:35,mturkno927222,I think that Plan 2 having no waste disposal cost should be in the reason we picked it and not a trade-off :)
+102,presence,Kim,98.211.35.220:57146,21,2016-05-25 22:08:11,mturkno927222,leave
+103,presence,Minerva,75.139.228.76:59606,12,2016-05-25 22:08:17,mturkno927222,leave
+105,presence,Can,75.130.30.244:65225,11,2016-05-25 22:08:22,mturkno927222,leave
+108,presence,wales,173.90.193.186:56333,22,2016-05-25 22:08:41,mturkno927222,leave
+116,presence,BazaarAgent,128.2.220.133:57705,\N,2016-05-25 22:09:31,mturkno927222,leave
+131,presence,Xu,132.188.64.219:32510,0,2016-05-27 18:53:57,mturkno927222,join
+132,presence,Xu,132.188.64.219:32510,0,2016-05-27 18:54:23,mturkno927222,leave

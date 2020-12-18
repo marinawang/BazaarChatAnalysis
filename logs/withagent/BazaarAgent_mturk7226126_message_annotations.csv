@@ -1,0 +1,36 @@
+2016-06-12,17:53:00,0,BazaarAgent,1465768381292,"Welcome, dez
+",INTRODUCTION
+2016-06-12,17:53:01,0,BazaarAgent,1465768383379,"Welcome, Ellaina
+",INTRODUCTION
+2016-06-12,17:53:04,0,BazaarAgent,1465768385383,"Welcome, mark
+",INTRODUCTION
+2016-06-12,17:53:10,0,BazaarAgent,1465768391388,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-12,17:53:14,0,Ellaina,1465768396320,Hi everyone.,neg
+2016-06-12,17:53:34,0,mark,1465768414729,Hi everybody,neg
+2016-06-12,17:54:30,0,Ellaina,1465768474352,"I think plan 2 is the best.  It's relatively cheap, wouldn't have a carbon tax or any waste costs, and would have tax breaks for using it.  The start-up cost isn't bad either.",PLAN+GIVING_OPINION+PLAN2+pos
+2016-06-12,17:55:25,0,cmc,1465768527751,"Plan 1 is the only plan that is within the city's budget. While I think Plan 2 is preferable, we can't afford it. ",PLAN+GIVING_OPINION+PLAN2+PLAN1+pos
+2016-06-12,17:55:40,0,mark,1465768541404,I agree I think plan 2 is the best on balance for all the things the city wants to do.,PLAN+GIVING_OPINION+GIVING_ORIENTATION+AGREE+PLAN2+pos
+2016-06-12,17:55:56,0,dez,1465768557316,"I agree, I think plan 2 fits the demands of the city best.",PLAN+GIVING_OPINION+GIVING_ORIENTATION+AGREE+PLAN2+neg
+2016-06-12,17:56:21,0,mark,1465768582008,Wow you're right I missed the budget requirement,pos
+2016-06-12,17:56:40,0,Ellaina,1465768600688,"Plan 1 might be slightly more affordable now, but there will be waste costs/carbon tax costs every year with that plan.  That wouldn't be the case with plan 2, so it is actually cheaper",PLAN+GIVING_OPINION+PLAN2+PREDICTION_CONTRIBUTION+PLAN1+pos
+2016-06-12,17:56:49,0,dez,1465768609577,"Ellaina, exactly.",neg
+2016-06-12,17:57:36,0,mark,1465768657431,Are the costs all factored into the current budget?,QUESTION+neg
+2016-06-12,17:57:45,0,dez,1465768666410,"The city should look at additional revenue options to make up the difference; but if they want to follow their own moral standings, they can't compromise",GIVING_OPINION+pos
+2016-06-12,17:58:44,0,Ellaina,1465768724420,"Yeah, I agree.  I think it's important to remember what the city wants.  They want something that's going to lower their greenhouse emissions and not cause any waste.",GIVING_OPINION+GIVING_ORIENTATION+AFFIRMATIVE+AGREE+QUESTION+pos
+2016-06-12,17:59:20,0,Ellaina,1465768761335,Should we vote on it and decide who should write up the proposal?,QUESTION+neg
+2016-06-12,17:59:28,0,mark,1465768768644,I am fine with plan 2 then unless you both have something else,PLAN+AFFIRMATIVE+PLAN2+neg
+2016-06-12,17:59:56,0,dez,1465768796605,"Yeah, I'm good with 2",POSITIVITY+AFFIRMATIVE+neg
+2016-06-12,18:00:01,0,Ellaina,1465768802173,I'm good with 2 as well,POSITIVITY+neg
+2016-06-12,18:00:31,0,mark,1465768831407,Anyone want to volunteer to write the proposal?,GIVING_OPINION+QUESTION+neg
+2016-06-12,18:00:42,0,dez,1465768842404,I'll do it,neg
+2016-06-12,18:00:57,0,mark,1465768857605,"Okay great, thanks",AFFIRMATIVE+neg
+2016-06-12,18:01:02,0,Ellaina,1465768862691,"Ok, awesome Dez",POSITIVITY+AFFIRMATIVE+neg
+2016-06-12,18:03:35,0,BazaarAgent,1465769017668,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-12,18:04:22,0,dez,1465769063176,are you all able to see what I type into the proposal?,QUESTION+neg
+2016-06-12,18:04:27,0,cmc,1465769068053,Yes.,AFFIRMATIVE+neg
+2016-06-12,18:04:30,0,mark,1465769070823,Yes ,AFFIRMATIVE+neg
+2016-06-12,18:04:36,0,dez,1465769076688,ok; let me know if you want to add/rephrase anything,GIVING_OPINION+AFFIRMATIVE+neg
+2016-06-12,18:04:59,0,Ellaina,1465769099903,I think it looks good.  Good job.  :),SMILES+GROUP_BONDING+POSITIVITY+GIVING_OPINION+neg
+2016-06-12,18:05:03,0,mark,1465769103769,"Looks good to me, thanks again for writing it.",POSITIVITY+GIVING_OPINION+neg
+2016-06-12,18:06:44,0,dez,1465769204524,not a problem!,neg
+2016-06-12,18:07:14,0,mark,1465769234828,thanks everyone,neg

@@ -1,0 +1,54 @@
+2016-07-09,16:52:44,0,BazaarAgent,1468097564762,"Welcome, BLC
+",INTRODUCTION
+2016-07-09,16:52:54,0,BazaarAgent,1468097574823,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-07-09,16:53:02,0,BazaarAgent,1468097584830,"Welcome, Bagel
+",INTRODUCTION
+2016-07-09,16:53:50,0,BazaarAgent,1468097632845,"Welcome, CarefulTurker
+",INTRODUCTION
+2016-07-09,16:55:00,0,BazaarAgent,1468097700867,"Welcome, Court
+",INTRODUCTION
+2016-07-09,16:55:44,0,BLC,1468097746284,"The budget is said to be tight, but is it possible to solicit private donations to augment the budget? Additionally, how flexible is 'tight'? Is there potential for adjustment? ",GIVING_OPINION+QUESTION+pos
+2016-07-09,16:56:13,0,Court,1468097774657,Tight is a such a vague statement.,neg
+2016-07-09,16:56:49,0,BLC,1468097809592,Exactly.,neg
+2016-07-09,16:57:15,0,BLC,1468097835688,Makes it hard to determine if we need to stick within the budget or if not doing so would simply make the proposal less likely to be accepted.,POSITIVITY+GIVING_ORIENTATION+HELP_REQUEST+pos
+2016-07-09,16:57:42,0,Bagel,1468097863488,"Maybe it's saying $900,000,000 is the maximum it can afford, period.",GIVING_OPINION+GIVING_ORIENTATION+pos
+2016-07-09,16:57:51,0,Bagel,1468097871359,Like no going over that limit at all?,POSITIVITY+QUESTION+neg
+2016-07-09,16:57:53,0,Court,1468097874042,"I agree. Though there is only one option within the budget, but I don't see that being an option",GIVING_OPINION+GIVING_ORIENTATION+AGREE+pos
+2016-07-09,16:58:12,0,Bagel,1468097892919,"Yeah, everything goes over the budget really...weird.",AFFIRMATIVE+pos
+2016-07-09,16:58:53,0,Bagel,1468097935502,"Oh wait, it doesn't seem to take into account the ""renewable tax credit of $1/MWh.""",pos
+2016-07-09,16:59:08,0,Court,1468097949634,"Plan 1 is within the budget but isn't renewable or environmentally friendly, which goes against what the city wants",PLAN+GIVING_OPINION+QUESTION+NEGATIVE+PLAN1+pos
+2016-07-09,16:59:26,0,Bagel,1468097966712,Oh I lied. I can't read.,neg
+2016-07-09,16:59:38,0,Court,1468097978354,lol you had me questioning myself,SMILES+neg
+2016-07-09,17:00:09,0,Bagel,1468098010012,"Well, everything is listed as an added cost, and the credit is written the same way, so it made me think of it as an added cost too.",pos
+2016-07-09,17:00:41,0,BLC,1468098041742,"Yeah, tax credit implies it reduces tax. I misread that at first too.",WF+AFFIRMATIVE+neg
+2016-07-09,17:00:46,0,Court,1468098046758,So i'm thinking maybe go over the budget a little?  I'd prefer Hydro but that's way over budget. Wind energy is clean and renewable. so plan 2 seems the best option,PLAN+POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+QUESTION+PLAN2+NEGATIVE+pos
+2016-07-09,17:00:59,0,Bagel,1468098059724,"I agree, plan 2 seems like the best choice.",PLAN+POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+AGREE+PLAN2+neg
+2016-07-09,17:01:08,0,BazaarAgent,1468098069051,"Hey Bagel, can you elaborate on the reason you chose plan 2 from your perspective of environmental friendliness and reliability ?",plan_reasoning
+2016-07-09,17:01:15,0,CarefulTurker,1468098075675,"i think so too, plan 4 seems needlessly expensive",PLAN+GIVING_OPINION+HELP_REQUEST+PLAN4+neg
+2016-07-09,17:01:23,0,BazaarAgent,1468098085057,"Hey CarefulTurker, you have proposed plan 4, and Bagel has proposed plan 2. What do you think are the most important trade-offs between the two plans from your perspective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-07-09,17:01:36,0,CarefulTurker,1468098097023,"no, i meant that plan 4 can be eliminated",PLAN+PLAN4+neg
+2016-07-09,17:01:44,0,Bagel,1468098105607,"Sure! Sorry, I didn't realize at first the Etherpad was shared! haha",SMILES+GIVING_OPINION+AFFIRMATIVE+neg
+2016-07-09,17:03:06,0,Bagel,1468098186828,"Plan 2 puts alot of its emphasis on wind, which is about as clean as it gets. However, it also has 40% overall in nuclear and hydro, which are both reliable sources of energy. ",PLAN+POSITIVITY+AUDIO_SOURCE+PLAN2+pos
+2016-07-09,17:03:19,0,BazaarAgent,1468098201083,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-07-09,17:03:37,0,Bagel,1468098218558,And putting the small amount in coal ensures as little environmental impact as possible.,pos
+2016-07-09,17:03:52,0,CarefulTurker,1468098233182,the majority of the energy in plan two is stable since it also has 60% of reliable sources of energy as well,PLAN+EXPLANATION_CONTRIBUTION+AUDIO_SOURCE+PLAN2+pos
+2016-07-09,17:04:01,0,Court,1468098241954,agreed!  You want to add that in? ,GIVING_OPINION+GIVING_ORIENTATION+AGREE+QUESTION+neg
+2016-07-09,17:04:15,0,Bagel,1468098255647,Solid copy-pasting ;),SMILES+SILLYNESS+neg
+2016-07-09,17:04:24,0,CarefulTurker,1468098264551,haha ill clean it up ,SMILES+neg
+2016-07-09,17:04:36,0,Bagel,1468098276957,kk so can we think of any trade offs that go into plan 2?,PLAN+HELP_REQUEST+QUESTION+PLAN2+neg
+2016-07-09,17:04:47,0,Bagel,1468098287445,"Like it's more expensive than 1, slightly going over the budget.",POSITIVITY+pos
+2016-07-09,17:05:28,0,Court,1468098329810,its more expensive but also cleaner and renewable which i think is more important to the city,GIVING_OPINION+pos
+2016-07-09,17:05:29,0,Bagel,1468098331278,Also 40% in wind power might be alot of wind turbines to build,POSITIVITY+GIVING_OPINION+pos
+2016-07-09,17:05:51,0,Bagel,1468098351582,I agree completely,GIVING_ORIENTATION+AGREE+neg
+2016-07-09,17:06:18,0,CarefulTurker,1468098379478,the natural bird habitats are a consideration as well,neg
+2016-07-09,17:06:25,0,Court,1468098385905,i was thinking about that,neg
+2016-07-09,17:06:56,0,Bagel,1468098416960,Feel free to edit if you don't like my wording haha,SMILES+POSITIVITY+NEGATIVE+neg
+2016-07-09,17:07:11,0,BLC,1468098431807,"Sorry, my internet went out lol.",SMILES+neg
+2016-07-09,17:07:19,0,Bagel,1468098439512,"No worries, you still got 45 seconds ;)",SMILES+neg
+2016-07-09,17:07:20,0,BLC,1468098440537,"Anyway, I agree with the adoption of plan 2.",PLAN+GIVING_ORIENTATION+AGREE+PLAN2+pos
+2016-07-09,17:07:23,0,Court,1468098444349,"i mean thats the only drawback of this plan, is the bird habitat",pos
+2016-07-09,17:07:43,0,CarefulTurker,1468098464376,"with careful placement, it shouldnt be a problem",PREDICTION_CONTRIBUTION+neg
+2016-07-09,17:07:45,0,Bagel,1468098466386,"Right, but even that can be avoided with careful planning. And it wouldn't be as bad as if it were 40% hydro",GIVING_OPINION+pos
+2016-07-09,17:08:04,0,Bagel,1468098484962,40% hydro would do more damage to bird and fish populations probably,GIVING_ORIENTATION+NEGATIVE+pos
+2016-07-09,17:08:06,0,BLC,1468098487655,"Yeah, exactly. You can't really do much to avoid impacting the fish, but you can work around the birds for the most part.",GIVING_OPINION+AFFIRMATIVE+pos
+2016-07-09,17:08:23,0,Bagel,1468098504401,So we should hit next step then I guess? Haha,SMILES+POSITIVITY+GIVING_OPINION+QUESTION+neg

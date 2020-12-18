@@ -1,0 +1,27 @@
+2016-06-12,17:53:02,0,BazaarAgent,1465768383004,"Welcome, wrangler21
+",INTRODUCTION
+2016-06-12,17:53:02,0,BazaarAgent,1465768385046,"Welcome, memee
+",INTRODUCTION
+2016-06-12,17:53:06,0,BazaarAgent,1465768387050,"Welcome, greensea
+",INTRODUCTION
+2016-06-12,17:53:12,0,BazaarAgent,1465768393053,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-12,17:53:42,0,BazaarAgent,1465768423064,"Welcome, skye
+",INTRODUCTION
+2016-06-12,17:56:04,0,skye,1465768567479,"considering the energy budget, are any of the options aside from plan 1 even a possibility?",PLAN+QUESTION+PLAN1+pos
+2016-06-12,17:56:53,0,memee,1465768615544,"I agree, plan 1 is the only one they can do due to budget requirements",PLAN+GIVING_ORIENTATION+AFFIRMATIVE+AGREE+PLAN1+pos
+2016-06-12,17:57:35,0,skye,1465768655411,"it's not exactly carbon neutral.. the least of the 4. but if the budget is non-negotiable, I think it is the only option.",GIVING_OPINION+pos
+2016-06-12,18:02:05,0,BazaarAgent,1465768927241,"Hey memee, which of the plans seems to be the best from your perspective of environmental friendliness and reliability ?",POKING
+2016-06-12,18:02:32,0,memee,1465768953215,I'm not sure there would be less toxic waste with plan 1,PLAN+GIVING_OPINION+AFFIRMATIVE+HELP+NEGATIVE+PLAN1+neg
+2016-06-12,18:03:01,0,greensea,1465768982041,"Plan 2 is definitely the best option. Over budget, but that cost can be recouped over time.",PLAN+GIVING_OPINION+PLAN2+pos
+2016-06-12,18:03:06,0,memee,1465768986137,I like plan 2,PLAN+POSITIVITY+PLAN2+neg
+2016-06-12,18:03:14,0,memee,1465768994123,Agree greensea,GIVING_ORIENTATION+AGREE+neg
+2016-06-12,18:03:37,0,BazaarAgent,1465769017260,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-12,18:03:49,0,skye,1465769029737,would wind energy be reliable enough?,POSITIVITY+QUESTION+neg
+2016-06-12,18:04:03,0,greensea,1465769043768,I really believe that it would.,neg
+2016-06-12,18:04:20,0,skye,1465769061458,which should we write for the proposal then? 2?,QUESTION+neg
+2016-06-12,18:05:03,0,greensea,1465769105458,"I heard about a European country recently (name escapes me, sorry) that was on wind and produced so much energy that it was actually *paying* customers over one weekend!",POSITIVITY+pos
+2016-06-12,18:05:29,0,skye,1465769129615,wouldn't that depend on wind in the particular area though?,POSITIVITY+QUESTION+neg
+2016-06-12,18:05:35,0,skye,1465769135886,"We should go with plan 2, just asking questions. ",PLAN+POSITIVITY+PLAN2+neg
+2016-06-12,18:05:43,0,memee,1465769143697,"Yes, too bad we can't advise on solar",AFFIRMATIVE+neg
+2016-06-12,18:05:57,0,greensea,1465769159133,"It would, I think, but city specs said ""windy""",POSITIVITY+GIVING_OPINION+neg
+2016-06-12,18:08:13,0,skye,1465769293370,i thought that was for a different city,neg

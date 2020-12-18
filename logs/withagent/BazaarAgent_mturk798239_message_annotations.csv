@@ -1,0 +1,27 @@
+2016-06-04,21:24:18,0,BazaarAgent,1465089860759,"Welcome, KellyC
+",INTRODUCTION
+2016-06-04,21:24:28,0,BazaarAgent,1465089870798,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-04,21:24:59,0,KellyC,1465089900543,hello,neg
+2016-06-04,21:25:13,0,BazaarAgent,1465089914817,"Welcome, derekc
+",INTRODUCTION
+2016-06-04,21:25:51,0,KellyC,1465089953227,"hey, is it just the two of us?",QUESTION+neg
+2016-06-04,21:26:24,0,derekc,1465089984876,hello,neg
+2016-06-04,21:26:54,0,KellyC,1465090015389,"I'm not sure if we're supposed to wait for more members, but I guess we can just start.",GIVING_OPINION+AFFIRMATIVE+HELP+neg
+2016-06-04,21:27:58,0,KellyC,1465090079150,I propose using the least amount of coal and nuclear power possible. They are just far too harmful for the environment and expensive and they don't satisfy the city's needs.,HELP_REQUEST+NEGATIVE+pos
+2016-06-04,21:28:25,0,derekc,1465090105485,I agree. I would choose wind energy,POSITIVITY+GIVING_ORIENTATION+AGREE+SAY_MORE_CANDIDATE+neg
+2016-06-04,21:29:14,0,KellyC,1465090156446,"Yeah, wind energy should be the highest percentage. Plan 4 is out because it's way over the budget",PLAN+POSITIVITY+GIVING_OPINION+AFFIRMATIVE+PLAN4+pos
+2016-06-04,21:29:50,0,derekc,1465090191685,Plan 2 has the second lowest total cost and uses 40% wind energy,PLAN+POSITIVITY+PLAN2+pos
+2016-06-04,21:29:51,0,BazaarAgent,1465090192980,"Hey KellyC, you have proposed plan 4, and derekc has proposed plan 2. Can you compare the two plans from your perpsective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-06-04,21:30:14,0,KellyC,1465090215523,"I would agree with Plan B.. it uses wind energy the most, is close to the proposed budget and has a nice renewable tax credit",PLAN+POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+PLAN2+pos
+2016-06-04,21:32:29,0,BazaarAgent,1465090351038,"Welcome, Andres
+",INTRODUCTION
+2016-06-04,21:33:15,0,KellyC,1465090396164,"So, even though it's kind of going to mess up their bird habitat.. other power sources are going to do the same AND harm the people of the city",TEASING+AUDIO_SOURCE+NEGATIVE+pos
+2016-06-04,21:33:50,0,derekc,1465090430763,"Yeah, I think it's the best chocie",GIVING_OPINION+AFFIRMATIVE+neg
+2016-06-04,21:34:53,0,BazaarAgent,1465090495088,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-04,21:35:43,0,KellyC,1465090545708,"okay, I think that's all my thoughts! feel free to add anything you'd like",POSITIVITY+GIVING_OPINION+AFFIRMATIVE+neg
+2016-06-04,21:36:09,0,Andres,1465090569526,"I agree it's also the best choice. I get the exercise is about economical plans and our plan goes over budget, we have to consider the environment as well.",GIVING_OPINION+GIVING_ORIENTATION+AGREE+pos
+2016-06-04,21:36:29,0,Andres,1465090590367,I think what you've written covers what I'm thinking at least.,GIVING_OPINION+QUESTION+neg
+2016-06-04,21:36:31,0,KellyC,1465090592111,"yeah, looking at all the plans, it doesnt even go AS over budget as others",AFFIRMATIVE+pos
+2016-06-04,21:36:54,0,KellyC,1465090614982,"and I think we all agree that wind power should be the focus, so it works pretty well",POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+pos
+2016-06-04,21:37:10,0,Andres,1465090631420,To be honest I argued a bit against wind energy but given the alternatives...I have to agree with you all.,POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+NEGATIVE+pos
+2016-06-04,21:38:05,0,KellyC,1465090686489,seeing the costs is really eye opening,pos

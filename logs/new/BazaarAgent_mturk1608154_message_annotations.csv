@@ -1,0 +1,39 @@
+2016-08-15,13:01:08,0,BazaarAgent,1471280470222,"Welcome, TwoMoreLeft
+",INTRODUCTION
+2016-08-15,13:01:18,0,BazaarAgent,1471280480367,"Welcome, daedallus
+",INTRODUCTION
+2016-08-15,13:01:18,0,BazaarAgent,1471280482370,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-08-15,13:01:40,0,BazaarAgent,1471280502473,"Welcome, ecko
+",INTRODUCTION
+2016-08-15,13:01:57,0,daedallus,1471280520848,"Hello, everybody. ",neg
+2016-08-15,13:02:25,0,daedallus,1471280545585,Are there not others present?,QUESTION+neg
+2016-08-15,13:02:26,0,TwoMoreLeft,1471280547172,Hello!,neg
+2016-08-15,13:02:42,0,ecko,1471280562292,Hello,neg
+2016-08-15,13:02:42,0,daedallus,1471280563863,Which energy plan do you suggest we adopt?,PLAN+PLAN4+QUESTION+neg
+2016-08-15,13:02:50,0,TwoMoreLeft,1471280570372,I like plan 2,PLAN+POSITIVITY+PLAN2+neg
+2016-08-15,13:02:52,0,BazaarAgent,1471280572886,"Hey daedallus, can you elaborate on the reason you chose plan 4 from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-08-15,13:02:58,0,BazaarAgent,1471280578918,"Hey TwoMoreLeft, you have proposed plan 2, and daedallus has proposed plan 4. What do you think are the most important trade-offs between the two plans from your perspective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-08-15,13:03:21,0,daedallus,1471280602539,The is incorrect; plan 2 was my selection.,PLAN+PLAN2+pos
+2016-08-15,13:03:38,0,daedallus,1471280618229,That*,PREDICTION_CONTRIBUTION+neg
+2016-08-15,13:04:01,0,TwoMoreLeft,1471280646184,"Nice, what does everyone else think then?",POSITIVITY+QUESTION+neg
+2016-08-15,13:04:12,0,TwoMoreLeft,1471280652967,Or is this everyone?,QUESTION+neg
+2016-08-15,13:04:33,0,ecko,1471280673641,If I am reading this correctly Plan 1 is the only choice. It is the only one that fits in the budget.  Am I missing something? ,PLAN+GIVING_OPINION+AFFIRMATIVE+QUESTION+PLAN1+pos
+2016-08-15,13:05:14,0,daedallus,1471280715064,"No, you hadn't misread. I've changed my selection to Plan 1.",PLAN+PLAN1+neg
+2016-08-15,13:05:47,0,BazaarAgent,1471280749675,"Welcome, TwoMoreLeft
+",INTRODUCTION
+2016-08-15,13:06:18,0,TwoMoreLeft,1471280779092,That makes sense. I'm assuming we have to stick by this budget then?,GIVING_OPINION+EXPLANATION_CONTRIBUTION+QUESTION+PREDICTION_CONTRIBUTION+neg
+2016-08-15,13:06:40,0,ecko,1471280800601,I am assuming so. ,AFFIRMATIVE+neg
+2016-08-15,13:08:04,0,ecko,1471280885179,It kinda takes choice out of the equation.  ,neg
+2016-08-15,13:08:29,0,TwoMoreLeft,1471280911550,"Yea, I would assume they would give us a little more room to work with",neg
+2016-08-15,13:08:31,0,daedallus,1471280912097,It does. How else should we justify our decision?,QUESTION+neg
+2016-08-15,13:09:27,0,ecko,1471280968063,That states it pretty clearly to me.  The only one within the budget. ,PREDICTION_CONTRIBUTION+pos
+2016-08-15,13:09:36,0,TwoMoreLeft,1471280978303,Maybe we can talk about how the savings could be used to modify the budget for the future?,POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+QUESTION+neg
+2016-08-15,13:09:57,0,TwoMoreLeft,1471280998183,I'm really stretching it though. ,neg
+2016-08-15,13:11:05,0,ecko,1471281066730,They could use the left over money to slowly switch to more environmentally friendly methods.  ,pos
+2016-08-15,13:11:19,0,TwoMoreLeft,1471281080207,"Yea, I like that idea. ",POSITIVITY+neg
+2016-08-15,13:11:43,0,BazaarAgent,1471281103849,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-08-15,13:11:43,0,ecko,1471281105212,And start phasing out the coal than the nuclear.,pos
+2016-08-15,13:14:12,0,ecko,1471281254962,The proposal looks good to me. Thanks whoever typed it up. ,POSITIVITY+GIVING_OPINION+neg
+2016-08-15,13:14:27,0,TwoMoreLeft,1471281267569,No prob. Anything else we should add?,POSITIVITY+QUESTION+neg
+2016-08-15,13:14:28,0,daedallus,1471281268491,"I agree. Thank you, TwoMoreLeft.",GIVING_ORIENTATION+AGREE+neg
+2016-08-15,13:15:15,0,ecko,1471281316083,It covers all the points. Well done TwoMoreLeft. ,SAY_MORE_CANDIDATE+neg

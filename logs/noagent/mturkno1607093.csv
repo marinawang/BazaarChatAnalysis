@@ -1,0 +1,50 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,BazaarAgent,128.2.220.133:56617,\N,2016-07-09 16:52:44,mturkno1607093,join
+1,presence,shalynoel,24.74.223.34:51660,10,2016-07-09 16:52:48,mturkno1607093,join
+2,text,BazaarAgent,128.2.220.133:56617,\N,2016-07-09 16:52:59,mturkno1607093,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+3,presence,alist,190.197.74.226:60776,13,2016-07-09 16:53:20,mturkno1607093,join
+4,presence,alist,190.197.74.226:60776,13,2016-07-09 16:54:13,mturkno1607093,leave
+5,text,shalynoel,24.74.223.34:51660,10,2016-07-09 16:55:49,mturkno1607093,is anyone here?
+6,text,shalynoel,24.74.223.34:51660,10,2016-07-09 16:58:32,mturkno1607093,"I am proposing Plan 2. As per the last discussion, most agreed that Wind was best. Wind makes up 40% of the plan. There are no waste costs, no carbon taxes and a higher tax credit. It is in the top two for cost as well, based on 40% of the cost coming from wind. "
+7,presence,Ziggy,74.141.144.151:54438,31,2016-07-09 16:58:45,mturkno1607093,join
+8,presence,Elena,24.253.98.225:63649,20,2016-07-09 16:58:45,mturkno1607093,join
+9,text,shalynoel,24.74.223.34:51660,10,2016-07-09 16:59:38,mturkno1607093,Hi Elena!
+10,text,Elena,24.253.98.225:63649,20,2016-07-09 17:00:00,mturkno1607093,Hi everyone!
+11,text,Ziggy,74.141.144.151:54438,31,2016-07-09 17:00:02,mturkno1607093,I agree that Plan 2 is the best; it seems like the best compromise between the listed goals and the cost analysis. 
+12,text,Elena,24.253.98.225:63649,20,2016-07-09 17:00:22,mturkno1607093,I think plan 2 is the best
+13,text,Elena,24.253.98.225:63649,20,2016-07-09 17:00:37,mturkno1607093,it is very environmentally-friendly 
+14,text,Elena,24.253.98.225:63649,20,2016-07-09 17:00:44,mturkno1607093,just like the city wats
+15,text,Elena,24.253.98.225:63649,20,2016-07-09 17:00:47,mturkno1607093,wats
+16,text,Elena,24.253.98.225:63649,20,2016-07-09 17:00:52,mturkno1607093,wants
+17,text,Elena,24.253.98.225:63649,20,2016-07-09 17:00:54,mturkno1607093,:-)
+18,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:00:55,mturkno1607093,"Ok, I&#39;m going to type that in the proposal and if anyone else comes, we can alter it if needed. "
+19,text,Elena,24.253.98.225:63649,20,2016-07-09 17:01:07,mturkno1607093,"great, sounds perfect"
+20,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:01:24,mturkno1607093,Do you have any trade offs we can list?
+21,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:01:29,mturkno1607093,While I&quot;m working on the reasons
+22,text,Elena,24.253.98.225:63649,20,2016-07-09 17:01:45,mturkno1607093,hydro and wind is very clean
+23,text,Elena,24.253.98.225:63649,20,2016-07-09 17:01:52,mturkno1607093,no pollution
+24,text,Elena,24.253.98.225:63649,20,2016-07-09 17:02:03,mturkno1607093,cheaper to maintain in the long run
+25,text,BazaarAgent,128.2.220.133:56617,\N,2016-07-09 17:03:21,mturkno1607093,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+26,text,Elena,24.253.98.225:63649,20,2016-07-09 17:03:24,mturkno1607093,"Although the initial set up is somewhat costly, like wind turbines or building a damn, it is totally worth as far as the environment concerned "
+27,text,Ziggy,74.141.144.151:54438,31,2016-07-09 17:03:29,mturkno1607093,One trade-off is that even though it isn&#39;t the cheapest plan listed - it is much cleaner than Plan 1 and focuses more on renewable and sustainable energy sources
+28,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:04:00,mturkno1607093,"Thanks Ziggy, and Elena. And feel free to edit any wording I put. I am not the greatest haha"
+29,text,Elena,24.253.98.225:63649,20,2016-07-09 17:04:11,mturkno1607093,no problem at all!
+30,text,Elena,24.253.98.225:63649,20,2016-07-09 17:04:37,mturkno1607093,"Everything looks good to me, you did a great job"
+31,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:04:39,mturkno1607093,Just trying to work through it in the time allotted. :) 
+32,text,Ziggy,74.141.144.151:54438,31,2016-07-09 17:05:13,mturkno1607093,"Thanks shalynoel, I think you did great! "
+33,text,Elena,24.253.98.225:63649,20,2016-07-09 17:05:14,mturkno1607093,"looks perfect, I would not alter anything, thanks for writing it out!"
+34,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:06:04,mturkno1607093,You&#39;re welcome. 
+35,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:06:28,mturkno1607093,Have a great Saturday! It&#39;s HOT here. Trying not to melt. 
+36,text,Elena,24.253.98.225:63649,20,2016-07-09 17:06:49,mturkno1607093,"I feel your pain, I&#39;m in Las Vegas, 102 now!:-)"
+37,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:06:55,mturkno1607093,NC and at 101
+38,text,Ziggy,74.141.144.151:54438,31,2016-07-09 17:06:56,mturkno1607093,It&#39;s blazing down here in Georgia too :)
+39,text,shalynoel,24.74.223.34:51660,10,2016-07-09 17:07:07,mturkno1607093,Hope you guys have good energy sources for AC 
+40,presence,shalynoel,24.74.223.34:51660,10,2016-07-09 17:07:22,mturkno1607093,leave
+41,text,Elena,24.253.98.225:63649,20,2016-07-09 17:07:54,mturkno1607093,Hope you all have a good weekend as well!
+42,text,Ziggy,74.141.144.151:54438,31,2016-07-09 17:08:27,mturkno1607093,"You too Elena! I&#39;m confused as to what happens next now, do we just disconnect??"
+43,presence,BazaarAgent,128.2.220.133:56617,\N,2016-07-09 17:08:37,mturkno1607093,leave
+44,text,Elena,24.253.98.225:63649,20,2016-07-09 17:09:16,mturkno1607093,I think we all wait for the click button to appear to proceed to the final stage. It says it will show up in 4 minutes.
+45,text,Ziggy,74.141.144.151:54438,31,2016-07-09 17:10:11,mturkno1607093,Doh! I just saw that at the bottom of the screen - hope shalynoel still gets their code after the work he&#x2F;she did 
+46,text,Elena,24.253.98.225:63649,20,2016-07-09 17:10:35,mturkno1607093,"Opps, I hope she does, too!"
+47,presence,Ziggy,74.141.144.151:54438,31,2016-07-09 17:13:55,mturkno1607093,leave
+48,presence,Elena,24.253.98.225:63649,20,2016-07-09 17:14:04,mturkno1607093,leave

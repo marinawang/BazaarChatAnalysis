@@ -1,0 +1,36 @@
+2016-06-12,17:53:01,0,BazaarAgent,1465768382019,"Welcome, R
+",INTRODUCTION
+2016-06-12,17:53:09,0,BazaarAgent,1465768390051,"Welcome, Xile
+",INTRODUCTION
+2016-06-12,17:53:11,0,BazaarAgent,1465768392055,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-12,17:54:14,0,BazaarAgent,1465768456074,"Welcome, KatieH0105
+",INTRODUCTION
+2016-06-12,17:54:22,0,BazaarAgent,1465768464078,"Welcome, R
+",INTRODUCTION
+2016-06-12,17:54:54,0,R,1465768495902,plan 1,PLAN+PLAN1+neg
+2016-06-12,17:55:04,0,BazaarAgent,1465768506108,"Hey R, can you elaborate on the reason you chose plan 1 from your perspective of what would be the most economical ?",plan_reasoning
+2016-06-12,17:55:23,0,BazaarAgent,1465768524116,"Welcome, lilikoi44
+",INTRODUCTION
+2016-06-12,17:55:34,0,R,1465768534585,Yes,AFFIRMATIVE+neg
+2016-06-12,17:55:54,0,R,1465768555107,Less cost,neg
+2016-06-12,17:56:12,0,Xile,1465768574513,"Plan 3, provided some leeway can be made in the costs.",PLAN+PLAN3+neg
+2016-06-12,17:56:22,0,BazaarAgent,1465768584151,"Hey Xile, you have proposed plan 3, and R has proposed plan 1. What do you think are the most important trade-offs between the two plans from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-06-12,17:57:08,0,R,1465768628931,Less cost,neg
+2016-06-12,17:57:49,0,lilikoi44,1465768671152,Hi everyone!  Was getting up to speed and reading the information.,neg
+2016-06-12,17:58:32,0,R,1465768712474,Plan 3 nuclear energy is too high,PLAN+PLAN3+pos
+2016-06-12,17:58:35,0,Xile,1465768717693,"The way I look at it, the city wants to have an environmentally friendly plant, but it does not want to pay a lot of money. It also does not have room for wind, nor does it want to effect the birds. Therefore the only real options are plan 1 or 3. I say 3 because the cost will come down over time, and it is more efficient. If the intial cost being a little higher is not ok, than plan 1 also works. ",PLAN+POSITIVITY+GIVING_OPINION+AFFIRMATIVE+EXPLANATION_CONTRIBUTION+PLAN1+pos
+2016-06-12,17:59:00,0,R,1465768740911,And the cost is higher,pos
+2016-06-12,17:59:58,0,lilikoi44,1465768799526,Plan 1 uses a lot of coal and endangers the desire to be carbon neutral.  I think it would be better to avoid that one.,PLAN+GIVING_OPINION+GIVING_ORIENTATION+PLAN1+pos
+2016-06-12,18:00:35,0,lilikoi44,1465768836176,The problem is it is the only one under budget!,GIVING_OPINION+QUESTION+pos
+2016-06-12,18:01:19,0,R,1465768879319,ok so what plan do u have,PLAN+AFFIRMATIVE+PLAN4+QUESTION+neg
+2016-06-12,18:02:15,0,Xile,1465768935929,"Yeah, it is a matter of trade offs. Plan 1 violates several of the environmental standards we need to meet, but all the others are over budget. I am assuming we need to hit near budget but we can go over. Otherwise there is no talk to be had really.",PLAN+GIVING_OPINION+GIVING_ORIENTATION+AFFIRMATIVE+HELP_REQUEST+PLAN1+pos
+2016-06-12,18:02:27,0,lilikoi44,1465768948524,"I know there was concern with 2 because of the high amount of wind power even though it is closest in cost.  I was thinking about 3, but it costs even more.  ",POSITIVITY+GIVING_OPINION+pos
+2016-06-12,18:02:57,0,Xile,1465768979533,2 is also a problem because of the bird population that the city is known for. ,pos
+2016-06-12,18:03:05,0,lilikoi44,1465768985748,"Yeah, it seems to easy to just settle on 1 because it is under budget.",GIVING_OPINION+AFFIRMATIVE+pos
+2016-06-12,18:03:10,0,lilikoi44,1465768990146,"Good point, yes.",POSITIVITY+AFFIRMATIVE+neg
+2016-06-12,18:03:36,0,BazaarAgent,1465769016333,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-12,18:04:11,0,lilikoi44,1465769052344,"Ok, so do we go with 1 and stay under budget or with 3 to be more carbon neutral?",AFFIRMATIVE+QUESTION+neg
+2016-06-12,18:05:09,0,Xile,1465769110541,"I say 3. It meets more criteria, and should come down in price after the initial plant is built",pos
+2016-06-12,18:05:10,0,R,1465769110688,yes,AFFIRMATIVE+neg
+2016-06-12,18:05:12,0,lilikoi44,1465769113538,"I know someone has indicated plan 1 to the left, but I think plan 3 would be better.",PLAN+GIVING_OPINION+GIVING_ORIENTATION+PLAN3+PLAN1+pos
+2016-06-12,18:05:23,0,lilikoi44,1465769123909,"Ok, so 3 it is.",GIVING_OPINION+AFFIRMATIVE+neg

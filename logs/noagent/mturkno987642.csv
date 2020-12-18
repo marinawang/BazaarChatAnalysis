@@ -1,0 +1,75 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,BazaarAgent,128.2.220.133:33707,\N,2016-06-01 21:23:38,mturkno987642,join
+9,presence,TM,76.30.94.185:60509,15,2016-06-01 21:23:47,mturkno987642,join
+10,presence,Vee,75.112.251.153:49915,13,2016-06-01 21:23:47,mturkno987642,join
+11,presence,street1510,74.77.38.141:51442,10,2016-06-01 21:23:47,mturkno987642,join
+15,presence,deweather,172.72.43.240:2504,20,2016-06-01 21:23:48,mturkno987642,join
+28,text,BazaarAgent,128.2.220.133:33707,\N,2016-06-01 21:23:58,mturkno987642,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+55,text,street1510,74.77.38.141:51442,10,2016-06-01 21:25:46,mturkno987642,hello? does this one work?
+63,text,TM,76.30.94.185:60509,15,2016-06-01 21:26:19,mturkno987642,Hey
+71,text,deweather,172.72.43.240:2504,20,2016-06-01 21:26:33,mturkno987642,Hello! 
+73,text,TM,76.30.94.185:60509,15,2016-06-01 21:26:34,mturkno987642,Any ideas? I say we go for Plan 2
+74,text,deweather,172.72.43.240:2504,20,2016-06-01 21:26:37,mturkno987642,"Do we want to rule out coal as the main energy source (plan #1)? If so, I&#39;d say plan 2 or 3 is the best choice. "
+76,text,street1510,74.77.38.141:51442,10,2016-06-01 21:26:44,mturkno987642,i say 3
+78,text,Vee,75.112.251.153:49915,13,2016-06-01 21:26:48,mturkno987642,I was leaning toward 2 as well
+82,text,deweather,172.72.43.240:2504,20,2016-06-01 21:27:09,mturkno987642,Why two? Why three?
+87,text,street1510,74.77.38.141:51442,10,2016-06-01 21:27:26,mturkno987642,let&#39;s go through the city requirements and see what is best
+98,text,deweather,172.72.43.240:2504,20,2016-06-01 21:28:12,mturkno987642,Requirement one is cost
+104,text,street1510,74.77.38.141:51442,10,2016-06-01 21:28:30,mturkno987642,yeah but that one is shot anyways unless we go with coal
+107,text,TM,76.30.94.185:60509,15,2016-06-01 21:28:33,mturkno987642,"Well, 2 3 and 4 all are over budget, but we&#39;ve decided to rule 1 anyways"
+111,text,deweather,172.72.43.240:2504,20,2016-06-01 21:28:59,mturkno987642,"If plan 1 is out, then Plan 2 wins on cost"
+113,text,TM,76.30.94.185:60509,15,2016-06-01 21:29:05,mturkno987642,So difference between 2 and 3 is 40% wind versus 40% nuclear
+120,text,street1510,74.77.38.141:51442,10,2016-06-01 21:29:29,mturkno987642,"okay 3 fits 2,3,4,5,7,8"
+128,text,street1510,74.77.38.141:51442,10,2016-06-01 21:30:11,mturkno987642,"2 fits 2,4,6,7,8"
+130,text,TM,76.30.94.185:60509,15,2016-06-01 21:30:14,mturkno987642,Plan 3 doesn&#39;t fit with chemical waste though
+138,text,street1510,74.77.38.141:51442,10,2016-06-01 21:30:45,mturkno987642,uranium doesn&#39;t count as chemical waste ;)
+139,text,Vee,75.112.251.153:49915,13,2016-06-01 21:30:54,mturkno987642,"But it wants minimal waste, not absolutely no waste. "
+142,text,deweather,172.72.43.240:2504,20,2016-06-01 21:31:07,mturkno987642,"it has a waste disposal fee though, whereas plan 2 doesn&#39;t"
+143,text,TM,76.30.94.185:60509,15,2016-06-01 21:31:17,mturkno987642,"Yeah, I think that&#39;s what they are talking about"
+148,text,deweather,172.72.43.240:2504,20,2016-06-01 21:31:35,mturkno987642,plan two is also cheaper than three
+153,text,street1510,74.77.38.141:51442,10,2016-06-01 21:31:53,mturkno987642,which is just directly cost which we don&#39;t care about anyways. No matter what we are over budget
+157,text,TM,76.30.94.185:60509,15,2016-06-01 21:32:12,mturkno987642,But just because we go over budget doesn&#39;t mean that we completely don&#39;t care about budget
+161,text,street1510,74.77.38.141:51442,10,2016-06-01 21:32:27,mturkno987642,you don&#39;t live in a blue city do you?
+162,text,deweather,172.72.43.240:2504,20,2016-06-01 21:32:30,mturkno987642,$40 million is a good bit of money
+166,text,Vee,75.112.251.153:49915,13,2016-06-01 21:32:47,mturkno987642,"As long as we stick close to it, I think thats fine. If we went strictly over budget the only option is Plan 1"
+170,text,Vee,75.112.251.153:49915,13,2016-06-01 21:32:58,mturkno987642,on not over
+174,text,street1510,74.77.38.141:51442,10,2016-06-01 21:33:13,mturkno987642,can we make an option 2.5 with 30 wind and 30 nuclear...
+182,text,deweather,172.72.43.240:2504,20,2016-06-01 21:33:21,mturkno987642,if only
+183,text,Vee,75.112.251.153:49915,13,2016-06-01 21:33:33,mturkno987642,I wish
+184,text,TM,76.30.94.185:60509,15,2016-06-01 21:33:45,mturkno987642,Did you guys get an article about nuclear waste during one of the steps? I got something about how it creates lots of waste products
+186,text,TM,76.30.94.185:60509,15,2016-06-01 21:33:51,mturkno987642,I&#39;m not sure if that&#39;s supposed to influence our thinking here
+189,text,deweather,172.72.43.240:2504,20,2016-06-01 21:34:01,mturkno987642,mine was on hydro
+190,text,deweather,172.72.43.240:2504,20,2016-06-01 21:34:03,mturkno987642,it is
+196,text,BazaarAgent,128.2.220.133:33707,\N,2016-06-01 21:34:21,mturkno987642,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+198,text,street1510,74.77.38.141:51442,10,2016-06-01 21:34:29,mturkno987642,it doesnt actually. the only waste is uranium and the rest is water vapor. 
+200,text,deweather,172.72.43.240:2504,20,2016-06-01 21:34:41,mturkno987642,"okay, which plan? two or three?"
+206,text,Vee,75.112.251.153:49915,13,2016-06-01 21:35:17,mturkno987642,I vote three. It hits more of the requirements than 2 does.
+213,text,deweather,172.72.43.240:2504,20,2016-06-01 21:35:31,mturkno987642,that&#39;s one for three
+214,text,street1510,74.77.38.141:51442,10,2016-06-01 21:35:31,mturkno987642,vote 3
+216,text,deweather,172.72.43.240:2504,20,2016-06-01 21:35:34,mturkno987642,two for three
+217,text,deweather,172.72.43.240:2504,20,2016-06-01 21:35:38,mturkno987642,I&#39;m fine with three 
+218,text,TM,76.30.94.185:60509,15,2016-06-01 21:35:41,mturkno987642,"Ok, 3 works then"
+225,text,street1510,74.77.38.141:51442,10,2016-06-01 21:36:05,mturkno987642,what do we use the left side for?
+226,text,TM,76.30.94.185:60509,15,2016-06-01 21:36:07,mturkno987642,I&#39;ll type it out?
+227,text,deweather,172.72.43.240:2504,20,2016-06-01 21:36:10,mturkno987642,okay
+228,text,Vee,75.112.251.153:49915,13,2016-06-01 21:36:12,mturkno987642,Have at it
+231,text,street1510,74.77.38.141:51442,10,2016-06-01 21:36:25,mturkno987642,oh cool i get it now
+235,text,TM,76.30.94.185:60509,15,2016-06-01 21:36:44,mturkno987642,anyone feel free to jump in
+236,text,TM,76.30.94.185:60509,15,2016-06-01 21:36:47,mturkno987642,with stuff to write lol
+244,text,TM,76.30.94.185:60509,15,2016-06-01 21:37:21,mturkno987642,er maybe work on the trade off section
+245,text,TM,76.30.94.185:60509,15,2016-06-01 21:37:22,mturkno987642,lol
+252,text,deweather,172.72.43.240:2504,20,2016-06-01 21:37:56,mturkno987642,need help with the tradeoff section
+281,presence,BazaarAgent,128.2.220.133:33707,\N,2016-06-01 21:39:36,mturkno987642,leave
+288,text,TM,76.30.94.185:60509,15,2016-06-01 21:41:38,mturkno987642,Are we about done?
+289,text,street1510,74.77.38.141:51442,10,2016-06-01 21:41:47,mturkno987642,yeah screw it
+290,text,deweather,172.72.43.240:2504,20,2016-06-01 21:41:52,mturkno987642,We have enough I think
+291,text,street1510,74.77.38.141:51442,10,2016-06-01 21:41:57,mturkno987642,button at the bottom
+292,text,TM,76.30.94.185:60509,15,2016-06-01 21:41:57,mturkno987642,"okay, I&#39;m clicking next step"
+293,text,TM,76.30.94.185:60509,15,2016-06-01 21:41:59,mturkno987642,cya
+294,presence,street1510,74.77.38.141:51442,10,2016-06-01 21:42:01,mturkno987642,leave
+295,text,deweather,172.72.43.240:2504,20,2016-06-01 21:42:02,mturkno987642,later
+296,presence,Vee,75.112.251.153:49915,13,2016-06-01 21:42:03,mturkno987642,leave
+297,presence,TM,76.30.94.185:60509,15,2016-06-01 21:42:09,mturkno987642,leave
+298,presence,deweather,172.72.43.240:2504,20,2016-06-01 21:42:09,mturkno987642,leave
+324,presence,Xu,128.2.161.61:59572,0,2016-06-02 19:40:04,mturkno987642,join
+325,presence,Xu,128.2.161.61:59572,0,2016-06-02 19:40:31,mturkno987642,leave

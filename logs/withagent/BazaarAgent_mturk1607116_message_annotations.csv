@@ -1,0 +1,41 @@
+2016-07-11,20:52:58,0,BazaarAgent,1468284779645,"Welcome, UKCats
+",INTRODUCTION
+2016-07-11,20:53:04,0,BazaarAgent,1468284785676,"Welcome, Andy
+",INTRODUCTION
+2016-07-11,20:53:08,0,BazaarAgent,1468284789681,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-07-11,20:53:17,0,BazaarAgent,1468284797686,"Welcome, Marcus
+",INTRODUCTION
+2016-07-11,20:53:54,0,Marcus,1468284835758,Hello!,neg
+2016-07-11,20:53:59,0,Andy,1468284839995,Hi,neg
+2016-07-11,20:54:07,0,UKCats,1468284847448,Hi all,neg
+2016-07-11,20:54:14,0,Marcus,1468284855000,I like Plan2. What about you?,PLAN+POSITIVITY+QUESTION+PLAN2+neg
+2016-07-11,20:54:17,0,Andy,1468284857278,Same,neg
+2016-07-11,20:54:22,0,Andy,1468284863260,Just about to say that,neg
+2016-07-11,20:54:22,0,BazaarAgent,1468284863706,"Hey Marcus, can you elaborate on the reason you chose plan 2 from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-07-11,20:54:24,0,UKCats,1468284864135,same here,neg
+2016-07-11,20:55:27,0,Andy,1468284929474,"For me I think Plan 2 is the best because it reduces both coal and nuclear which are harmful for the environment, and emphasizes on using wind, a renewable energy source",PLAN2+AUDIO_SOURCE+POSITIVITY+SAY_MORE_CANDIDATE+NEGATIVE+EXPLANATION_CONTRIBUTION+PLAN+WF+pos+GIVING_OPINION
+2016-07-11,20:55:53,0,Marcus,1468284953819,"I personally feel like its the best since it is a windy area. Obviously the energy plan cannot be 100% wind energy, but it is viable for the city. Its also better for the environment",PLAN+POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+EXPLANATION_CONTRIBUTION+PLAN3+pos
+2016-07-11,20:56:05,0,BazaarAgent,1468284965804,"Welcome, Meg
+",INTRODUCTION
+2016-07-11,20:56:27,0,UKCats,1468284988084,"It's only slightly more expensive than plan 1 while it gets rid of 1/2 the the problems associated with coal, emissions, etc. ",PLAN+PLAN1+pos
+2016-07-11,20:56:29,0,Andy,1468284990076,"Also we don't have to pay for waste disposable, or carbon tax. While receiving tax credit",pos
+2016-07-11,20:56:47,0,Andy,1468285007168,Agreed,GIVING_ORIENTATION+AGREE+neg
+2016-07-11,20:57:48,0,UKCats,1468285068941,"Plans 2 & 4 are similar and I would be fine with either but since 2 is cheaper, an easy choice for me.",GIVING_OPINION+EXPLANATION_CONTRIBUTION+pos
+2016-07-11,20:58:34,0,UKCats,1468285115294,Who is going to write the proposal?,QUESTION+neg
+2016-07-11,20:58:41,0,Andy,1468285122302,"Yep, plan 2 or 4, 4 being better with not needing as much land",PLAN+GIVING_ORIENTATION+AFFIRMATIVE+HELP_REQUEST+PLAN2+pos
+2016-07-11,20:58:42,0,BazaarAgent,1468285123878,"Hey UKCats, you have proposed plan 1, and Andy has proposed plan 2. Can you compare the two plans from your perpsective of what would be the most economical ?",plan_reasoning
+2016-07-11,20:59:17,0,Meg,1468285158291,"with a tight $900,000,000 budget, there's only 1 plan which fits",pos
+2016-07-11,20:59:25,0,UKCats,1468285166059,"No, I'm for plan 2 as well.  The reason being the lower reliance on coal.",PLAN+EXPLANATION_CONTRIBUTION+PLAN2+neg
+2016-07-11,20:59:26,0,Meg,1468285166437,plan 1,PLAN+PLAN1+neg
+2016-07-11,20:59:39,0,Meg,1468285180079,"I like plan 2 better, but it's over budget",PLAN+POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+PLAN2+pos
+2016-07-11,21:00:36,0,Marcus,1468285237772,so I guess we should make a final vote and the choose. I'm still for Plan despite it being over the budget lol,SMILES+PLAN+POSITIVITY+GIVING_OPINION+PLAN4+neg
+2016-07-11,21:00:45,0,Andy,1468285245461,Yep same here,AFFIRMATIVE+neg
+2016-07-11,21:00:49,0,Andy,1468285249959,Only over 22 millon,neg
+2016-07-11,21:00:52,0,Andy,1468285252542,million*,neg
+2016-07-11,21:00:53,0,Meg,1468285254188,I'm fine with Plan 2,PLAN+PLAN2+neg
+2016-07-11,21:01:00,0,UKCats,1468285261177,"With the 4 power sources, we are going to have excess.  I propose we sell the excess power to neighboring companies to make up the difference.",AFFIRMATIVE+AUDIO_SOURCE+pos
+2016-07-11,21:01:19,0,Andy,1468285279799,Thats a great idea to offset some of the cost,PREDICTION_CONTRIBUTION+neg
+2016-07-11,21:01:19,0,Meg,1468285280275,"yeah, that's a positive potential trade-off",AFFIRMATIVE+neg
+2016-07-11,21:01:24,0,Marcus,1468285284888,okay then 2 it is,GIVING_OPINION+AFFIRMATIVE+neg
+2016-07-11,21:03:33,0,BazaarAgent,1468285413951,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-07-11,21:07:38,0,UKCats,1468285659214,good job guys and gals,GROUP_BONDING+POSITIVITY+neg

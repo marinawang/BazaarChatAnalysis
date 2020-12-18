@@ -1,0 +1,30 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+1,presence,BazaarAgent,128.2.220.133:34924,\N,2016-06-03 21:23:40,mturkno798654,join
+2,presence,Innboss,71.88.152.220:60401,27,2016-06-03 21:23:41,mturkno798654,join
+8,text,BazaarAgent,128.2.220.133:34924,\N,2016-06-03 21:23:50,mturkno798654,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+11,presence,jerry,192.101.160.167:53291,12,2016-06-03 21:24:26,mturkno798654,join
+12,presence,zikit2012,192.232.187.227:60826,25,2016-06-03 21:24:27,mturkno798654,join
+14,presence,boobear,184.63.5.239:42003,38,2016-06-03 21:25:12,mturkno798654,join
+16,text,Innboss,71.88.152.220:60401,27,2016-06-03 21:25:57,mturkno798654,which plan did you guys select 
+23,text,boobear,184.63.5.239:42003,38,2016-06-03 21:26:43,mturkno798654,I think 2. It might cost a tiny bit more but it would be better for the wilflife and tourism.
+26,text,Innboss,71.88.152.220:60401,27,2016-06-03 21:26:58,mturkno798654,i also picked 2
+28,text,jerry,192.101.160.167:53291,12,2016-06-03 21:27:20,mturkno798654,"I agree with boobear. Number 2. No waste disposal, no carbon tax."
+31,text,boobear,184.63.5.239:42003,38,2016-06-03 21:28:15,mturkno798654,So we&#39;re going with 2? Right?
+34,text,jerry,192.101.160.167:53291,12,2016-06-03 21:28:23,mturkno798654,yes
+36,text,Innboss,71.88.152.220:60401,27,2016-06-03 21:28:27,mturkno798654,yes
+38,text,zikit2012,192.232.187.227:60826,25,2016-06-03 21:28:33,mturkno798654,"I picked two as well. It is the most economical,lower startup cost. even though it is over budget. "
+40,text,boobear,184.63.5.239:42003,38,2016-06-03 21:28:40,mturkno798654,Awesome. Now what do we have to do?
+45,text,jerry,192.101.160.167:53291,12,2016-06-03 21:29:02,mturkno798654,write a proposal on left
+79,text,BazaarAgent,128.2.220.133:34924,\N,2016-06-03 21:34:15,mturkno798654,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+83,text,zikit2012,192.232.187.227:60826,25,2016-06-03 21:35:14,mturkno798654,anyone else want to add anything? 
+84,text,jerry,192.101.160.167:53291,12,2016-06-03 21:35:28,mturkno798654,you have made good points
+85,text,Innboss,71.88.152.220:60401,27,2016-06-03 21:35:38,mturkno798654,should we add something about the other plans
+86,text,boobear,184.63.5.239:42003,38,2016-06-03 21:35:41,mturkno798654,So on the bottom we should write why the other plans aren&#39;t as good right?
+88,text,zikit2012,192.232.187.227:60826,25,2016-06-03 21:36:09,mturkno798654,yea why we think that the plan we picked is the best one 
+89,text,jerry,192.101.160.167:53291,12,2016-06-03 21:36:24,mturkno798654,and why the others are not
+101,text,Innboss,71.88.152.220:60401,27,2016-06-03 21:38:16,mturkno798654,thanks guys
+104,presence,Innboss,71.88.152.220:60401,27,2016-06-03 21:38:25,mturkno798654,leave
+114,presence,BazaarAgent,128.2.220.133:34924,\N,2016-06-03 21:39:29,mturkno798654,leave
+117,presence,jerry,192.101.160.167:53291,12,2016-06-03 21:39:42,mturkno798654,leave
+118,presence,zikit2012,192.232.187.227:60826,25,2016-06-03 21:39:44,mturkno798654,leave
+120,presence,boobear,184.63.5.239:42003,38,2016-06-03 21:40:35,mturkno798654,leave

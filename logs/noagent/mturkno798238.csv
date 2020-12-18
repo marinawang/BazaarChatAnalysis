@@ -1,0 +1,68 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+1,presence,BazaarAgent,128.2.220.133:35582,\N,2016-06-04 21:24:13,mturkno798238,join
+8,presence,mitzi,70.189.201.85:54678,57,2016-06-04 21:24:15,mturkno798238,join
+12,presence,foo,72.192.179.208:54830,75,2016-06-04 21:24:15,mturkno798238,join
+13,presence,Aemort,174.60.186.169:51860,40,2016-06-04 21:24:15,mturkno798238,join
+21,text,BazaarAgent,128.2.220.133:35582,\N,2016-06-04 21:24:25,mturkno798238,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+22,presence,lion,69.76.189.66:56423,38,2016-06-04 21:24:25,mturkno798238,join
+26,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:24:31,mturkno798238,"Hi, good evening"
+31,presence,foo,72.192.179.208:54830,75,2016-06-04 21:25:31,mturkno798238,leave
+40,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:26:23,mturkno798238,hi
+45,text,lion,69.76.189.66:56423,38,2016-06-04 21:27:13,mturkno798238,Hi 
+50,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:27:35,mturkno798238,I think we can just have the plan typed once
+53,text,lion,69.76.189.66:56423,38,2016-06-04 21:28:01,mturkno798238,I think the best plan according to pros and cons in plan 3
+59,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:28:48,mturkno798238,"Yeah, I can see that actually"
+61,text,lion,69.76.189.66:56423,38,2016-06-04 21:29:01,mturkno798238,To protect the bird habitat i feel a 20% to wind energy is sufficient.
+67,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:29:18,mturkno798238,"Turbines don&#39;t really affect the bird population too much, though"
+69,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:29:29,mturkno798238,"I know it&#39;s kind of surprising, and I didn&#39;t believe it either at first"
+70,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:29:37,mturkno798238,But I looked it up and that really isn&#39;t ever an issue
+71,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:29:38,mturkno798238,wind energy is safe for our earth
+73,text,lion,69.76.189.66:56423,38,2016-06-04 21:29:54,mturkno798238,Coal is 20% in the plan 3 rather than 40 % in plan 1 so strongly feel that plan 3 i good for the city.
+75,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:30:05,mturkno798238,and also wind energy is renewable
+76,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:30:12,mturkno798238,"It&#39;s 20% in all of them except for plan 1, though"
+78,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:30:34,mturkno798238,What are the benefits of nuclear power over wind energy as a primary source?
+81,text,lion,69.76.189.66:56423,38,2016-06-04 21:30:45,mturkno798238,The cost of the plan 3 is one of the lower ones too.
+83,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:31:01,mturkno798238,"Plan 2 is still cheaper, nevertheless."
+84,text,lion,69.76.189.66:56423,38,2016-06-04 21:31:01,mturkno798238,nuclear power uses up less area?
+85,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:31:21,mturkno798238,Turbine farms can be placed outside of the city as well
+88,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:31:31,mturkno798238,Plan 4 is slightly over bugget by a little but i feel like that is also another great plan to consider
+89,text,lion,69.76.189.66:56423,38,2016-06-04 21:31:35,mturkno798238,plan 2 is cheaper but it will harm the birds
+91,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:31:49,mturkno798238,there is actually good cons of hydro energy
+95,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:31:54,mturkno798238,"I already looked it up, it never has a serious impact on the bird populations"
+96,text,lion,69.76.189.66:56423,38,2016-06-04 21:32:00,mturkno798238,but in this  case they aer looking for something inside the city right?
+98,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:32:10,mturkno798238,"Oh yeah, that&#39;s true"
+100,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:32:18,mturkno798238,Turbine farms aren&#39;t usually that big either
+101,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:32:23,mturkno798238,i think that they are looking for something that is affordable 
+102,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:32:32,mturkno798238,and in there price range
+103,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:32:58,mturkno798238,"That&#39;s true, but it&#39;s kind of weird how only one of the plans would be within budget"
+104,text,lion,69.76.189.66:56423,38,2016-06-04 21:33:03,mturkno798238,yes they are looking for affordable at the same time some thing that works best for them too. So that why i think plan 3 is a a better option
+107,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:33:26,mturkno798238,That&#39;s fair enough
+109,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:33:33,mturkno798238,Do we have to have a single consensus?
+111,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:33:37,mturkno798238,what plan 3 ?
+113,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:33:51,mturkno798238,why?
+114,text,lion,69.76.189.66:56423,38,2016-06-04 21:34:23,mturkno798238,yes that is weird though that only one falls in the budget
+116,text,lion,69.76.189.66:56423,38,2016-06-04 21:34:39,mturkno798238,it depends on how much they have to keep it in the budget 
+117,text,BazaarAgent,128.2.220.133:35582,\N,2016-06-04 21:34:47,mturkno798238,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+123,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:35:03,mturkno798238,"I&#39;m sure it&#39;s fine if we have one a little outside of the budget, they wouldn&#39;t have all of them there if we didn&#39;t have the option of all 4"
+124,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:35:13,mturkno798238,"Alright, so are we agreeing on plan 3 then before time runs out?"
+125,text,lion,69.76.189.66:56423,38,2016-06-04 21:35:18,mturkno798238,yes 
+126,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:35:22,mturkno798238,yes
+127,text,lion,69.76.189.66:56423,38,2016-06-04 21:35:23,mturkno798238,plan 3 
+128,text,lion,69.76.189.66:56423,38,2016-06-04 21:35:33,mturkno798238,does everyone agree ???
+129,text,mitzi,70.189.201.85:54678,57,2016-06-04 21:35:44,mturkno798238,yes
+130,text,lion,69.76.189.66:56423,38,2016-06-04 21:35:44,mturkno798238,lets make it final then..plan 3 
+131,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:35:48,mturkno798238,"We can leave all the current points, but now we need to expand on Nuclear energy"
+132,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:36:17,mturkno798238,Since that&#39;s the main source
+137,text,lion,69.76.189.66:56423,38,2016-06-04 21:36:51,mturkno798238,yes 
+140,text,lion,69.76.189.66:56423,38,2016-06-04 21:37:18,mturkno798238,but overall plan 3 is a favorable one
+144,text,lion,69.76.189.66:56423,38,2016-06-04 21:37:52,mturkno798238,even though we are increasing in the nuclear part. The main points are being taken into consideration 
+151,text,lion,69.76.189.66:56423,38,2016-06-04 21:38:27,mturkno798238,"such as wastage, pollution and so on"
+155,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:38:34,mturkno798238,True
+158,text,lion,69.76.189.66:56423,38,2016-06-04 21:38:42,mturkno798238,so plan 3 it is
+159,text,Aemort,174.60.186.169:51860,40,2016-06-04 21:38:47,mturkno798238,"Do we have to submit it now, though?"
+160,text,lion,69.76.189.66:56423,38,2016-06-04 21:39:00,mturkno798238,yes i think so
+163,text,lion,69.76.189.66:56423,38,2016-06-04 21:39:09,mturkno798238,plan 3 is the desicion 
+165,presence,lion,69.76.189.66:56423,38,2016-06-04 21:39:16,mturkno798238,leave
+174,presence,BazaarAgent,128.2.220.133:35582,\N,2016-06-04 21:40:09,mturkno798238,leave
+178,presence,Aemort,174.60.186.169:51860,40,2016-06-04 21:40:12,mturkno798238,leave
+187,presence,mitzi,70.189.201.85:54678,57,2016-06-04 21:42:20,mturkno798238,leave

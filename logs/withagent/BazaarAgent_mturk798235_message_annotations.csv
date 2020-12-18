@@ -1,0 +1,105 @@
+2016-06-04,21:24:13,0,BazaarAgent,1465089853653,"Welcome, Kristy
+",INTRODUCTION
+2016-06-04,21:24:15,0,BazaarAgent,1465089856024,"Welcome, Gub
+",INTRODUCTION
+2016-06-04,21:24:23,0,BazaarAgent,1465089864029,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-04,21:24:27,0,BazaarAgent,1465089868032,"Welcome, Jimmy
+",INTRODUCTION
+2016-06-04,21:24:29,0,BazaarAgent,1465089870035,"Welcome, lee
+",INTRODUCTION
+2016-06-04,21:24:40,0,Jimmy,1465089881807,Hello,neg
+2016-06-04,21:25:05,0,Kristy,1465089906050,hi there,neg
+2016-06-04,21:25:06,0,Gub,1465089907014,Hello,neg
+2016-06-04,21:25:14,0,Jimmy,1465089914971,Why did you guys choose plan 3?,PLAN+PLAN3+QUESTION+neg
+2016-06-04,21:25:14,0,lee,1465089915014,hi,neg
+2016-06-04,21:25:21,0,BazaarAgent,1465089922051,"Hey Jimmy, can you elaborate on the reason you chose plan 3 from your perspective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-06-04,21:25:23,0,Kristy,1465089924909,I was looking it over.  Seems to me that plan 2 is best,PLAN+GIVING_OPINION+PLAN2+neg
+2016-06-04,21:25:33,0,BazaarAgent,1465089934056,"Hey Kristy, you have proposed plan 2, and Jimmy has proposed plan 3. What do you think are the most important trade-offs between the two plans from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-06-04,21:25:52,0,Kristy,1465089954233,Mine has a bigger renewable tax credit versus Plan 3,PLAN+PLAN3+neg
+2016-06-04,21:25:58,0,Jimmy,1465089959209,I chose plan 3 because the Nuclear Power reduces the CO2 in the atmosphere as,PLAN+WF+PLAN3+neg
+2016-06-04,21:26:07,0,Kristy,1465089967954,Plan 2 has no waste disposal cost,PLAN+PLAN2+pos
+2016-06-04,21:26:12,0,Gub,1465089973242,"Plan 2 does seem like the best option. Second cheapest, environmentally friendly, tax credit, no tax.",PLAN+POSITIVITY+GIVING_OPINION+PLAN2+pos
+2016-06-04,21:26:17,0,Kristy,1465089978018,Plan 2 has no carbon tax,PLAN+PLAN2+pos
+2016-06-04,21:26:26,0,Gub,1465089989209,Plan 1 is the cheapest but coal energy is bad for the city.,PLAN+GIVING_OPINION+NEGATIVE+PLAN1+pos
+2016-06-04,21:26:31,0,Kristy,1465089992043,3 would be great if the renewable were bigger,pos
+2016-06-04,21:26:34,0,Jimmy,1465089994988,"Though plan 3 is more and has no tax, the extra energy could be sold to nearby cities",PLAN+PLAN3+pos
+2016-06-04,21:26:45,0,Kristy,1465090005248,I agree with Jimmy,GIVING_ORIENTATION+AGREE+neg
+2016-06-04,21:26:56,0,Kristy,1465090016364,Yet 2 is cheaper than 3,neg
+2016-06-04,21:27:01,0,Gub,1465090021445,Speculation.,neg
+2016-06-04,21:27:04,0,Kristy,1465090024528,brings back more $$ as well ,AFFIRMATIVE+neg
+2016-06-04,21:27:16,0,Kristy,1465090036723,"So, 2 or 3 then.",neg
+2016-06-04,21:27:23,0,Gub,1465090043615,"3 is nuclear, though.",neg
+2016-06-04,21:27:32,0,Jimmy,1465090053433,The only thing I see that is against Nuclear is the water pollution that could potentially occur,NEGATIVE+pos
+2016-06-04,21:27:34,0,Kristy,1465090054626,Nuclear is cleaner except for the waste,neg
+2016-06-04,21:27:36,0,Jimmy,1465090056613,Though all include it,neg
+2016-06-04,21:27:47,0,Jimmy,1465090068209,"Nuclear waste is easily controlled, but it uses water",GIVING_OPINION+neg
+2016-06-04,21:27:54,0,Kristy,1465090074661,On plan 2 wind is 40% but .... the birds,PLAN+POSITIVITY+GIVING_OPINION+PLAN2+pos
+2016-06-04,21:27:56,0,Jimmy,1465090077320,and is the worst if it gets out,pos
+2016-06-04,21:28:05,0,lee,1465090086419,The issue with option two is that they have hospitals which need stable energy (just finished reading),PLAN+HELP_REQUEST+PLAN2+pos
+2016-06-04,21:28:13,0,Kristy,1465090094369,"Well, I think there is some apparatus that could be constructed to veer the birds away from the windmills",POSITIVITY+GIVING_OPINION+pos
+2016-06-04,21:28:20,0,Kristy,1465090100393,"That's true, Lee",GIVING_ORIENTATION+PREDICTION_CONTRIBUTION+neg
+2016-06-04,21:28:21,0,Gub,1465090101743,You have to consider the potential danger of nuclear energy as well as the effect it has on the appearance of the city.,pos
+2016-06-04,21:28:26,0,Kristy,1465090106612,Wind isn't exactly stable,POSITIVITY+pos
+2016-06-04,21:28:31,0,Jimmy,1465090112098,Nuclear is reliable,neg
+2016-06-04,21:28:34,0,Jimmy,1465090114275,Plus jobs,neg
+2016-06-04,21:28:38,0,Jimmy,1465090118865,It's just the conotation,pos
+2016-06-04,21:28:56,0,Kristy,1465090136337,but what about the potential renewable tax credit on 2?,GIVING_OPINION+QUESTION+neg
+2016-06-04,21:28:58,0,Kristy,1465090138728,it's much bigger,pos
+2016-06-04,21:29:03,0,lee,1465090144040,@Gub: the danger is more perceived than anything else. Nuclear has costed less human lives than coal power has over the decades,TUTOR_REFERENCE+pos
+2016-06-04,21:29:21,0,Gub,1465090162134,I see.,neg
+2016-06-04,21:29:22,0,Kristy,1465090163249,"I agree with Lee, but I stand firm on 2.  ",GIVING_OPINION+GIVING_ORIENTATION+AGREE+neg
+2016-06-04,21:29:33,0,Kristy,1465090173753,2 due to lower cost and bigger return,SAY_MORE_CANDIDATE+neg
+2016-06-04,21:29:35,0,Gub,1465090176469,"And, while we're at it, let's stop saying that windmills kill birds.",POSITIVITY+pos
+2016-06-04,21:29:44,0,Gub,1465090184170,"They do, but it's not significant.",GIVING_OPINION+neg
+2016-06-04,21:29:53,0,Kristy,1465090193812,Agreed with Gub on that,GIVING_ORIENTATION+AGREE+neg
+2016-06-04,21:29:59,0,Jimmy,1465090199486,I think Hydro is the best option,GIVING_OPINION+neg
+2016-06-04,21:30:03,0,Jimmy,1465090203482,Outside of the price,neg
+2016-06-04,21:30:13,0,Gub,1465090213787,How do you figure?,QUESTION+neg
+2016-06-04,21:30:23,0,Jimmy,1465090223953,No chemical waste,neg
+2016-06-04,21:30:33,0,Jimmy,1465090234104,No emissions,neg
+2016-06-04,21:30:39,0,Jimmy,1465090239460,They only have birds,neg
+2016-06-04,21:30:48,0,Jimmy,1465090248818,Water always will flow,neg
+2016-06-04,21:30:53,0,Kristy,1465090254141,We have 7 minutes.,neg
+2016-06-04,21:30:57,0,Kristy,1465090258155,Jimmy is right about the water,neg
+2016-06-04,21:31:00,0,Jimmy,1465090261026,Renewable,neg
+2016-06-04,21:31:02,0,Gub,1465090263966,"OK, let's take a vote then?",AFFIRMATIVE+QUESTION+neg
+2016-06-04,21:31:05,0,Kristy,1465090265864,Can't say same for the wind.,POSITIVITY+neg
+2016-06-04,21:31:07,0,Jimmy,1465090267297,And could also be used for cleaning,pos
+2016-06-04,21:31:07,0,Gub,1465090267790,Gotta write out the proposal.,neg
+2016-06-04,21:31:11,0,Jimmy,1465090271364,Yeah,AFFIRMATIVE+neg
+2016-06-04,21:31:12,0,Kristy,1465090272335,I say 3 not 2 now,neg
+2016-06-04,21:31:16,0,lee,1465090277168,"I'm not entirely a fan of 2, but I think hydro is just an all around bad choice in this case because of the environmental impact and the cost.",GIVING_OPINION+pos
+2016-06-04,21:31:24,0,lee,1465090285107,I'd go with 2 before hydro,neg
+2016-06-04,21:31:36,0,Gub,1465090297415,I agree with lee. Hydro is probably bad for the fishes.,GIVING_ORIENTATION+AGREE+pos
+2016-06-04,21:31:40,0,Jimmy,1465090300956,I'd say 3 but the chemical polution,GIVING_OPINION+neg
+2016-06-04,21:31:44,0,Jimmy,1465090305195,They don't care about fish in this city,neg
+2016-06-04,21:31:51,0,Kristy,1465090311892,I go back to 2.  Firm on 2,AFFIRMATIVE+neg
+2016-06-04,21:31:58,0,Kristy,1465090318658,Not changing my mind.,neg
+2016-06-04,21:32:02,0,Kristy,1465090322345,What say you all?,QUESTION+neg
+2016-06-04,21:32:08,0,Gub,1465090328131,I vote for 2.,neg
+2016-06-04,21:32:10,0,lee,1465090331689,Okay. shall we take a vote? I can compromise on 2,AFFIRMATIVE+QUESTION+neg
+2016-06-04,21:32:33,0,Jimmy,1465090353601,I suppose since I was leaning 3 but for all but 1 I'm fine with 2,GIVING_OPINION+EXPLANATION_CONTRIBUTION+neg
+2016-06-04,21:34:01,0,Jimmy,1465090441713,We don't need to mention fish,HELP_REQUEST+neg
+2016-06-04,21:34:03,0,Jimmy,1465090443834,By the way,neg
+2016-06-04,21:34:09,0,Gub,1465090449299,There are fish! You lie.,neg
+2016-06-04,21:34:36,0,Jimmy,1465090476126,It only mentions birds,neg
+2016-06-04,21:34:44,0,Gub,1465090484452,It mentioned aquatic habitats.,neg
+2016-06-04,21:34:48,0,BazaarAgent,1465090490306,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-04,21:34:54,0,Gub,1465090494402,"Oh, wait, you're right.",neg
+2016-06-04,21:35:02,0,Jimmy,1465090503066,that's why I said 4 isn't that bad,EXPLANATION_CONTRIBUTION+PREDICTION_CONTRIBUTION+pos
+2016-06-04,21:35:05,0,Gub,1465090505803,This one doesn't say anything about fish.,neg
+2016-06-04,21:35:22,0,Kristy,1465090523334,"Well, the coal has the drawback of upsetting the groundwater and rivers with its pollutants",pos
+2016-06-04,21:35:43,0,Kristy,1465090545058,It's the cheapest but fouls the land and water (coal),GIVING_OPINION+pos
+2016-06-04,21:36:37,0,Kristy,1465090597198,ARe we good?,POSITIVITY+QUESTION+neg
+2016-06-04,21:36:55,0,lee,1465090616136,"Don't forget to type btw gub, I don't recall whether they're evaluating us on this ehterpad part or not.",neg
+2016-06-04,21:37:07,0,lee,1465090627833,"Ya, everything I was concerned with got mentioned.",neg
+2016-06-04,21:37:07,0,Jimmy,1465090628036,it is a 50c bonus,GIVING_OPINION+neg
+2016-06-04,21:37:40,0,Kristy,1465090660353,42 seconds,neg
+2016-06-04,21:38:10,0,Kristy,1465090690780,waste disposal cost,pos
+2016-06-04,21:38:38,0,Gub,1465090718987,Alright,AFFIRMATIVE+neg
+2016-06-04,21:38:42,0,Jimmy,1465090723427,It was fun,POSITIVITY+neg
+2016-06-04,21:38:44,0,Kristy,1465090726599,"Great job, y'all",neg
+2016-06-04,21:38:46,0,Kristy,1465090727023,see ya later,neg
+2016-06-04,21:38:47,0,lee,1465090727713,Yep!,AFFIRMATIVE+neg
+2016-06-04,21:38:51,0,lee,1465090731894,See ya.,neg
+2016-06-04,21:38:51,0,Gub,1465090732090,"Haha, later ",SMILES+neg

@@ -1,0 +1,65 @@
+2016-08-14,13:01:01,0,BazaarAgent,1471194062290,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas.
+2016-08-14,13:02:51,0,Lese,1471194174014,So what do you guys think?,QUESTION+neg
+2016-08-14,13:03:02,0,Monie,1471194183235,I think plan two would be the best one,PLAN+GIVING_OPINION+PLAN2+neg
+2016-08-14,13:03:08,0,dskelton,1471194189662,Plan 1 is the only one that fits what was described as a tight yearly budget.,PLAN+QUESTION+PLAN1+pos
+2016-08-14,13:03:09,0,Lese,1471194189946,That's what I think too,GIVING_OPINION+QUESTION+PREDICTION_CONTRIBUTION+neg
+2016-08-14,13:03:15,0,calvin,1471194195630,Plan 1,PLAN+PLAN1+neg
+2016-08-14,13:03:21,0,calvin,1471194202249,city is on a tight budget,neg
+2016-08-14,13:03:37,0,Lese,1471194217911,but there is a possibility of being charged a high fine if there is any waste with plan 1,PLAN+GIVING_OPINION+PLAN1+pos
+2016-08-14,13:03:40,0,dskelton,1471194220592,"Agreed Calvin. I don't see them coming up with the extra $22,000+",GIVING_ORIENTATION+AGREE+neg
+2016-08-14,13:03:40,0,Lese,1471194220770,it's risky,pos
+2016-08-14,13:03:48,0,dskelton,1471194229397,It's already been accounted for in plan 1.,PLAN+PLAN1+pos
+2016-08-14,13:03:50,0,calvin,1471194230787,where's the fine?,QUESTION+neg
+2016-08-14,13:03:59,0,calvin,1471194239545,the waste disposal cost?,QUESTION+pos
+2016-08-14,13:04:14,0,calvin,1471194256537,"i think the carbon tax basically makes it carbon neutral,.. right?",GIVING_OPINION+QUESTION+neg
+2016-08-14,13:04:29,0,dskelton,1471194270131,Waste disposal and carbon waste disposal fees are already included.,pos
+2016-08-14,13:04:48,0,Lese,1471194289099,"If the main energy source releases toxic chemical waste, there is a waste disposal cost of $2/MWh.",AUDIO_SOURCE+NEGATIVE+pos
+2016-08-14,13:04:53,0,dskelton,1471194293822,"Not to mention, if they went over, there's still about $300k less.",pos
+2016-08-14,13:05:06,0,Monie,1471194307053,They may be included but those cost could go up a lot over the years and might not be coverage under budget,GIVING_OPINION+pos
+2016-08-14,13:05:07,0,dskelton,1471194308051,And that cost has been included,neg
+2016-08-14,13:05:29,0,dskelton,1471194329389,"But we're not being asked for a long-term, just a decision based on one year of budget and one year of data.",GIVING_OPINION+pos
+2016-08-14,13:05:36,0,calvin,1471194336591,"ok, well at least we're just on plans 1 and 2  right?",AFFIRMATIVE+QUESTION+neg
+2016-08-14,13:05:59,0,dskelton,1471194359599,I think so. 3 and 4 are definitely out of budget.,GIVING_OPINION+neg
+2016-08-14,13:06:08,0,calvin,1471194370319,it does say carbon neutral and economical in the long run,pos
+2016-08-14,13:06:14,0,Lese,1471194374567,Agree 3/4 are out,GIVING_ORIENTATION+AGREE+neg
+2016-08-14,13:06:25,0,Monie,1471194385426,I agree with three and four out as well,GIVING_ORIENTATION+AGREE+neg
+2016-08-14,13:07:32,0,dskelton,1471194452970,OK. We're about halfway through the 15 min. ,AFFIRMATIVE+neg
+2016-08-14,13:07:41,0,dskelton,1471194461500,Which plan and who's writing? :),SMILES+QUESTION+PLAN1+neg
+2016-08-14,13:07:51,0,Lese,1471194471937,Plan 1 also satisfies the stable and reliable energy for the hospitals. you can't always count on wind all the time,PLAN+POSITIVITY+PLAN1+pos
+2016-08-14,13:08:35,0,Monie,1471194515222,its not saying they are using wind all the time,POSITIVITY+pos
+2016-08-14,13:08:52,0,calvin,1471194533061,but i think wind makes the power costs variable,POSITIVITY+GIVING_OPINION+pos
+2016-08-14,13:09:04,0,calvin,1471194544570,the most out of all 4,GIVING_OPINION+pos
+2016-08-14,13:09:23,0,Lese,1471194563885,"I know but it says stable and reliable- coal power has been around long enough that it isn't new with ""bugs"" to work out",GIVING_OPINION+pos
+2016-08-14,13:09:26,0,calvin,1471194567332,let's vote at 5 minutes,neg
+2016-08-14,13:09:46,0,dskelton,1471194586729,That's fine.,PREDICTION_CONTRIBUTION+neg
+2016-08-14,13:09:50,0,Lese,1471194591011,perfect,neg
+2016-08-14,13:09:50,0,Monie,1471194591220,im good with that,POSITIVITY+neg
+2016-08-14,13:10:10,0,dskelton,1471194611401,Apparently only 4 of us want the 50 cent bonus for discussing. ;-),SMILES+pos
+2016-08-14,13:10:18,0,calvin,1471194619377,I think plan 1 factors in everything negative into the cost,PLAN+GIVING_OPINION+PLAN1+neg
+2016-08-14,13:10:28,0,dskelton,1471194628457,Agreed.,GIVING_ORIENTATION+AGREE+neg
+2016-08-14,13:10:41,0,calvin,1471194641833,"cost is $816 M + 60M in ""penalties""",neg
+2016-08-14,13:10:56,0,Lese,1471194657309,"Overall I think long term plan 2 is the best- but with the cost being the main factor, I think Plan 1 is the way to go ",PLAN+GIVING_OPINION+PLAN2+PLAN1+pos
+2016-08-14,13:11:00,0,calvin,1471194660689,voting time,neg
+2016-08-14,13:11:02,0,dskelton,1471194662963,Plan 1,PLAN+PLAN1+neg
+2016-08-14,13:11:05,0,calvin,1471194665840,Plan 1,PLAN+PLAN1+neg
+2016-08-14,13:11:05,0,Lese,1471194666007,plan 1,PLAN+PLAN1+neg
+2016-08-14,13:11:24,0,BazaarAgent,1471194684524,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-08-14,13:11:34,0,Monie,1471194695007,it does,neg
+2016-08-14,13:11:37,0,Monie,1471194697883,plan 1,PLAN+PLAN1+neg
+2016-08-14,13:12:20,0,calvin,1471194741232,Can you guys see writing on the pad?,HELP_REQUEST+QUESTION+neg
+2016-08-14,13:12:27,0,Monie,1471194747112,yes,AFFIRMATIVE+neg
+2016-08-14,13:12:36,0,Lese,1471194758153,Add while wind is a great source of energy a large wind plant could effect tourism ,POSITIVITY+SAY_MORE_CANDIDATE+AUDIO_SOURCE+pos
+2016-08-14,13:13:08,0,Lese,1471194788700,even with the fees this plan overall is more afforable,pos
+2016-08-14,13:13:25,0,Monie,1471194805644,thanks to who is writing,neg
+2016-08-14,13:13:33,0,dskelton,1471194813323,Calvin is up on list reasons,neg
+2016-08-14,13:13:33,0,Lese,1471194813605,calvin and someone else,neg
+2016-08-14,13:13:40,0,dskelton,1471194820858,I added some for tradeoffs earea,neg
+2016-08-14,13:13:41,0,dskelton,1471194821828,area,neg
+2016-08-14,13:14:36,0,Lese,1471194876262,Great Job Everyone!!!,neg
+2016-08-14,13:14:45,0,Monie,1471194885750,Good Job!! Thanks!!,GROUP_BONDING+POSITIVITY+neg
+2016-08-14,13:14:46,0,calvin,1471194886627,GJ,neg
+2016-08-14,13:14:50,0,dskelton,1471194890304,Thanks all!,neg
+2016-08-14,13:14:51,0,calvin,1471194891986,Bonuses for everyone!,neg
+2016-08-14,13:14:56,0,dskelton,1471194896961,whee! ,neg
+2016-08-14,13:14:57,0,Lese,1471194897815,Anything else to add? 30 sec,QUESTION+neg
+2016-08-14,13:15:22,0,dskelton,1471194923058,I think we'll be ok,GIVING_OPINION+AFFIRMATIVE+neg

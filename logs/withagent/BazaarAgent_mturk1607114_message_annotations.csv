@@ -1,0 +1,26 @@
+2016-07-11,20:52:58,0,BazaarAgent,1468284779306,"Welcome, Nick
+",INTRODUCTION
+2016-07-11,20:53:01,0,BazaarAgent,1468284781410,"Welcome, sparklekidz
+",INTRODUCTION
+2016-07-11,20:52:58,0,BazaarAgent,1468284783413,"Welcome, hoover
+",INTRODUCTION
+2016-07-11,20:53:08,0,BazaarAgent,1468284789417,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-07-11,20:53:59,0,BazaarAgent,1468284839442,"Welcome, Dirk
+",INTRODUCTION
+2016-07-11,20:54:56,0,sparklekidz,1468284900272,OPtion 1 is the only one within the tight budget,PLAN+PLAN1+pos
+2016-07-11,20:56:04,0,Nick,1468284966768,"Yep option 2 would probably be the best, but the city can only afford the first one.",PLAN+GIVING_OPINION+GIVING_ORIENTATION+AFFIRMATIVE+PLAN2+pos
+2016-07-11,20:56:06,0,BazaarAgent,1468284967534,"Hey sparklekidz, you have proposed plan 1, and Nick has proposed plan 2. Can you compare the two plans from your perpsective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-07-11,20:56:23,0,sparklekidz,1468284983834,"I agree that 2 would be better, but if they are on a tight budget..",GIVING_OPINION+GIVING_ORIENTATION+AGREE+pos
+2016-07-11,20:56:30,0,Dirk,1468284990956,I agree with Sparkle but the waste and carbon tax costs could very easily rise in the near future causing this plan to go over budget.  ,GIVING_OPINION+GIVING_ORIENTATION+AGREE+pos
+2016-07-11,20:57:13,0,sparklekidz,1468285035159,"Over time the wind would be the most beneficial, if it doesn't interfere with the bird migrations of course",POSITIVITY+GIVING_OPINION+AFFIRMATIVE+pos
+2016-07-11,20:57:17,0,hoover,1468285037498,"I'm leaning more towards options 2, but I also have my eye on plan 1, it will be in their budget and allow them more funds for other things",PLAN+POSITIVITY+GIVING_OPINION+PLAN1+pos
+2016-07-11,20:57:21,0,Nick,1468285041868,Yep long term the city would be better off paying the extra to make sure it doesn't rise on them and end up being over budget anyways.,GIVING_OPINION+GIVING_ORIENTATION+AFFIRMATIVE+DISCONTENT+pos
+2016-07-11,20:57:59,0,Dirk,1468285079981,"Option 2 could be feasible as the renewable tax credit could rise and the disposal costs will stay the same, also no carbon tax they could adjust the budget near term. ",PLAN+PLAN2+pos
+2016-07-11,20:58:00,0,sparklekidz,1468285081037,They can use the savings of goig with plan 1 to switch more over to wind over the next few years,PLAN+POSITIVITY+PLAN1+pos
+2016-07-11,20:59:07,0,Nick,1468285148426,That would be a great idea. Push whatever extra is left over and eventually convert more energy production to wind.,POSITIVITY+QUESTION+PREDICTION_CONTRIBUTION+pos
+2016-07-11,21:00:46,0,sparklekidz,1468285247211,"So initially go with plan one, with a goal of moving more of the resources to renewable energy",PLAN+SAY_MORE_CANDIDATE+PLAN1+pos
+2016-07-11,21:02:18,0,Dirk,1468285338727,It doesn't say but there may be an option of approaching the federal Government and proposing the second option but only if they can make up the budget difference by having them raise the Tax Credit do to the fact that plan 2 is the cleanest option.  ,PLAN+GIVING_OPINION+PLAN2+pos
+2016-07-11,21:02:31,0,Nick,1468285352155,Yep should only take two or three years and the environment won't take too big of a hit in the meantime,AFFIRMATIVE+pos
+2016-07-11,21:03:10,0,Dirk,1468285392010,That is a good idea gradual increase the wind power over time. ,POSITIVITY+PREDICTION_CONTRIBUTION+pos
+2016-07-11,21:03:18,0,hoover,1468285399016,Yes good idea,POSITIVITY+AFFIRMATIVE+neg
+2016-07-11,21:03:33,0,BazaarAgent,1468285413684,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).

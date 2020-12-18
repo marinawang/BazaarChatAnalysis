@@ -1,0 +1,28 @@
+2016-06-04,21:24:13,0,BazaarAgent,1465089855301,"Welcome, JT
+",INTRODUCTION
+2016-06-04,21:24:14,0,BazaarAgent,1465089857427,"Welcome, Sevvy
+",INTRODUCTION
+2016-06-04,21:24:23,0,BazaarAgent,1465089865431,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-04,21:25:03,0,Sevvy,1465089904832,"I think that we should go with plan 2. Although it's more expensive, it's not insanely bad and it relies less on coal ",PLAN+POSITIVITY+GIVING_OPINION+PLAN2+pos
+2016-06-04,21:25:09,0,JT,1465089910067,I agree. ,GIVING_ORIENTATION+AGREE+neg
+2016-06-04,21:25:23,0,JT,1465089924111,Not surprising that the coal heavy option has the lowest start up cost,pos
+2016-06-04,21:25:27,0,JT,1465089927510,still not a good option,POSITIVITY+neg
+2016-06-04,21:25:36,0,Sevvy,1465089936287,yea no kidding. ,neg
+2016-06-04,21:26:05,0,Sevvy,1465089967468,I think that the plan 2 will have the least impact on the environment and have the highest yield in the end,PLAN+GIVING_OPINION+PLAN2+PREDICTION_CONTRIBUTION+pos
+2016-06-04,21:26:58,0,Sevvy,1465090020448,"it also has a low impact on the environment since it relies heavily on wind, and minimally on coal and nuclear",POSITIVITY+EXPLANATION_CONTRIBUTION+pos
+2016-06-04,21:27:42,0,Sevvy,1465090063181,"Also, although it is slightly over budget, it's economically friendly since wind turbines and hydroelectric dams require little to no maintenance",POSITIVITY+GIVING_OPINION+EXPLANATION_CONTRIBUTION+pos
+2016-06-04,21:28:40,0,Sevvy,1465090121100,"Unlike coal, which will eventually raise in price due to it becoming increasingly scarce, wind and water energy are perpetual sources.",POSITIVITY+AUDIO_SOURCE+pos
+2016-06-04,21:29:16,0,JT,1465090157072,Can you see what I've written so far?,HELP_REQUEST+QUESTION+neg
+2016-06-04,21:29:23,0,Sevvy,1465090163552,yup,AFFIRMATIVE+neg
+2016-06-04,21:29:26,0,JT,1465090166854,k,neg
+2016-06-04,21:30:13,0,Sevvy,1465090215631,"it's also not as dangerous as other plans that rely on nuclear energy. Nuclear power plants, though efficient, leak small amounts of radioactive materials into nearby bodies of water, and coal plants create fly ash which can cause dead zones",SILLYNESS+pos
+2016-06-04,21:30:39,0,Sevvy,1465090239434,"man, we are nailing this",AFFIRMATIVE+neg
+2016-06-04,21:30:52,0,JT,1465090252927,^^,neg
+2016-06-04,21:31:40,0,Sevvy,1465090302192,"When you wrote about the carbon tax, I think that cities get subsidies for using clean energy, so they would be able to recoup the loss of the startup relatively quickly",GIVING_OPINION+SAY_MORE_CANDIDATE+pos
+2016-06-04,21:32:15,0,JT,1465090335936,ok,AFFIRMATIVE+neg
+2016-06-04,21:33:08,0,JT,1465090389098,do you think we have enough,QUESTION+neg
+2016-06-04,21:33:27,0,Sevvy,1465090409756,"Oh, one of the points is about energy thats cost is stable. Hydroelectic dams will always have a stable source of energy, and are thus capable of providing the hospital that the city wants to power, with a stable source",SAY_MORE_CANDIDATE+AUDIO_SOURCE+pos
+2016-06-04,21:33:42,0,Sevvy,1465090423236,"So not only is the dam stable, but the cost will be consistent",GIVING_OPINION+pos
+2016-06-04,21:34:48,0,BazaarAgent,1465090489744,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-04,21:34:52,0,Sevvy,1465090493569,I think that what we have is pretty good. We addressed pretty much all of their points,POSITIVITY+GIVING_OPINION+QUESTION+pos
+2016-06-04,21:34:59,0,JT,1465090499359,ok thanks for the help,CONFUSION+AFFIRMATIVE+HELP_REQUEST+HELP+neg

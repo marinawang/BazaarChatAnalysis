@@ -1,0 +1,47 @@
+2016-06-10,21:23:17,0,BazaarAgent,1465608199001,"Welcome, josh
+",INTRODUCTION
+2016-06-10,21:23:21,0,BazaarAgent,1465608201124,"Welcome, Beth
+",INTRODUCTION
+2016-06-10,21:23:21,0,BazaarAgent,1465608203128,"Welcome, Papa420
+",INTRODUCTION
+2016-06-10,21:23:27,0,BazaarAgent,1465608209131,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-06-10,21:24:25,0,Beth,1465608267125,Hello!,neg
+2016-06-10,21:24:27,0,Papa420,1465608267743,What do we go with??,QUESTION+neg
+2016-06-10,21:24:30,0,Papa420,1465608270433,Hey Beth,neg
+2016-06-10,21:24:52,0,Beth,1465608294748,I am a big fan of hydro but it is way over budget!,GIVING_OPINION+AFFIRMATIVE+NEGATIVE+neg
+2016-06-10,21:24:58,0,Papa420,1465608298209,I see that,neg
+2016-06-10,21:25:05,0,Beth,1465608305885,I like plan 4 but ehhh too much =(,PLAN+POSITIVITY+GIVING_OPINION+PLAN4+NEGATIVE+neg
+2016-06-10,21:25:27,0,Papa420,1465608327879,Agree,GIVING_ORIENTATION+AGREE+neg
+2016-06-10,21:25:39,0,Beth,1465608339935,Plan 2 would be my second option. It is the only other one that does not have a waste disposal cost,PLAN+GIVING_OPINION+PLAN2+pos
+2016-06-10,21:25:43,0,josh,1465608343286,Plan A is the only one within budget,PLAN+PLAN1+pos
+2016-06-10,21:25:43,0,BazaarAgent,1465608345211,"Hey Beth, you have proposed plan 2, and josh has proposed plan 1. Can you compare the two plans from your perpsective of what would be the most economical ?",plan_reasoning
+2016-06-10,21:25:59,0,Papa420,1465608359530,I propose 2 as well,neg
+2016-06-10,21:26:04,0,Papa420,1465608364195,Plan 2,PLAN+PLAN2+neg
+2016-06-10,21:26:25,0,josh,1465608385532,I like plan 2 more than plan A but we have a tight budget and plan A is the only plan within the budget,PLAN+POSITIVITY+GIVING_OPINION+PLAN2+PLAN1+pos
+2016-06-10,21:26:30,0,Beth,1465608391174,It is over budget but I feel that the wind energy is much cleaner and easier to maintenance than both coal and nuclear. It takes a bit of time to pay itself off but  in the long run it would be most effective. ,POSITIVITY+GIVING_OPINION+pos
+2016-06-10,21:26:46,0,josh,1465608406735,"Yeah, I agree. I'm switching to plan b",PLAN+GIVING_ORIENTATION+AFFIRMATIVE+AGREE+PLAN2+neg
+2016-06-10,21:26:49,0,Papa420,1465608409539,I agree with Beth,GIVING_ORIENTATION+AGREE+neg
+2016-06-10,21:27:01,0,Beth,1465608424169,"Time to do some city fundraising! You want it clean, do your part!",POSITIVITY+QUESTION+neg
+2016-06-10,21:27:13,0,Papa420,1465608433268,I can dig it,neg
+2016-06-10,21:28:19,0,Beth,1465608499705,"The city I live in has hydro and wind power and it works well. Our dam provides a TON of electricity but is also beneficial to the wildlife as it does not disturb it.  There are fish ladders that help the fish to go ""upstream"" and it gives them a way to also count the fish so they can track trends.",CONFUSION+POSITIVITY+GIVING_OPINION+HELP_REQUEST+HELP+pos
+2016-06-10,21:28:51,0,Beth,1465608533047,I got to go tour it last summer. Crazy how they work! Gotta love it =),POSITIVITY+neg
+2016-06-10,21:28:54,0,Papa420,1465608535122,That's awesome. Where I live we use hydro power.,POSITIVITY+PREDICTION_CONTRIBUTION+pos
+2016-06-10,21:29:06,0,josh,1465608547102,"Yeah but according to the table above, hydro costs more and is potentially harmful to the fish",GIVING_OPINION+AFFIRMATIVE+NEGATIVE+pos
+2016-06-10,21:29:21,0,Papa420,1465608561995,Ive read modern hydro is safe for fish,neg
+2016-06-10,21:30:03,0,Papa420,1465608603946,"Josh, did you want to put something on the etherpad.",GIVING_OPINION+neg
+2016-06-10,21:30:49,0,josh,1465608649903,"I did, what do you mean?",REVOICE_REQUEST+EXPLANATION_REQUEST+REVOICE_CONTRIBUTION+QUESTION+neg
+2016-06-10,21:31:00,0,Beth,1465608661390,"I think it is meant to make you think about it. Plan A is the only ""affordable"" one but there are emissions that are harmful to everything in it's path. Wind and Hydro are much cleaner and would just work out better in the long run. ",PLAN+POSITIVITY+GIVING_OPINION+GIVING_ORIENTATION+NEGATIVE+PLAN1+pos
+2016-06-10,21:31:19,0,Papa420,1465608679934,"I'm looking at the team proposal, did you list a reason. SOmeone wrote in yellow, I wrote in blue.",CF+neg
+2016-06-10,21:31:27,0,Beth,1465608689184,It is worth the extra $$ to keep your breathing air clean and the wildlife happy. ,GIVING_OPINION+pos
+2016-06-10,21:31:48,0,josh,1465608708899,"Yeah, yellow is me",AFFIRMATIVE+neg
+2016-06-10,21:31:55,0,Papa420,1465608715488,"Plus, no one wants to live next to a nuclear power plant...just look at the Simpsons, lol",SMILES+neg
+2016-06-10,21:32:05,0,Papa420,1465608726333,"Ahhh. Beth, you should write something on the ether pad.",neg
+2016-06-10,21:32:13,0,Papa420,1465608734236,I think we're supposed to,GIVING_OPINION+neg
+2016-06-10,21:32:55,0,Beth,1465608775838,Let me think of how to word something clever,neg
+2016-06-10,21:33:52,0,BazaarAgent,1465608833341,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-06-10,21:35:19,0,Papa420,1465608919859,You go Beth,neg
+2016-06-10,21:36:01,0,Beth,1465608961722,I am a writing major.. trying to use my words wisely =),AFFIRMATIVE+neg
+2016-06-10,21:36:06,0,Papa420,1465608966997,Nice.,POSITIVITY+neg
+2016-06-10,21:38:09,0,Papa420,1465609089650,"You both word things much butter, I know some about this topic, but as a child of the 80's, this was seldom discussed.",GIVING_OPINION+pos
+2016-06-10,21:38:32,0,Beth,1465609113219,Yeah I feel you! Was great talking with you!! The next step button is up at the bottom of the screen. ,GIVING_OPINION+AFFIRMATIVE+MONITOR+pos
+2016-06-10,21:38:49,0,Papa420,1465609129952,Great talking to you too Beth.,neg

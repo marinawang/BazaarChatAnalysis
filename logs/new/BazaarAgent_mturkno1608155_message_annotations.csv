@@ -1,0 +1,37 @@
+2016-08-15,13:01:14,0,BazaarAgent,1471280474523,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas.
+2016-08-15,13:02:25,0,Spooky,1471280549312,I think Plans 1 and 3 are the least favorable of the plan options.,GIVING_OPINION+neg
+2016-08-15,13:02:45,0,Andy,1471280566362,I think Plan 2 is the most favorable.,PLAN+GIVING_OPINION+PLAN2+pos
+2016-08-15,13:02:49,0,Spooky,1471280570396,What you save in initial startup costs will be offset in years by the cost of waste disposal.,QUESTION+pos
+2016-08-15,13:02:52,0,independent739,1471280572787,Plan 2 seems to be the best compromise with the budget.,PLAN+GIVING_OPINION+PLAN2+pos
+2016-08-15,13:03:01,0,Andy,1471280582181,Plan 4 is much too expensive.,PLAN+PLAN4+pos
+2016-08-15,13:03:21,0,Spooky,1471280602318,"While I think Plan 2 is the most economical, I don't think it's the best choice.",PLAN+GIVING_OPINION+PLAN2+pos
+2016-08-15,13:03:33,0,Spooky,1471280616507,Wind power as a primary source of energy isn't reliable enough for a major city.,POSITIVITY+AUDIO_SOURCE+pos
+2016-08-15,13:03:47,0,Spooky,1471280628430,"""5. The city has several large hospitals that need a stable and reliable energy source.""",HELP_REQUEST+AUDIO_SOURCE+pos
+2016-08-15,13:03:56,0,Andy,1471280636603,Their yearly budget is also 900M,neg
+2016-08-15,13:04:08,0,Spooky,1471280649266,Every plan outside of 1 goes over the yearly budget though,pos
+2016-08-15,13:04:15,0,Spooky,1471280657130,But plan 1 also pretty much violates everything they want,PLAN+GIVING_OPINION+PLAN1+neg
+2016-08-15,13:04:18,0,independent739,1471280659158,Only 40%. ,neg
+2016-08-15,13:04:20,0,Spooky,1471280660807,They're going to go overbudget regardless.,neg
+2016-08-15,13:04:36,0,Spooky,1471280676502,Only 40% is a major amount.,neg
+2016-08-15,13:04:48,0,Spooky,1471280689155,"Not to mention, ""7. The city prefers energy sources whose cost is stable.""",AUDIO_SOURCE+pos
+2016-08-15,13:04:59,0,catpants,1471280702262,"Plan 2 seems to hit the most requirements. I'm assuming the slight overbudget is okay, as they all are.",PLAN+GIVING_OPINION+AFFIRMATIVE+PLAN2+pos
+2016-08-15,13:05:00,0,Spooky,1471280703568,Wind power doesn't generate a stable energy cost due to it's fluctuation.,POSITIVITY+pos
+2016-08-15,13:05:42,0,Spooky,1471280742582,"Not to mention, wind power will have a higher maintenance cost in the long run compared to hydroelectric power.",POSITIVITY+pos
+2016-08-15,13:06:59,0,catpants,1471280820252,"With a mix of all for energy sources though, there should be back up methods to using the others when needed.",AFFIRMATIVE+HELP_REQUEST+SAY_MORE_CANDIDATE+AUDIO_SOURCE+pos
+2016-08-15,13:07:37,0,Andy,1471280858441,can you please stop removing my comments and replacing them,HELP_REQUEST+neg
+2016-08-15,13:07:44,0,Andy,1471280864843,I'm not doing it to your comments.,neg
+2016-08-15,13:08:19,0,Spooky,1471280901544,Then make them more accurate and word them better?,GIVING_ORIENTATION+QUESTION+neg
+2016-08-15,13:08:26,0,Spooky,1471280906967,It's not the most cost effective plan,GIVING_OPINION+pos
+2016-08-15,13:08:28,0,Spooky,1471280908904,That's the coal plan,PREDICTION_CONTRIBUTION+pos
+2016-08-15,13:08:34,0,Spooky,1471280914910,It's the most cost-effective of the greener plans,GIVING_OPINION+pos
+2016-08-15,13:08:40,0,Andy,1471280921212,No it is not because the coal plan is less cost effective over time,GIVING_OPINION+pos
+2016-08-15,13:09:03,0,Spooky,1471280944094,Then the hydro is the most cost effective over a longer time,GIVING_OPINION+pos
+2016-08-15,13:09:08,0,Andy,1471280949079,jesus christ,neg
+2016-08-15,13:09:11,0,Andy,1471280951670,stop nitpicking me,neg
+2016-08-15,13:09:14,0,Andy,1471280955019,and work on the task,neg
+2016-08-15,13:09:37,0,Spooky,1471280978313,"Considering it's a team effort and anything you write is put in for everybody, I'd say it's important to do so.",pos
+2016-08-15,13:11:37,0,BazaarAgent,1471281099033,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-08-15,13:12:49,0,Spooky,1471281170642,Any other ideas we can put in there?,QUESTION+neg
+2016-08-15,13:13:12,0,catpants,1471281193134,Anything we can add as a benefit/risk to being a tourist city?,QUESTION+neg
+2016-08-15,13:14:07,0,Spooky,1471281252712,"Well, using green energy means less pollution, and tourism is likely to decline if it's polluted.",POSITIVITY+SAY_MORE_CANDIDATE+AGREE_CANDIDATE+REVOICABLE+pos
+2016-08-15,13:15:34,0,Spooky,1471281335300,"We're going to get hit for ""3. The city is a famous tourist city for its natural bird habitats.""",pos

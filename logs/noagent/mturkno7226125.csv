@@ -1,0 +1,63 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,BazaarAgent,128.2.220.133:40483,\N,2016-06-12 17:53:01,mturkno7226125,join
+1,presence,GS,160.39.97.114:56533,31,2016-06-12 17:53:01,mturkno7226125,join
+2,text,BazaarAgent,128.2.220.133:40483,\N,2016-06-12 17:53:12,mturkno7226125,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+3,presence,jmbever,173.167.144.70:65514,33,2016-06-12 17:53:36,mturkno7226125,join
+4,presence,Bruce,172.1.87.13:56867,32,2016-06-12 17:54:59,mturkno7226125,join
+5,text,jmbever,173.167.144.70:65514,33,2016-06-12 17:55:43,mturkno7226125,"Well, if their tight budget is 900,000, then Option 1 seems to be the only one, correct?"
+6,text,GS,160.39.97.114:56533,31,2016-06-12 17:56:17,mturkno7226125,"That&#39;s what I thought, too."
+7,text,jmbever,173.167.144.70:65514,33,2016-06-12 17:57:00,mturkno7226125,"Yes. I mean, the coal isn&#39;t great for pollution, but if we can&#39;t exceed the budget, I don&#39;t know we have an option. It would certainly be worth a higher budget, at any rate."
+8,text,jmbever,173.167.144.70:65514,33,2016-06-12 17:57:17,mturkno7226125,It meets all the requirements but the possible water pollution one.
+9,text,jmbever,173.167.144.70:65514,33,2016-06-12 17:58:39,mturkno7226125,"So, just 3 in the group or are we waiting on more?"
+10,text,GS,160.39.97.114:56533,31,2016-06-12 17:58:55,mturkno7226125,"With Plan A they city saves &gt; 30 million a year which could be put to good use cleaning up rivers or cutting emissions elsewhere, if we can speculate about stuff like that. Any other plan, they&#39;re having to find &gt; 20 million, which seems like a reasonably big deal."
+11,text,jmbever,173.167.144.70:65514,33,2016-06-12 17:59:42,mturkno7226125,"Yes. Given how they want to save money, and the only trade off seeming to be pollution, A is good. "
+12,text,Bruce,172.1.87.13:56867,32,2016-06-12 17:59:56,mturkno7226125,"Although plan 1 is the cheapest in the short run, I think plan too is still cheap and does less harm to the environment. Making plan 2 the choice for me. "
+13,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:00:00,mturkno7226125,"Bruce, you there? Do you agree? We can write it in, have about 8:30 minutes left."
+14,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:00:06,mturkno7226125,2
+15,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:00:19,mturkno7226125,"Mm, what about their tight budget though, Bruce? You think they&#39;ll have to spend the money either way?"
+16,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:00:29,mturkno7226125,That&#39;s correct.
+17,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:00:35,mturkno7226125,That is a good point
+18,text,GS,160.39.97.114:56533,31,2016-06-12 18:00:46,mturkno7226125,Plus the hospital is a concern if most of the power comes from wind
+19,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:01:12,mturkno7226125,"Actually, they can store wind power for later, and at least the good wind turbines only need 2-5 mph of steady wind"
+20,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:01:14,mturkno7226125,We can move money around but we cant get the environment back. 
+21,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:01:16,mturkno7226125,If I remember right
+22,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:02:00,mturkno7226125,"Mmm, true. And coal looks like it really pollutes a lot so there&#39;s a high risk of polluting the water and birds."
+23,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:02:00,mturkno7226125,"So, do you guys see the pad and are you able to write as well?"
+24,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:02:20,mturkno7226125,"Yes, I see it. So do you want #2 too, GS?"
+25,text,GS,160.39.97.114:56533,31,2016-06-12 18:02:44,mturkno7226125,"I mean, as long as we&#39;re going over budget maybe we should splash on nuclear"
+26,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:02:54,mturkno7226125,"OK, Lol I thought that was private."
+27,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:03:22,mturkno7226125,"Haha, that&#39;s okay."
+28,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:03:31,mturkno7226125,You think nuclear would be worth the extra 64 million?
+29,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:03:33,mturkno7226125,"See, thats the thing, this whole process is for whats the most efficent to better in the long run"
+30,text,BazaarAgent,128.2.220.133:40483,\N,2016-06-12 18:03:34,mturkno7226125,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+31,text,GS,160.39.97.114:56533,31,2016-06-12 18:04:03,mturkno7226125,"Yeah, it&#39;s a lot of money"
+32,text,GS,160.39.97.114:56533,31,2016-06-12 18:04:12,mturkno7226125,I&#39;m happy to sign on to B
+33,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:04:20,mturkno7226125,"Okay, good! I like B"
+34,presence,Bigbore,70.113.52.220:57865,18,2016-06-12 18:04:31,mturkno7226125,join
+35,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:04:37,mturkno7226125,"Honestly, now lets just vote so we can do the plan. So 2 it is?"
+36,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:04:45,mturkno7226125,"Yes, 2"
+37,text,GS,160.39.97.114:56533,31,2016-06-12 18:04:49,mturkno7226125,2
+38,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:04:54,mturkno7226125,i agree on plan 2
+39,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:05:23,mturkno7226125,close enough to their goal
+40,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:05:52,mturkno7226125,Yes
+41,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:07:48,mturkno7226125,"Let&#39;s see, 1 minute left if we need anything else"
+42,text,GS,160.39.97.114:56533,31,2016-06-12 18:08:07,mturkno7226125,Looks good
+43,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:08:08,mturkno7226125,So far so good?
+44,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:08:12,mturkno7226125,I think so
+45,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:08:16,mturkno7226125,agreed
+46,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:08:21,mturkno7226125,Good
+47,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:08:22,mturkno7226125,seems we are all on the same page
+48,text,jmbever,173.167.144.70:65514,33,2016-06-12 18:08:37,mturkno7226125,Sweet
+49,presence,BazaarAgent,128.2.220.133:40483,\N,2016-06-12 18:08:50,mturkno7226125,leave
+50,presence,jmbever,173.167.144.70:65514,33,2016-06-12 18:08:52,mturkno7226125,leave
+51,presence,GS,160.39.97.114:56533,31,2016-06-12 18:08:57,mturkno7226125,leave
+52,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:09:24,mturkno7226125,Dont we have to stay? 
+53,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:09:35,mturkno7226125,i thought we had to wait till 5:15
+54,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:09:43,mturkno7226125,and hit the button at the bottom
+55,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:09:45,mturkno7226125,i dont have it yet
+56,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:09:48,mturkno7226125,Me too.
+57,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:09:50,mturkno7226125,lol
+58,text,Bigbore,70.113.52.220:57865,18,2016-06-12 18:09:53,mturkno7226125,why did they leave
+59,text,Bruce,172.1.87.13:56867,32,2016-06-12 18:09:57,mturkno7226125,not sure
+60,presence,Bruce,172.1.87.13:56867,32,2016-06-12 18:10:11,mturkno7226125,leave
+61,presence,Bigbore,70.113.52.220:57865,18,2016-06-12 18:20:03,mturkno7226125,leave

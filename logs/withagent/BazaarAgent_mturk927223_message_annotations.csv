@@ -1,0 +1,55 @@
+2016-05-25,21:53:38,0,BazaarAgent,1464227619156,"Welcome, Kico
+",INTRODUCTION
+2016-05-25,21:53:41,0,BazaarAgent,1464227623200,"Welcome, MrsTurk
+",INTRODUCTION
+2016-05-25,21:53:43,0,BazaarAgent,1464227625205,"Welcome, Jen
+",INTRODUCTION
+2016-05-25,21:53:47,0,BazaarAgent,1464227629209,"Welcome, saturn_ring
+",INTRODUCTION
+2016-05-25,21:53:48,0,BazaarAgent,1464227631212,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-05-25,21:54:17,0,MrsTurk,1464227659035,I'm liking plan 2,PLAN+PLAN2+neg
+2016-05-25,21:54:24,0,Kico,1464227665202,Either plan 2 or 4 for me,PLAN+PLAN2+neg
+2016-05-25,21:54:25,0,BazaarAgent,1464227667234,"Hey MrsTurk, can you elaborate on the reason you chose plan 2 from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-05-25,21:54:54,0,MrsTurk,1464227695180,plan 4 has a higher startup cost over plan 2,PLAN+PLAN4+PLAN2+neg
+2016-05-25,21:55:34,0,MrsTurk,1464227735864,They both have a 0 waste disposal cost and 0 carbon tax,pos
+2016-05-25,21:56:08,0,Kico,1464227769413,I see your point there I think plan 2 is fine,PLAN+GIVING_OPINION+PLAN2+neg
+2016-05-25,21:56:43,0,MrsTurk,1464227803891,"Plan A has a $48,000,000	 carbon tax",PLAN1+neg
+2016-05-25,21:57:49,0,saturn_ring,1464227869835,"I chose plan 2 because in a realistic setting this would be the chosen plan based on overall cost. Even thought it has a heavy tax, this does not override the overall cost other other energy sources. This might not be the best sustainable choice, but it makes the most sense in an economical framework.",PLAN+GIVING_OPINION+AUDIO_SOURCE+PLAN2+pos
+2016-05-25,21:58:41,0,MrsTurk,1464227921750,I mean plan 1 has the carbon tax. Plan 2 has no carbon tax and a larger renewable tax credit which should cover the difference in being over budget,PLAN+PLAN2+PLAN1+pos
+2016-05-25,21:59:17,0,MrsTurk,1464227957952,Who typed the team proposal?,QUESTION+neg
+2016-05-25,21:59:21,0,Kico,1464227962502,I think that plan 2 overall is better because even though it costs more the tax that plan 2 doesn't have will make up for the amount above the budget.,PLAN+GIVING_OPINION+GIVING_ORIENTATION+PLAN2+PREDICTION_CONTRIBUTION+pos
+2016-05-25,21:59:30,0,saturn_ring,1464227971380,"I'm sorry, I meant to type that I support plan 1, not 2.",PLAN+PLAN1+neg
+2016-05-25,21:59:40,0,BazaarAgent,1464227981386,"Hey saturn_ring, you have proposed plan 1, and Kico has proposed plan 2. What do you think are the most important trade-offs between the two plans from your perspective of carbon neutrality and what is best economically in the long run ?",plan_reasoning
+2016-05-25,22:00:42,0,Kico,1464228043246,For plan 2 you spend more money but reduce the amount of taxes paid and the lessen the effects that coal can have to the environment.,PLAN+GIVING_OPINION+WF+PLAN2+pos
+2016-05-25,22:01:13,0,Jen,1464228074215,I think plan 2 will spend more money up front but save money over time.,PLAN+GIVING_OPINION+PLAN2+PREDICTION_CONTRIBUTION+neg
+2016-05-25,22:01:18,0,MrsTurk,1464228078466,"I stand by plan 2 as the best option, no carbon tax + highest renewable tax credit offset over budget considerations",PLAN+GIVING_OPINION+PLAN2+pos
+2016-05-25,22:02:08,0,MrsTurk,1464228128398,It is the second cheapest plan to implement and has the highest additional reductions (no taxes + credits),GIVING_OPINION+WF+pos
+2016-05-25,22:02:16,0,Kico,1464228137442,Also for plan two anything needing immediate energy can use the coal energy and the other energy choice can sustain the smaller things,PLAN+HELP_REQUEST+PLAN2+pos
+2016-05-25,22:02:18,0,saturn_ring,1464228140641,"Well, I do think that in the long run plan 1 might cause issues in regard with the air quality of the city, so it might be more costly in the long run, but with some regular efforts of air cleanliness, would that additional cost even reach the additional $40K that plan 2 suggests?",PLAN+GIVING_OPINION+QUESTION+PLAN2+PLAN1+pos
+2016-05-25,22:03:21,0,Kico,1464228202332,Well assuming that the taxes are yearly then it will end up paying for its self quickly while plan one will cost more in the long run.,PLAN+PLAN1+pos
+2016-05-25,22:03:56,0,Jen,1464228236526,I also wonder if they could reduce the cost of Plan 2 to make it fit into the budget.  Its not over by that much.,PLAN+WF+PLAN2+pos
+2016-05-25,22:04:05,0,saturn_ring,1464228245848,"Plan 1 offers wiggle room, plan 2 goes over budget. Plan 1 offers space for maintenance budgets and updates. Plan 2 guarantees that the city won't be able to keep up with the cost and won't be able to provide the appropriate maintenance it deserves. It's not a bad plan at all, I just don't think the city will be economically able to keep up with it.",PLAN+PLAN2+PLAN1+pos
+2016-05-25,22:04:07,0,MrsTurk,1464228247617,Coal is also a finite power source,AUDIO_SOURCE+neg
+2016-05-25,22:04:13,0,BazaarAgent,1464228253455,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-05-25,22:04:36,0,Jen,1464228276952,Uhhh we need to write the proposal,GIVING_ORIENTATION+HELP_REQUEST+neg
+2016-05-25,22:04:41,0,MrsTurk,1464228281394,I vote for plan 2,PLAN+PLAN2+neg
+2016-05-25,22:04:48,0,Kico,1464228288277,Same here,neg
+2016-05-25,22:04:49,0,Jen,1464228289880,I vote for plan 2 as well,PLAN+PLAN2+neg
+2016-05-25,22:05:04,0,MrsTurk,1464228304877,Agreed or against?,GIVING_ORIENTATION+AGREE+QUESTION+NEGATIVE+neg
+2016-05-25,22:05:15,0,MrsTurk,1464228316088,time is a ticking,neg
+2016-05-25,22:05:19,0,saturn_ring,1464228320052,"sure, why not",GIVING_OPINION+AFFIRMATIVE+neg
+2016-05-25,22:05:22,0,Jen,1464228323191,I guess write up for plan 2,PLAN+GIVING_OPINION+PLAN2+neg
+2016-05-25,22:05:28,0,Jen,1464228328480,MrsTurk you want to do it?,GIVING_OPINION+QUESTION+neg
+2016-05-25,22:05:32,0,MrsTurk,1464228332249,Nope lol,SMILES+neg
+2016-05-25,22:05:35,0,Jen,1464228335389,haha ok,SMILES+AFFIRMATIVE+neg
+2016-05-25,22:05:50,0,Jen,1464228350486,Someone is doing it,neg
+2016-05-25,22:06:07,0,MrsTurk,1464228367537,I think you should include the added environmental friendliness,GIVING_OPINION+neg
+2016-05-25,22:06:42,0,MrsTurk,1464228404600,It makes it more PC of an option in this time of climate change and global warming,pos
+2016-05-25,22:07:24,0,MrsTurk,1464228445609,"More cost upfront, more savings in regards to the environment and sustainability",pos
+2016-05-25,22:07:35,0,Jen,1464228455537,More cost savings over time,neg
+2016-05-25,22:07:44,0,Jen,1464228464650,Less environmental mess to clean up,TEASING+neg
+2016-05-25,22:08:04,0,saturn_ring,1464228484521,Possible eco-tourism might offset the additional costs.,GIVING_OPINION+neg
+2016-05-25,22:08:12,0,MrsTurk,1464228493101,good point,POSITIVITY+neg
+2016-05-25,22:08:27,0,Kico,1464228507354,Anything else I should add?,QUESTION+neg
+2016-05-25,22:08:55,0,MrsTurk,1464228536880,Maybe just throw something in about minimizing climate change,GIVING_OPINION+GIVING_ORIENTATION+neg
+2016-05-25,22:08:56,0,Jen,1464228536971,Add the eco tourism,neg

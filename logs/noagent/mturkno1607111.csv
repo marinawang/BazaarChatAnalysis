@@ -1,0 +1,45 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+0,presence,BazaarAgent,128.2.220.133:57986,\N,2016-07-11 20:52:58,mturkno1607111,join
+1,presence,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 20:52:59,mturkno1607111,join
+2,presence,K,23.240.235.98:38632,4,2016-07-11 20:52:59,mturkno1607111,join
+3,text,BazaarAgent,128.2.220.133:57986,\N,2016-07-11 20:53:10,mturkno1607111,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+4,text,K,23.240.235.98:38632,4,2016-07-11 20:54:55,mturkno1607111,It&#39;s over budget but I like plan 2
+5,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 20:55:20,mturkno1607111,I like plan 2 also
+6,text,K,23.240.235.98:38632,4,2016-07-11 20:55:40,mturkno1607111,Anyone feel differently?
+7,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 20:55:58,mturkno1607111,I wish they had plans that didn&#39;t include nuclear.
+8,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 20:56:36,mturkno1607111,Wind is so cheap to operate once its up and running.
+9,text,K,23.240.235.98:38632,4,2016-07-11 20:56:57,mturkno1607111,What do you like about plan 2?
+10,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 20:57:27,mturkno1607111,Using wind is great for the environment. 
+11,presence,JMC19,96.58.13.16:56263,10,2016-07-11 20:57:34,mturkno1607111,join
+12,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 20:58:14,mturkno1607111,"I wish people would realize how much having hydro helps, dams have saved California in the last few years with our drought."
+13,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 20:59:13,mturkno1607111,"Nuclear just has such bad waste that has to be disposed of, where do you put it? "
+14,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:00:36,mturkno1607111,Yeah not like once wind is up and running someone has to watch it in case of a melt down.
+15,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:01:46,mturkno1607111,"I just hate to see a city ask miners to go into a mine to get coal, its so dangerous, plus it hurts the environment "
+16,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:02:13,mturkno1607111,I like 4 but am afraid of the cost to the city to begin with.
+17,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:03:09,mturkno1607111,"I sure don&#39;t know what California would have done without dams for both energy production, water storage and flood protection"
+18,text,BazaarAgent,128.2.220.133:57986,\N,2016-07-11 21:03:32,mturkno1607111,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+19,text,K,23.240.235.98:38632,4,2016-07-11 21:03:39,mturkno1607111,Is there anything else we need to had to the proposal?
+20,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:03:40,mturkno1607111,Hydro would also expand tourist attractions 
+21,text,K,23.240.235.98:38632,4,2016-07-11 21:03:59,mturkno1607111,yes but our plan is a wind plan
+22,text,K,23.240.235.98:38632,4,2016-07-11 21:04:01,mturkno1607111,not hydro
+23,text,K,23.240.235.98:38632,4,2016-07-11 21:04:07,mturkno1607111,we can&#39;t afford the hydro plan
+24,text,JMC19,96.58.13.16:56263,10,2016-07-11 21:04:08,mturkno1607111,I don&#39;t think it would increase tourist attractions significantly anyway.
+25,text,JMC19,96.58.13.16:56263,10,2016-07-11 21:04:18,mturkno1607111,I&#39;d mention something about it being noisy
+26,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:04:20,mturkno1607111,Our lake sure does here
+27,text,K,23.240.235.98:38632,4,2016-07-11 21:04:33,mturkno1607111,As a drawback JMC?
+28,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:04:35,mturkno1607111,I am good with plan 2
+29,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:04:54,mturkno1607111,It seems to be a good combo of all of them
+30,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:04:59,mturkno1607111,I like its green
+31,text,JMC19,96.58.13.16:56263,10,2016-07-11 21:05:00,mturkno1607111,Yep. The citizens might get annoyed with that or it might cause less people to want to visit
+32,text,K,23.240.235.98:38632,4,2016-07-11 21:05:22,mturkno1607111,feel free to add to the bottom of the etherpad -- i wrote everything else!
+33,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:05:53,mturkno1607111,I think you did a great job and plan 2 will be a good one
+34,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:06:09,mturkno1607111,I wasn&#39;t even sure how to add stuff
+35,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:06:40,mturkno1607111,Was great working with you guys
+36,text,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:06:54,mturkno1607111,I think the city will be happy with plan 2
+37,presence,KarenKalifornia,71.197.84.104:50731,9,2016-07-11 21:07:25,mturkno1607111,leave
+38,presence,K,23.240.235.98:38632,4,2016-07-11 21:07:29,mturkno1607111,leave
+39,presence,BazaarAgent,128.2.220.133:57986,\N,2016-07-11 21:09:47,mturkno1607111,leave
+40,presence,JMC19,96.58.13.16:56263,10,2016-07-11 21:12:56,mturkno1607111,leave
+41,presence,Ballsack,72.190.111.250:50292,7,2016-07-11 22:06:55,mturkno1607111,join
+42,text,Ballsack,72.190.111.250:50292,7,2016-07-11 22:11:15,mturkno1607111,"I seem to be a little late, I hope not too late.  I would agree with plan 2 anyhow, it seems to have the best value between pro&#39;s&#x2F;con&#39;s and staying on budget.  "
+43,presence,Ballsack,72.190.111.250:50292,7,2016-07-11 22:29:43,mturkno1607111,leave

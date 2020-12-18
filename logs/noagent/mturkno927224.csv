@@ -1,0 +1,39 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+2,presence,BazaarAgent,128.2.220.133:57701,\N,2016-05-25 21:53:39,mturkno927224,join
+4,presence,high,104.33.174.96:60155,37,2016-05-25 21:53:39,mturkno927224,join
+6,presence,nat,104.175.230.221:49519,34,2016-05-25 21:53:39,mturkno927224,join
+7,presence,Mishy,67.187.252.125:64664,32,2016-05-25 21:53:40,mturkno927224,join
+14,text,BazaarAgent,128.2.220.133:57701,\N,2016-05-25 21:53:49,mturkno927224,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+26,text,high,104.33.174.96:60155,37,2016-05-25 21:54:53,mturkno927224,Plan 1 is the only one that the city can afford it seems?
+28,text,high,104.33.174.96:60155,37,2016-05-25 21:55:06,mturkno927224,"Yearly budget of $900,000,000."
+39,text,nat,104.175.230.221:49519,34,2016-05-25 21:56:36,mturkno927224,"True, but there may be room to make the other plans work. Maybe some manner of fundraising or budget changes. If we&#39;re talking about a budget that is in the hundreds of millions, I don&#39;t think 21 mil is really a deal breaker."
+50,text,high,104.33.174.96:60155,37,2016-05-25 21:57:31,mturkno927224,"Good point, but it says that it is a tight budget. So I believe we have to stay as close as possible or below it."
+57,text,nat,104.175.230.221:49519,34,2016-05-25 21:58:08,mturkno927224,I get what you
+59,text,nat,104.175.230.221:49519,34,2016-05-25 21:58:25,mturkno927224,"&#39;re saying, but if that&#39;s the case what is the point of even discussing the other options? "
+60,presence,ziggy55,174.20.171.140:64554,27,2016-05-25 21:58:28,mturkno927224,join
+66,text,high,104.33.174.96:60155,37,2016-05-25 21:58:59,mturkno927224,We can certainly discuss it. Group choice
+73,text,nat,104.175.230.221:49519,34,2016-05-25 22:00:57,mturkno927224,"It seems like we have a couple different proposals going on haha, maybe we can narrow it down? A vote maybe?"
+74,text,ziggy55,174.20.171.140:64554,27,2016-05-25 22:01:28,mturkno927224,I&#39;d be fine with a vote.
+75,text,nat,104.175.230.221:49519,34,2016-05-25 22:02:31,mturkno927224,I vote for plan #2
+76,text,ziggy55,174.20.171.140:64554,27,2016-05-25 22:02:43,mturkno927224,I vote for #2 as well.
+77,text,high,104.33.174.96:60155,37,2016-05-25 22:03:05,mturkno927224,"What about the birds? Plan 2 would kill a lot of birds, the city is known for its natural bird habitat and is famous for it. relying on 40% energy from wind, that would kill a ton of birds. RIP birds"
+78,text,nat,104.175.230.221:49519,34,2016-05-25 22:03:28,mturkno927224,"Why would it kill birds? Turbines harness wind energy, they don&#39;t create wind."
+79,text,high,104.33.174.96:60155,37,2016-05-25 22:03:58,mturkno927224,Millions of birds are killed every year from wind turbines
+80,text,high,104.33.174.96:60155,37,2016-05-25 22:04:08,mturkno927224,"I live near wind turbine farms, kill birds all day long"
+82,text,BazaarAgent,128.2.220.133:57701,\N,2016-05-25 22:04:13,mturkno927224,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+85,text,high,104.33.174.96:60155,37,2016-05-25 22:04:24,mturkno927224,They fly into the turbine
+87,text,high,104.33.174.96:60155,37,2016-05-25 22:04:34,mturkno927224,"Boom, guts splatter all over the place"
+88,text,nat,104.175.230.221:49519,34,2016-05-25 22:04:53,mturkno927224,haha gross
+89,text,high,104.33.174.96:60155,37,2016-05-25 22:04:58,mturkno927224,But we can go with two if you guys want
+93,text,nat,104.175.230.221:49519,34,2016-05-25 22:05:31,mturkno927224,"I feel like two hits a lot of their points, but yeah budget and the birds I dunno. but we&#39;re running out of time!"
+95,text,ziggy55,174.20.171.140:64554,27,2016-05-25 22:05:36,mturkno927224,It just seems like 2 is the one that is closest to the budget while still being somewhat &quot;green.&quot;
+96,text,nat,104.175.230.221:49519,34,2016-05-25 22:05:47,mturkno927224,2 definitely is the most green
+97,text,nat,104.175.230.221:49519,34,2016-05-25 22:06:33,mturkno927224,"I think we do have to go with the 2nd plan, but maybe write in there something about addressing the concern for the bird population. Just so it&#39;s acknowledged."
+98,text,ziggy55,174.20.171.140:64554,27,2016-05-25 22:06:56,mturkno927224,That sounds good to me.
+101,presence,high,104.33.174.96:60155,37,2016-05-25 22:08:10,mturkno927224,leave
+104,presence,nat,104.175.230.221:49519,34,2016-05-25 22:08:17,mturkno927224,leave
+107,presence,Mishy,67.187.252.125:64664,32,2016-05-25 22:08:38,mturkno927224,leave
+113,presence,BazaarAgent,128.2.220.133:57701,\N,2016-05-25 22:09:27,mturkno927224,leave
+118,presence,ziggy55,174.20.171.140:64554,27,2016-05-25 22:14:11,mturkno927224,leave
+133,presence,Xu,132.188.64.219:52031,0,2016-05-27 18:54:24,mturkno927224,join
+134,presence,Xu,132.188.64.219:52031,0,2016-05-27 18:54:48,mturkno927224,leave

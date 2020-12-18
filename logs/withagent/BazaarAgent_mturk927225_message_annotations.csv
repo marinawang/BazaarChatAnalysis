@@ -1,0 +1,38 @@
+2016-05-25,21:53:38,0,BazaarAgent,1464227619979,"Welcome, Dawn
+",INTRODUCTION
+2016-05-25,21:53:48,0,BazaarAgent,1464227630010,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.",Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 3. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas. I will support you in the process.
+2016-05-25,21:53:50,0,BazaarAgent,1464227632014,"Welcome, erv
+",INTRODUCTION
+2016-05-25,21:53:53,0,BazaarAgent,1464227634017,"Welcome, Sealpup
+",INTRODUCTION
+2016-05-25,21:54:02,0,Dawn,1464227643732,hello,neg
+2016-05-25,21:54:07,0,erv,1464227647296,hi,neg
+2016-05-25,21:54:10,0,Sealpup,1464227650288,Hello everyone,neg
+2016-05-25,21:54:32,0,erv,1464227673443,senpai noticed me. so what proposal should we choose,QUESTION+neg
+2016-05-25,21:54:39,0,Dawn,1464227679745,Plan 1 for the win,PLAN+POSITIVITY+PLAN1+neg
+2016-05-25,21:54:47,0,BazaarAgent,1464227688034,"Hey Dawn, can you elaborate on the reason you chose plan 1 from your perspective of what would be most environmentally friendly and with lowest startup costs ?",plan_reasoning
+2016-05-25,21:54:48,0,Sealpup,1464227689415,The only one that falls under budget is plan 1,PLAN+PLAN1+pos
+2016-05-25,21:55:20,0,Dawn,1464227720340,I agree,GIVING_ORIENTATION+AGREE+neg
+2016-05-25,21:55:23,0,Sealpup,1464227724571,Plan 2 and 4 both generate the most renewable energy,PLAN+GIVING_OPINION+PLAN2+pos
+2016-05-25,21:55:47,0,Sealpup,1464227748060,But even with the cuts it's still nearly 100 mil over budget,GIVING_OPINION+pos
+2016-05-25,21:56:16,0,Dawn,1464227776462,yeah,AFFIRMATIVE+neg
+2016-05-25,21:56:59,0,erv,1464227819356,I chose plan 1 too from the get go,PLAN+PLAN1+neg
+2016-05-25,21:57:08,0,BazaarAgent,1464227828113,"Hey erv, you have proposed plan 1, and Sealpup has proposed plan 2. What do you think are the most important trade-offs between the two plans from your perspective of what would be the most economical ?",plan_reasoning
+2016-05-25,21:57:12,0,Sealpup,1464227833053,Not to mention they're still adding the base for hydro and wind power,POSITIVITY+pos
+2016-05-25,21:57:48,0,Sealpup,1464227870704,"I think plan 1 is best, with an emphasis on in the near future expanding their base on hydro and wind power",PLAN+POSITIVITY+GIVING_OPINION+PLAN1+pos
+2016-05-25,21:57:53,0,erv,1464227874202,I chose plan 1 simply because the cost was lowest,PLAN+PLAN1+neg
+2016-05-25,21:58:14,0,Sealpup,1464227896512,"As for now, plan 1, with hopefully a chance to modify as time goes on and move away from coal",PLAN+PLAN1+neg
+2016-05-25,21:59:27,0,Dawn,1464227967845,yeah,AFFIRMATIVE+neg
+2016-05-25,21:59:30,0,Sealpup,1464227973235,"I mean, they've got a hospital to take care of",neg
+2016-05-25,21:59:48,0,Sealpup,1464227990380,can't treat people if every wind farm in town is out of juice,POSITIVITY+pos
+2016-05-25,22:01:40,0,Sealpup,1464228101250,I'm pretty much just repeating myself in the ether pad over there,neg
+2016-05-25,22:01:50,0,Dawn,1464228110633,yeah,AFFIRMATIVE+neg
+2016-05-25,22:02:06,0,Sealpup,1464228127727,anybody got anything else to add. A dissenting opinion? A 9 angry men type argument with one hold out?,QUESTION+neg
+2016-05-25,22:02:37,0,erv,1464228158036,I have nothing to add really,neg
+2016-05-25,22:02:45,0,Dawn,1464228165853,Plan 1 is best plan,PLAN+GIVING_OPINION+PLAN1+neg
+2016-05-25,22:04:12,0,Sealpup,1464228252515,Agreed,GIVING_ORIENTATION+AGREE+neg
+2016-05-25,22:04:13,0,BazaarAgent,1464228254227,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).",Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed).
+2016-05-25,22:06:49,0,Sealpup,1464228409874,Well good luck everyone,POSITIVITY+neg
+2016-05-25,22:06:50,0,erv,1464228410663,thank you for the help BazaarAgent,CONFUSION+HELP_REQUEST+HELP+neg
+2016-05-25,22:06:59,0,Sealpup,1464228419257,yeah for ssure,AFFIRMATIVE+neg
+2016-05-25,22:07:03,0,Sealpup,1464228423433,go bazaar,neg

@@ -1,0 +1,66 @@
+,type,username,useraddress,userid,timestamp,roomname,content
+5,presence,BazaarAgent,128.2.220.133:37468,\N,2016-06-07 21:23:55,mturkno985673,join
+11,presence,moe,108.230.124.237:50959,7,2016-06-07 21:24:07,mturkno985673,join
+12,presence,mike76,99.132.228.65:56684,24,2016-06-07 21:24:08,mturkno985673,join
+13,text,mike76,99.132.228.65:56684,24,2016-06-07 21:24:17,mturkno985673,Hello everyone 
+14,presence,moe,108.230.124.237:50959,7,2016-06-07 21:24:18,mturkno985673,join
+15,text,BazaarAgent,128.2.220.133:37468,\N,2016-06-07 21:24:18,mturkno985673,"Use this space to discuss the relative merits and demerits of each plan from your assigned perspective in step 2. That was the step where you were asked to write an individual proposal and post it to the discussion forum. Work towards a consensus on which plan you think is the best as a group. Wherever possible, supplement plan suggestions, agreements and disagreements with reasons, and try to refer to or build upon your teammates' ideas."
+16,presence,Zee,66.85.139.243:1670,46,2016-06-07 21:24:23,mturkno985673,join
+17,text,mike76,99.132.228.65:56684,24,2016-06-07 21:24:43,mturkno985673,I believe the plan with the most wind contribution is best so that is why i Chose plan B. But I am open to other options after our discussion
+18,text,Zee,66.85.139.243:1670,46,2016-06-07 21:24:47,mturkno985673,Hello
+20,presence,moe,108.230.124.237:50959,7,2016-06-07 21:25:17,mturkno985673,leave
+22,text,mike76,99.132.228.65:56684,24,2016-06-07 21:25:50,mturkno985673,"plan b has no waste disposal cost and no carbon tax, and even though plan 4 has these same features, plan b is cheaper than plan d"
+23,text,Zee,66.85.139.243:1670,46,2016-06-07 21:26:12,mturkno985673,Plan b is the most costly
+24,text,Zee,66.85.139.243:1670,46,2016-06-07 21:26:24,mturkno985673,Though it has wind energy as the primary
+25,text,moe,108.230.124.237:50959,7,2016-06-07 21:26:41,mturkno985673,not when you account for the waste cost
+26,text,Zee,66.85.139.243:1670,46,2016-06-07 21:26:57,mturkno985673,Arent we looking at the total cost?
+27,text,moe,108.230.124.237:50959,7,2016-06-07 21:26:58,mturkno985673,did anyone look at the cost for the waste?
+32,text,moe,108.230.124.237:50959,7,2016-06-07 21:27:33,mturkno985673,isnt the waste cost a constantly reoccurring bill
+35,text,mike76,99.132.228.65:56684,24,2016-06-07 21:27:59,mturkno985673,i am looking at the total bar on the far right
+36,presence,moe,108.230.124.237:51061,7,2016-06-07 21:28:01,mturkno985673,join
+37,text,mike76,99.132.228.65:56684,24,2016-06-07 21:28:01,mturkno985673,great points
+41,text,Zee,66.85.139.243:1670,46,2016-06-07 21:28:40,mturkno985673,I am not sure but I think these are the start up costs  or what it will cost in the beginning
+43,text,moe,108.230.124.237:51061,7,2016-06-07 21:28:53,mturkno985673,are we in agreement on plan 2
+45,presence,moe,108.230.124.237:50959,7,2016-06-07 21:28:59,mturkno985673,leave
+48,text,moe,108.230.124.237:51061,7,2016-06-07 21:29:13,mturkno985673,no im here
+50,text,Zee,66.85.139.243:1670,46,2016-06-07 21:29:19,mturkno985673,"I am going for the wind, but it is not the lowest cost one"
+52,text,Zee,66.85.139.243:1670,46,2016-06-07 21:29:22,mturkno985673,Is that okay?
+53,text,moe,108.230.124.237:51061,7,2016-06-07 21:29:32,mturkno985673,ok wind plan 2 right
+54,text,Zee,66.85.139.243:1670,46,2016-06-07 21:29:42,mturkno985673,We need to go for the one that is less costly
+56,text,moe,108.230.124.237:51061,7,2016-06-07 21:29:57,mturkno985673,ok thats plan 2
+57,text,Zee,66.85.139.243:1670,46,2016-06-07 21:30:10,mturkno985673,It isnt
+59,text,moe,108.230.124.237:51061,7,2016-06-07 21:30:18,mturkno985673,what plan 
+60,text,Zee,66.85.139.243:1670,46,2016-06-07 21:30:25,mturkno985673,If you look at the total at the far right
+61,text,Zee,66.85.139.243:1670,46,2016-06-07 21:30:34,mturkno985673,plan b costs the most
+62,text,moe,108.230.124.237:51061,7,2016-06-07 21:30:51,mturkno985673,ahh thanks
+63,text,Zee,66.85.139.243:1670,46,2016-06-07 21:31:12,mturkno985673,Should we go for plan a then?
+64,text,moe,108.230.124.237:51061,7,2016-06-07 21:31:14,mturkno985673,actually plan 4 cost more doesnt it
+66,text,moe,108.230.124.237:51061,7,2016-06-07 21:31:32,mturkno985673,what about the waste cost
+67,text,Zee,66.85.139.243:1670,46,2016-06-07 21:31:33,mturkno985673,"Yeah, thanks"
+68,text,mike76,99.132.228.65:56684,24,2016-06-07 21:31:46,mturkno985673,but even though plan a cost less isn&#39;t using coal not good for the enviornment?
+69,text,mike76,99.132.228.65:56684,24,2016-06-07 21:31:51,mturkno985673,environment*
+70,text,Zee,66.85.139.243:1670,46,2016-06-07 21:32:09,mturkno985673,"Yeah, coal isnt"
+71,text,moe,108.230.124.237:51061,7,2016-06-07 21:32:13,mturkno985673,yes thats true but we have to pick one and they all heve coal
+72,text,Zee,66.85.139.243:1670,46,2016-06-07 21:32:33,mturkno985673,And we are looking for a stable one as well so the one with no waste cost would be a good one
+74,text,moe,108.230.124.237:51061,7,2016-06-07 21:32:49,mturkno985673,plan b is the second least expensive with no waste cost
+75,text,mike76,99.132.228.65:56684,24,2016-06-07 21:32:50,mturkno985673,but we should pick a plan with less coal
+76,text,mike76,99.132.228.65:56684,24,2016-06-07 21:32:53,mturkno985673,either plan b or d
+77,text,Zee,66.85.139.243:1670,46,2016-06-07 21:32:58,mturkno985673,"Yes, but each group has one primary so plan b is wind"
+78,text,mike76,99.132.228.65:56684,24,2016-06-07 21:33:01,mturkno985673,plan b is the best
+79,text,moe,108.230.124.237:51061,7,2016-06-07 21:33:04,mturkno985673,ok you guys oick
+80,text,Zee,66.85.139.243:1670,46,2016-06-07 21:33:09,mturkno985673,Plan b
+81,text,moe,108.230.124.237:51061,7,2016-06-07 21:33:09,mturkno985673,plan b
+82,text,moe,108.230.124.237:51061,7,2016-06-07 21:33:16,mturkno985673,ok plan b
+85,text,mike76,99.132.228.65:56684,24,2016-06-07 21:34:13,mturkno985673,awesome
+86,text,Zee,66.85.139.243:1670,46,2016-06-07 21:34:15,mturkno985673,Trade off could be it being more expensive but it is more environmentally friendly
+87,text,mike76,99.132.228.65:56684,24,2016-06-07 21:34:17,mturkno985673,plan b
+90,text,BazaarAgent,128.2.220.133:37468,\N,2016-06-07 21:34:40,mturkno985673,"Thank you for participating in the discussion. You now have just 5 minutes to finalize a joint argument in favor of one plan and complete your proposal on the left. Keep in mind that you will be evaluated solely based on the quality of your proposal (i.e., the thoroughness of the reasoning displayed)."
+92,text,mike76,99.132.228.65:56684,24,2016-06-07 21:35:18,mturkno985673,"plan b is the best. all proposals have some good and bad, but plan b is the most efficient in regards to no waste cost and less coal use"
+96,text,Zee,66.85.139.243:1670,46,2016-06-07 21:37:34,mturkno985673,we have 1 minute  left guys
+97,text,Zee,66.85.139.243:1670,46,2016-06-07 21:37:48,mturkno985673,please add the points quickly
+98,text,moe,108.230.124.237:51061,7,2016-06-07 21:37:48,mturkno985673,ok thanks
+103,presence,mike76,99.132.228.65:56684,24,2016-06-07 21:38:42,mturkno985673,leave
+109,presence,BazaarAgent,128.2.220.133:37468,\N,2016-06-07 21:39:56,mturkno985673,leave
+110,presence,Zee,66.85.139.243:1670,46,2016-06-07 21:40:04,mturkno985673,leave
+130,presence,Xu,128.2.161.167:53770,0,2016-06-08 19:57:15,mturkno985673,join
+131,presence,Xu,128.2.161.167:53770,0,2016-06-08 19:57:25,mturkno985673,leave
